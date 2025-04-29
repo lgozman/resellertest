@@ -9917,62 +9917,7 @@
     "option_color": [
       "White / Cloud Grey"
     ]
-  }
-},{
-  "product_id": "54883220357495",
-  "gtin": [],
-  "title": "Asics Gel Quantum 180 VIII - White Cloud Grey EU 39",
-  "description": "- Zustand: neu, ungetragen /n - Geliefert in Originalverpackung/Box /n - Gr\u00f6sse: EU 39 /n - Neupreis: CHF 189.00 /n/n Der Asics Gel Quantum 180 VIII in White Cloud Grey vereint modernes Design mit innovativer Performance-Technologie und ist die ideale Wahl f\u00fcr Sport und Alltag. Dank des bew\u00e4hrten GEL\u2122-D\u00e4mpfungssystems bietet dieser Sneaker erstklassigen Tragekomfort und optimale Stossabsorption \u2013 perfekt f\u00fcr lange Tage auf den Beinen.\n\n Das atmungsaktive Obermaterial aus technischem Mesh sorgt f\u00fcr ein frisches und angenehmes Fussklima, w\u00e4hrend die nahtlose Konstruktion Reibungen und Irritationen reduziert. Die dezente Farbgebung in White Cloud Grey verleiht dem Schuh einen vielseitigen Look, der sich m\u00fchelos mit sportlichen und urbanen Outfits kombinieren l\u00e4sst.\n\n Ob f\u00fcr das n\u00e4chste Workout oder als stilvolles Highlight im Alltag \u2013 der Asics Gel Quantum 180 VIII liefert kompromisslosen Komfort und erstklassige \u00c4sthetik.",
-  "images": [
-    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/asics-gel-quantum-180vii-eu38.jpg?v=1745532098",
-    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/asics-gel-quantum-180vii-eu38_1.jpg?v=1745532098",
-    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/asics-gel-quantum-180vii-eu38_2.jpg?v=1745532098",
-    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/asics-gel-quantum-180vii-eu38_3.jpg?v=1745532098",
-    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/asics-gel-quantum-180vii-eu38_4.jpg?v=1745532099",
-    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/asics-gel-quantum-180vii-eu38_5.jpg?v=1745532098"
-  ],
-  "price": "9900",
-  "stock": "1",
-  "attributes": {
-    "color": [
-      "White / Cloud Grey"
-    ],
-    "size": [
-      "39"
-    ],
-    "gender": [
-      "Unisex"
-    ],
-    "age": [
-      "Erwachsen"
-    ],
-    "model": [
-      "Gel-Quantum 180 VII"
-    ],
-    "brand": [
-      "ASICS"
-    ],
-    "stylecode": [
-      "1203A594-100"
-    ]
-  },
-  "category": "Freizeitschuhe tief",
-  "product_type": "Sneaker",
-  "condition": "new",
-  "variant": {
-    "group": [
-      "14890970022263"
-    ],
-    "option_size": [
-      "39"
-    ],
-    "image": [
-      "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/IMG_5734.png?v=1736969267"
-    ],
-    "option_color": [
-      "White / Cloud Grey"
-    ]
-  }
+  } 
 },{
   "product_id": "54883220390263",
   "gtin": "4570158199537",
