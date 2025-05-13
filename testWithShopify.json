@@ -1,4 +1,60 @@
 [{
+  "product_id": "55456980566282",
+  "gtin": "5059882517729",
+  "title": "Test only to test caching",
+  "description": "- Zustand: neu, ungetragen  \n - Geliefert in Originalverpackung/Box \n - Gr\u00f6sse: EU 37 \n - Neupreis: CHF 279.00 \n\n Erlebe h\u00f6chste Laufperformance mit dem Mizuno Wave Prophecy LS \u2013 Millennium Pack. Dieser innovative Laufschuh kombiniert modernste Mizuno Wave-Technologie mit einem eleganten Design, das f\u00fcr exzellente D\u00e4mpfung, Stabilit\u00e4t und reaktionsschnelle Energier\u00fcckgabe sorgt. Das leichte, atmungsaktive Obermaterial und die pr\u00e4zise Passform bieten optimalen Komfort \u2013 ideal f\u00fcr lange Strecken und intensive Trainings.\n\n Im Millennium Pack erh\u00e4ltst du exklusive Editionen, die anspruchsvollen L\u00e4ufern modernsten Style und maximale Performance bieten. Hebe dein Training auf ein neues Level mit einem Schuh, der deine Bestleistungen unterst\u00fctzt.",
+  "images": [
+    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/mizuno-wave-prophecy-ls-millennium-pack-eu385.jpg?v=1745534347",
+    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/mizuno-wave-prophecy-ls-millennium-pack-eu385_1.jpg?v=1745534347",
+    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/mizuno-wave-prophecy-ls-millennium-pack-eu385_2.jpg?v=1745534347",
+    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/mizuno-wave-prophecy-ls-millennium-pack-eu385_3.jpg?v=1745534347",
+    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/mizuno-wave-prophecy-ls-millennium-pack-eu385_4.jpg?v=1745534348",
+    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/mizuno-wave-prophecy-ls-millennium-pack-eu385_5.jpg?v=1745534347",
+    "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/mizuno-wave-prophecy-ls-millennium-pack-eu385_6.jpg?v=1745534347"
+  ],
+  "price": "14900",
+  "stock": "50",
+  "attributes": {
+    "color": [
+      "Black /Silver / Purple Haze"
+    ],
+    "size": [
+      "37"
+    ],
+    "gender": [
+      "Unisex"
+    ],
+    "age": [
+      "Erwachsen"
+    ],
+    "model": [
+      "Wave Prophecy LS"
+    ],
+    "brand": [
+      "Mizuno"
+    ],
+    "stylecode": [
+      "D1GA250701"
+    ]
+  },
+  "category": "Freizeitschuhe tief",
+  "product_type": "Sneaker",
+  "condition": "new",
+  "variant": {
+    "group": [
+      "14916018176375"
+    ],
+    "option_size": [
+      "37"
+    ],
+    "image": [
+      "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/IMG_5792.png?v=1739821122"
+    ],
+    "option_color": [
+      "Black /Silver / Purple Haze"
+    ]
+  }
+},{
   "product_id": "55456980566281",
   "gtin": "5059882517729",
   "title": "Mizuno Wave Prophecy LS - Millennium Pack EU 37",
