@@ -14,46 +14,9 @@
   ],
   "price": "14900",
   "stock": "50",
-  "attributes": {
-    "color": [
-      "Black /Silver / Purple Haze"
-    ],
-    "size": [
-      "37"
-    ],
-    "gender": [
-      "Unisex"
-    ],
-    "age": [
-      "Erwachsen"
-    ],
-    "model": [
-      "Wave Prophecy LS"
-    ],
-    "brand": [
-      "Mizuno"
-    ],
-    "stylecode": [
-      "D1GA250701"
-    ]
-  },
   "category": "Freizeitschuhe tief",
   "product_type": "Sneaker",
-  "condition": "new",
-  "variant": {
-    "group": [
-      "14916018176375"
-    ],
-    "option_size": [
-      "37"
-    ],
-    "image": [
-      "https://cdn.shopify.com/s/files/1/0744/0629/7910/files/IMG_5792.png?v=1739821122"
-    ],
-    "option_color": [
-      "Black /Silver / Purple Haze"
-    ]
-  }
+  "condition": "new"
 },{
   "product_id": "55456980566281",
   "gtin": "5059882517729",
