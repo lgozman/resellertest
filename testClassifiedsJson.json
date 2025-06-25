@@ -1,0 +1,81 @@
+[
+  {
+    "product_id": "10140984",
+    "gtin": 5609179184198,
+    "title": "Mini Sauger für's Fahrzeug",
+    "description": "Dieses kabellose Mini-Staubsauger ist nicht nur ein modernes Designobjekt aus hochwertigen Materialien in einer tollen neutralen Farbe, sondern verfügt auch noch über die doppelte Saugleistung ähnlicher tragbarer Geräte.\n\r\n Der Staubsauger hat eine Leistung von 70 Watt. Er ist ideal zum schnellen Reinigen von Verschmutzungen wie Tierhaare oder Krümeln, hat etwa die Größe einer 0.5 l Wasserflasche und wiegt nur 567g. Er lässt sich deshalb überall diskret verstauen und erreicht dank dem Fugensauger schwer zu erreichende Stellen im Auto und nicht nur.\n\r\n Dank der praktischen LED's am Mini-Sauger, ist sofort ersichtlich, wie viel Akku der Staubsauger noch hat.\n\r\n Er verfügt über einen waschbaren HEPA-Filter und einen ausziehbaren, ergonomischen und rutschfesten Griff und wird inklusive Aufbewahrungstasche, Sockel, Bürsten- und Fugensauger geliefert.\n\r\n Das Aufladen erfolgt über USB eine volle Ladung liefert bis zu 20 Minuten Strom.\n\r\n&nbsp;\n\r\n&nbsp;\n\r\nTechnische Daten:\n\r\n&nbsp;\n\r\n Betriebsspannung: 5V/2A Batterie: 11.1V/3x2000Mah/Li-Ion Nennleistung: 80W Saugkraft: 5200Pa (volle Leistung) Drehzahl: 35000 Rpm Ladezeit: ca. 4h Arbeitszeit: 20 Minuten LxBxH: 235x65x65mm Gewicht: 567g Vol. Staub Behälter:120ml Material: ABS+PC Farbe: Grau\n\r\n&nbsp;\n\r\nLieferumfang:\n\r\n&nbsp;\n\r\n Mini Sauger Bürstendüse Spaltdüse Aufbewahrungstasche Type-C Ladekabel\n\r\n&nbsp;\n\r\n&nbsp;\n\r\n&nbsp;\n\r\nProdukt-Video",
+    "images": [
+      "https://dinichance.ch/media/wbs/deals/image_1_8619.jpg"
+    ],
+    "price": "3200",
+    "stock": 2,
+    "condition": "like_new",
+    "specification": {
+      "category": "Reinigung Elektro",
+      "product_type": "Akkustaubsauger",
+      "attributes": [
+        {
+          "name": "weight",
+          "value": [
+            "567.00"
+          ]
+        },
+        {
+          "name": "depth",
+          "value": [
+            "253.00"
+          ]
+        },
+        {
+          "name": "height",
+          "value": [
+            "60.00"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "product_id": "10139508",
+    "gtin": 840276163616,
+    "title": "Contigo EASY CLEAN SS STRWBRY UNICORN Zubehör",
+    "description": "In Schultaschen auslaufende oder auf Autositze tropfende Flaschen gehören jetzt der Vergangenheit an. Die mit einem Pop-up-Strohhalm ausgestattete AUTOSPOUT™ Easy Clean Flasche wurde für die Abenteuer von Kindern entwickelt... und um die Nerven der Erwachsenen zu schonen. Es ist unschwer nachzuvollziehen, warum die AUTOSPOUT™ Easy Clean Flasche überall auf der Welt einen Platz in den Schultaschen erobert hat. Kinder haben Spass daran, den Strohhalm für müheloses einhändiges Trinken per Knopfdruck aufklappen zu lassen, und danach lässt man den Strohhalm wieder unter seiner Abdeckung verschwinden, um ihn vor Schmutz und Dreck zu schützen. Dank des tropffreien Ventils wird nichts verschüttet, selbst wenn die Flasche auf dem Kopf steht. Und die Reinigung? Gute Nachrichten: Die intelligent gestaltete Trinköffnung hat keine Ecken und Ritzen, in denen sich Schmutz und Dreck ansammeln könnten, und der Deckel lässt sich leicht abnehmen, um beim Reinigen alle Stellen zu erreichen. Alle Teile können im oberen Korb der Spülmaschine gereinigt werden. Contigo Kids Easy Clean ist BPA-frei und geruchsabweisend. Für Kinder ab 3 Jahren.",
+    "images": [
+      "https://dinichance.ch/media/wbs/deals/image_139508_1.jpg",
+      "https://dinichance.ch/media/wbs/deals/image_139508_2.jpg"
+    ],
+    "price": "2500",
+    "stock": 2,
+    "condition": "like_new",
+    "specification": {
+      "category": "Haushalt",
+      "product_type": "Zubehör Haushalt",
+      "attributes": [
+        {
+          "name": "weight",
+          "value": [
+            "330.00"
+          ]
+        },
+        {
+          "name": "width",
+          "value": [
+            "0.70"
+          ]
+        },
+        {
+          "name": "depth",
+          "value": [
+            "0.70"
+          ]
+        },
+        {
+          "name": "height",
+          "value": [
+            "2.29"
+          ]
+        }
+      ]
+    }
+  }
+]
