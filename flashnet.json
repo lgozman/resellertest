@@ -38,7 +38,7 @@
       "https://pob.flashnet.ch/3665905002114_3.jpg"
     ],
     "price": 3900,
-    "stock": "4",
+    "stock": "3",
     "specification": {
       "category": "Sport",
       "product_type": "Trinkflasche + Thermosflasche",
@@ -74,7 +74,7 @@
   {
     "product_id": "002138",
     "gtin": "3665905002138",
-    "title": "Massfit Intensity ",
+    "title": "Massfit Intensity",
     "description": "Massfit Intensity bietet ein hohes Mass an Leistung. Dieser Gürtel kombiniert EMS- und TENS-Technologien mit einem Schweißband. Der Riemen kann Sie ins Schwitzen bringen, um Ihnen zu helfen, dieses Bauchfett zu schlagen. Holen Sie sich den Luxus, Sixpack-Bauchmuskeln zu bauen, die Kalorien zu verbrennen und gleichzeitig eine bessere Körperhaltung zu haben.",
     "images": [
       "https://pob.flashnet.ch/3665905002138.jpg",
@@ -1220,21 +1220,11 @@
     "condition": "new"
   },
   {
-    "product_id": "10 00 0001",
+    "product_id": "10_00_0001",
     "gtin": "6941402717971",
     "title": "Sterilizer + Qi Charger",
     "description": "Rock Space Sterilizer mit wireless Charging. Halten Sie Ihre persönlichen Gegenstände vollständig frei von Viren, Keimen und Bakterien mit Rockspace, dem neuen Sterilisator mit ultraviolettem Licht (UV-C), der Ihnen eine 99,99-prozentige Sterilisation garantiert. WIRKUNGSVOLLE STERILISATION: Der Sterilisator Rockspace enthält zertifizierte und garantierte LED-Lampen, die ultraviolettes Licht (UV) in UV-C-Wellenlänge ausstrahlen, das für Viren, Keime und Bakterien schädlich ist. SCHNELLE STERILISATION: Mit Hi-Gens brauchen Sie nicht länger als 1 Minute, um eine vollständige Sterilisation zu erreichen! KABELLOSES LADEN MIT QI: Dank Qi Technolgie lässt Ihr Telefon kabellos Laden. AUTOMATISCHE STERILISATIONSBOX: die sich ideal für die Desinfektion kleinerer Gegenstände eignet, wie beispielsweise Smartphones, Schlüssel, Brillen, Ohrhörer und sonstige Dinge, die in die Box passen. UV-C HANDLAMPE, perfekt für die Sterilisation von grösseren Gegenständen. IMMER GRIFFBEREIT: Dank der praktisch",
-    "images": [
-      "https://pob.flashnet.ch/6941402717971.jpg",
-      "https://pob.flashnet.ch/6941402717971_1.jpg",
-      "https://pob.flashnet.ch/6941402717971_2.jpg",
-      "https://pob.flashnet.ch/6941402717971_3.jpg",
-      "https://pob.flashnet.ch/6941402717971_4.jpg",
-      "https://pob.flashnet.ch/6941402717971_5.jpg",
-      "https://pob.flashnet.ch/6941402717971_6.jpg",
-      "https://pob.flashnet.ch/6941402717971_7.jpg",
-      "https://pob.flashnet.ch/6941402717971_8.jpg"
-    ],
+    "images": [],
     "price": 1990,
     "stock": "23",
     "specification": {
@@ -1295,7 +1285,7 @@
       "https://pob.flashnet.ch/7090032640674_1.jpg"
     ],
     "price": 7900,
-    "stock": "3",
+    "stock": "2",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Radio",
@@ -2126,19 +2116,11 @@
     "condition": "new"
   },
   {
-    "product_id": "20 00 0176",
+    "product_id": "20_00_0176",
     "gtin": "5057964001111",
     "title": "TVM for HK Citation Bar Black",
     "description": "SoundXtra TV-Halterung für Harman Kardon Citation Bar. Die SoundXtra TV-Halterung für Harman Kardon Citation Bar wurde so konzipiert, dass sie problemlos an eine voll bewegliche und starre TV-Wandhalterung passt. Sie hält deine Citation Bar sicher unter dem Fernseher. Während sie sich mit dem Bildschirm in die richtige Postion drehen lässt (nur bei voll beweglichen Wandhaltern). Das bedeutet für dich, jederzeit optimaler Sound bei Musik, Filmen und mehr. Der TV-Aufsatz für die Citation Bar lässt sich leicht an Deinen Fernseher anbringen. Der bereits an einer vorhandenen Wandhalterung hängt. Es ist die perfekte Kombination für Fernseher von 40 bis 65 Zoll. Wie bei allen SoundXtra Produkten ist auch die Bildschirm-Halterung für die Citation Bar ein präzise gefertigtes Zubehörteil, hergestellt in Grossbritannien, einfach zu montieren und zudem mit dem kompletten Befestigungssatz für alle gängigen Fernseher ausgestattet.",
-    "images": [
-      "https://pob.flashnet.ch/5057964001111.jpg",
-      "https://pob.flashnet.ch/5057964001111_1.jpg",
-      "https://pob.flashnet.ch/5057964001111_2.jpg",
-      "https://pob.flashnet.ch/5057964001111_3.jpg",
-      "https://pob.flashnet.ch/5057964001111_4.jpg",
-      "https://pob.flashnet.ch/5057964001111_5.jpg",
-      "https://pob.flashnet.ch/5057964001111_6.jpg"
-    ],
+    "images": [],
     "price": 6900,
     "stock": "9",
     "specification": {
@@ -2149,13 +2131,11 @@
     "condition": "new"
   },
   {
-    "product_id": "20 00 0199",
+    "product_id": "20_00_0199",
     "gtin": "602519116564 ",
     "title": "SOUNDBAR Cantilever Mount",
     "description": "Wandhalterung für TV und Soundbar, die Soundleiste erscheint als Teil des Fernsehgeräts und sie bewegen sich zusammen.  Hervorragend für Cambridge Audio TVB2 oder Q Acoustics Media 4 Soundbar.   Bis zu 180 Grad drehbar mit 40-Zoll-TV, für Fernsehgeräte von 40 bis 65 Zoll mit VESA-Schnittstelle von 200 bis 600x400.",
-    "images": [
-      "https://pob.flashnet.ch/602519116564.jpg"
-    ],
+    "images": [],
     "price": 15000,
     "stock": "2",
     "specification": {
@@ -2166,16 +2146,11 @@
     "condition": "new"
   },
   {
-    "product_id": "20 00 0200",
+    "product_id": "20_00_0200",
     "gtin": "602519116557 ",
     "title": "SOUNDBAR TV Mount",
     "description": "Dank dieses ausgeklügelten Designs können Sie Ihre Soundbar an einer vorhandenen TV-Halterung befestigen, sodass Bildschirm und Ton vereint werden. Die Halterung passt hervorragend für den Cambridge Audio TVB2 oder den Q Acoustics Media 4. Die SoundXtra TV-Halterung für Cambridge Audio TVB2 und Q Acoustics Media 4 wird in Grossbritannien aus hochwertigem Stahl hergestellt.",
-    "images": [
-      "https://pob.flashnet.ch/602519116557.jpg",
-      "https://pob.flashnet.ch/602519116557_1.jpg",
-      "https://pob.flashnet.ch/602519116557_2.jpg",
-      "https://pob.flashnet.ch/602519116557_3.jpg"
-    ],
+    "images": [],
     "price": 3900,
     "stock": "2",
     "specification": {
@@ -2538,7 +2513,7 @@
     "condition": "new"
   },
   {
-    "product_id": "30 10 0119",
+    "product_id": "30_10_0119",
     "gtin": "0712190707460",
     "title": "Monitor M-OV-1-Rose",
     "description": "Ein reicher und warmer Klang mit herausragender automatischer Geräuschunterdrückung und einzigartigem VU- Meter. Mithilfe der Schaltflächen an der Seite des Kopfhörers kannst du einfach und bequem Anrufe annehmen und Tracks überspringen. Das ist der Meters Sound! Tief, dynamisch, artikuliert, detailliert. Das sind nur einige der Worte, die den OV-1 beschreiben. Bei den VU-Metern auf dem linken und rechten Ohr des Kopfhörers handelt es sich um eine Signalanzeige mit Line-Pegel, die entwickelt wurden damit Ihre Mitmenschen sehen können wie laut Ihre Musik ist. Dies kann als Sicherheitsvorkehrung für Eltern dienen.\r\nDer Line-Level-Signal-Indikator wurde entworfen, um den Kopfhörer einen dynamischen Look zu verleihen. Er funktioniert ähnlich wie die Meter auf einem professionellen Mischpult und bringen einen Hauch 80er in Ihren Alltag. Der Meters OV-1 Kopfhörer ist ein Over-Ear-Design, der die neueste Technologie mit der dynamischen ANC (Automatic Noise Cancelling) Funktion vereint.",
@@ -2548,44 +2523,7 @@
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Kopfhörer",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "Rosé"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "Rose"
-          ]
-        },
-        {
-          "name": "Geräuschunterdrückung",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Kopfhörer Ausgabe",
-          "value": [
-            "Stereo"
-          ]
-        },
-        {
-          "name": "Kopfhörertyp",
-          "value": [
-            "Over Ear"
-          ]
-        },
-        {
-          "name": "Tragestil",
-          "value": [
-            "Kopfbügel"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -4977,167 +4915,56 @@
     "condition": "new"
   },
   {
-    "product_id": "40 10 0091",
+    "product_id": "40_10_0091",
     "gtin": "8885005250801",
     "title": "Mini Lautsprecher",
     "description": "Der kleine Tausendsassa X-mini WE passt dank seinem kompakten Format in jede Handtasche und mit seinen bescheidenen 48 Gramm fällt er wahrlich nicht ins Gewicht. Dank Bluetooth über NFC lässt sich damit fast jedes Gerät verbinden. Notfalls zieht der Kleine die Musik auch über die integrierte 3.5mm Klinkenbuchse.",
-    "images": [
-      "https://pob.flashnet.ch/8885005250801.jpg",
-      "https://pob.flashnet.ch/8885005250801_1.jpg",
-      "https://pob.flashnet.ch/8885005250801_2.jpg",
-      "https://pob.flashnet.ch/8885005250801_3.jpg",
-      "https://pob.flashnet.ch/8885005250801_4.jpg",
-      "https://pob.flashnet.ch/8885005250801_5.jpg"
-    ],
+    "images": [],
     "price": 790,
     "stock": "30",
     "specification": {
       "category": "Audio",
       "product_type": "Bluetooth Lautsprecher",
-      "attributes": [
-        {
-          "name": "Akkukapazität",
-          "value": [
-            "6 Stunden"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "blau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "blau"
-          ]
-        },
-        {
-          "name": "Ladezeit",
-          "value": [
-            "1.5 Stunden"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10 Meter"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 10 0093",
+    "product_id": "40_10_0093",
     "gtin": "8885005250825",
     "title": "Mini Lautsprecher",
     "description": "Der kleine Tausendsassa X-mini WE passt dank seinem kompakten Format in jede Handtasche und mit seinen bescheidenen 48 Gramm fällt er wahrlich nicht ins Gewicht. Dank Bluetooth über NFC lässt sich damit fast jedes Gerät verbinden. Notfalls zieht der Kleine die Musik auch über die integrierte 3.5mm Klinkenbuchse.",
-    "images": [
-      "https://pob.flashnet.ch/8885005250825.jpg",
-      "https://pob.flashnet.ch/8885005250825_1.jpg",
-      "https://pob.flashnet.ch/8885005250825_2.jpg",
-      "https://pob.flashnet.ch/8885005250825_3.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "30",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Bluetooth Lautsprecher",
-      "attributes": [
-        {
-          "name": "Akkulaufzeit",
-          "value": [
-            "6 Stunden"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "orange"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "orange"
-          ]
-        },
-        {
-          "name": "Ladezeit",
-          "value": [
-            "1.5 Stunden"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10 Meter"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 10 0100",
+    "product_id": "40_10_0100",
     "gtin": "8885005250849",
     "title": "KAI2, XAM18 Bluetooth Lautsprecher",
     "description": "Die X-Mini Capsule Speaker liefern, wie gewohnt, eine sehr gute Klangqualität bei der kleinsten Grösse, und mit jeder Generation wird der Klang noch besser. Der X-Mini Kai Capsule Speaker 2 ist der Inbegriff von Form und Funktion, dank dem unverkennbaren X-Mini Design lässt sich der Speaker noch kleiner machen als er ist und die Treiber sind aus Keramik für einen herausragenden Klang. Dank dem Bluetooth und dem integriertem Noise-Cancelling-Mikrofon können Sie nun auch Anrufe entgegennehmen und das überall. Der X-Mini Kai kann überall benutz werden, ohne Hände, ohne Kabel, ohne Hektik. Mit ihm müssen Sie nie ohne Musik durch den Tag, geniessen Sie die klaren Klänge egal wo und wann.",
-    "images": [
-      "https://pob.flashnet.ch/8885005250849.jpg",
-      "https://pob.flashnet.ch/8885005250849_1.jpg",
-      "https://pob.flashnet.ch/8885005250849_2.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "30",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Bluetooth Lautsprecher",
-      "attributes": [
-        {
-          "name": "Akkulaufzeit",
-          "value": [
-            "6 Stunden"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "gun metal"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Kunststoff"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10m"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 10 0120",
+    "product_id": "40_10_0120",
     "gtin": "8885005251136",
     "title": "KAI X3 MystiicGrey",
     "description": "X-mini KAI X3 Bass port with 66mm driver for enhanced bass and audio quality Input connectivity - microSD card reader and Bluetooth Built-in microphone Up to 8 hours of play time True wireless stereo audio performance when paired with another X-mini Kai X3 Operating frequency range: 2.4GHz – 2.48GHz Wireless range: Up to 10 metres (33 feet) Bluetooth compliant: v4.0 Bluetooth profile support: A2DP, AVRCP, HFP, HSP Bluetooth playback time: Up to 8 hours",
-    "images": [
-      "https://pob.flashnet.ch/8885005251136.jpg"
-    ],
+    "images": [],
     "price": 2490,
     "stock": "3",
     "specification": {
@@ -5148,301 +4975,86 @@
     "condition": "new"
   },
   {
-    "product_id": "40 30 0018",
+    "product_id": "40_30_0018",
     "gtin": "8885005250900",
     "title": "Clear Black 10h",
     "description": "Der X-mini Clear bietet ein interessantes Design mit einigen zusätzlichen Lichtern, um das Interesse zu erhöhen. Es bietet schönes klares kabelloses Audio, aber einige möchten vielleicht etwas mehr Bass. Wir lieben das Aussehen Ausgestattet mit zwei Keramiklautsprechern in Profiqualität und einem aktiven Subwoofer mit 70 mm Unterstützt NFC und Bluetooth; ermöglicht die Verbindung mit NFC-unterstützen Geräten durch einfache Annäherung Smartphone-Verbindung durch Lade-Ausgang ermöglicht Hörgenuss über längere Zeit 3 Beleuchtungsmodi Elegantes, transparentes Gehäuse; bringt minimalistisches Inneres zum Vorschein",
-    "images": [
-      "https://pob.flashnet.ch/8885005250900.jpg",
-      "https://pob.flashnet.ch/8885005250900_1.jpg",
-      "https://pob.flashnet.ch/8885005250900_2.jpg"
-    ],
+    "images": [],
     "price": 2490,
     "stock": "9",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Bluetooth Lautsprecher",
-      "attributes": [
-        {
-          "name": "Akkulaufzeit",
-          "value": [
-            "10 Stunden"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10 Meter"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 50 0049",
+    "product_id": "40_50_0049",
     "gtin": "852225007292 ",
     "title": "B-Fi Streaming",
     "description": "Rüsten Sie die Audioausrüstung auf, die Sie lieben, und bringen Sie kabelloses High-Fidelity-Musik-Streaming in Ihr Zuhause. Schliessen Sie den B-Fi Streamer an ein beliebiges Musiksystem und Ihr Wi-Fi-Netzwerk an, um von Ihrer favorisierten Musikbibliothek über Ihr Telefon, Tablet oder Ihren Computer zu streamen. Laden Sie die App herunter und stellen Sie mit einem iOS-, Android-Telefon oder Tablet eine Verbindung zu Ihrem Wi-Fi-Netzwerk zu Hause her. Streamen Sie dann drahtlos Musik in hoher Qualität von den mitgelieferten Musikplayern, oder spielen Sie ganz einfach von jedem anderen Player oder Streaming-Dienst über Airplay ab. Streamen Sie Ihre Musik, wie Sie es möchten Streamen Sie mit Ihrem iOS- oder Android-Handy von Ihrer Musikbibliothek oder nutzen Sie einen der In-App-Musikdienste, wie Spotify, Tidal, Qobuz, iHeartRadio, TuneIn, Napster und viele mehr. Sie können auch AirPlay zum Streamen verwenden. Ganz einfach und ohne zusätzliche App Ihre Musik über den B-Fi Streamer geni",
-    "images": [
-      "https://pob.flashnet.ch/852225007292.jpg",
-      "https://pob.flashnet.ch/852225007292_1.jpg",
-      "https://pob.flashnet.ch/852225007292_2.jpg",
-      "https://pob.flashnet.ch/852225007292_3.jpg",
-      "https://pob.flashnet.ch/852225007292_4.jpg",
-      "https://pob.flashnet.ch/852225007292_5.jpg",
-      "https://pob.flashnet.ch/852225007292_6.jpg"
-    ],
+    "images": [],
     "price": 11900,
     "stock": "30",
     "specification": {
       "category": "TV + Heimkino",
       "product_type": "Streaming WiFi",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "2xCinch, 1xToslink"
-          ]
-        },
-        {
-          "name": "Anwendungsbereich",
-          "value": [
-            "Indoor"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Kabellose Übertragung",
-          "value": [
-            "Wifi"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 50 0051",
+    "product_id": "40_50_0051",
     "gtin": "8522225007308",
     "title": "A1 Heim System Wifi",
     "description": "Erstklassiger kabelloser Sound: Der A1-MR ist das perfekte Upgrade, das entwickelt wurde, um das Beste aus Ihrem Heimaudio herauszuholen und kabelloses High-Fidelity-Musikstreaming überall dort bereitzustellen, wo Sie spielen möchten. Streamen Sie ganz einfach von jedem mit WLAN verbundenen Gerät in jeder Streaming-App und erleben Sie in jedem Raum vollen, immersiven, echten Stereo-Sound. Beeindruckende Spezifikationen: präzise abgestimmte, handgefertigte Gehäuse, Aux-Audioeingang, 2 3/4-Zoll-Aramidfaser-Tieftöner und 3/4-Zoll-Seidenkalotten-Hochtöner, die der Konkurrenz überlegen sind. LFE Variabler Line-Out für Subwoofer zum einfachen Hinzufügen zur Audio Engine S8 oder einem anderen Subwoofer für eine tiefere Basserweiterung. Ausgangsleistung 60 W Spitze insgesamt, Frequenzgang 65 Hz–22 kHz (±2,0 dB), SNR 95 dB, THD+N \u003C0,05 %, Übersprechen –50 dB. Benutzerfreundliche App, totale Kontrolle.",
-    "images": [
-      "https://pob.flashnet.ch/8522225007308.jpg",
-      "https://pob.flashnet.ch/8522225007308_1.jpg",
-      "https://pob.flashnet.ch/8522225007308_2.jpg",
-      "https://pob.flashnet.ch/8522225007308_3.jpg",
-      "https://pob.flashnet.ch/8522225007308_4.jpg",
-      "https://pob.flashnet.ch/8522225007308_5.jpg",
-      "https://pob.flashnet.ch/8522225007308_6.jpg",
-      "https://pob.flashnet.ch/8522225007308_7.jpg"
-    ],
+    "images": [],
     "price": 22900,
     "stock": "8",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Aktiv Lautsprecher",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "10,2cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "15,2cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "10,2cm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 50 0053",
+    "product_id": "40_50_0053",
     "gtin": "852225007339 ",
     "title": "DAC3 Kopfhörer Verstärker",
     "description": "Der DAC3 ist ein leistungsstarker und dennoch tragbarer 32-Bit-DAC- und Kopfhörerverstärker, der von Ihrem Telefon, Tablet oder Computer aus hochauflösenden Klang in Premiumqualität an Ihre Kopfhörer (oder Lautsprecher) liefert. Das perfekte Upgrade, um Ihr hochauflösendes Streaming-Erlebnis zu Hause oder unterwegs zu verbessern. Der DAC3 verwendet einen leistungsstarken Kopfhörerverstärker, der audiophile Kopfhörer mit Leichtigkeit antreibt und viel Kopffreiheit für Ihr Headset bietet. Erleben Sie maximalen Dynamikumfang mit der Fähigkeit, die anspruchsvollsten Kopfhörer zu unterstützen. DAC3 ist nicht nur für Kopfhörer gedacht. Der variable Line-Level-Ausgang kann an jedes System mit einem analogen Audioeingang angeschlossen werden, z. B. an Audioengine-Aktivlautsprecher oder einen A/V-Receiver. Mit nur 3 Verbindungsschritten und ohne Batterien oder Aufladen ist Ihr neuer DAC sofort einsatzbereit.",
-    "images": [
-      "https://pob.flashnet.ch/852225007339.jpg",
-      "https://pob.flashnet.ch/852225007339_1.jpg",
-      "https://pob.flashnet.ch/852225007339_2.jpg",
-      "https://pob.flashnet.ch/852225007339_3.jpg",
-      "https://pob.flashnet.ch/852225007339_4.jpg",
-      "https://pob.flashnet.ch/852225007339_5.jpg",
-      "https://pob.flashnet.ch/852225007339_6.jpg",
-      "https://pob.flashnet.ch/852225007339_7.jpg"
-    ],
+    "images": [],
     "price": 9900,
     "stock": "30",
     "specification": {
       "category": "Audio",
       "product_type": "Kopfhörer Verstärker",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "15mm"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "5mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "48mm"
-          ]
-        },
-        {
-          "name": "Lieferumfang",
-          "value": [
-            "DAC3 + USB-C Kabel, Lightning USB Kabel"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 90 0025",
+    "product_id": "40_90_0025",
     "gtin": "3584176579166",
     "title": "Geemel black Bluetooth Lautsprecher",
     "description": "Altec Lansing Geemel Twin BT Speaker black For the Altec Lansing Geemel, the device makes use of Bluetooth V 4.1 and supports HSP, HFP, A2 DP, and AVRCP. It has an operation range of up to 10 Meters. These two speakers have a combined output of 10 W A range of 150 Hz - 15 KHz and have both a 3.5 mm audio jack and a Bluetooth 4.1 connection. When fully charged, they can last you up to 8 hours. Perfect for a day at the beach, a picknick or any other outdoor activity.",
-    "images": [
-      "https://pob.flashnet.ch/3584176579166.jpg",
-      "https://pob.flashnet.ch/3584176579166_1.jpg"
-    ],
+    "images": [],
     "price": 1290,
     "stock": "30",
     "specification": {
       "category": "Audio",
       "product_type": "Bluetooth Lautsprecher",
-      "attributes": [
-        {
-          "name": "Akkulaufzeit",
-          "value": [
-            "8 Stunden"
-          ]
-        },
-        {
-          "name": "Audiokanal",
-          "value": [
-            "Stereo"
-          ]
-        },
-        {
-          "name": "Bluetooth Feature",
-          "value": [
-            "A2DP"
-          ]
-        },
-        {
-          "name": "Bluetooth Profile",
-          "value": [
-            "ja"
-          ]
-        },
-        {
-          "name": "Bluetooth Version",
-          "value": [
-            "4.1"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "16.7 cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "28.20 cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "29.3 cm"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10 Meter"
-          ]
-        },
-        {
-          "name": "Nennbelastbarkeit (RMS)",
-          "value": [
-            "10Watt"
-          ]
-        },
-        {
-          "name": "Produkt Verkaufseinheit",
-          "value": [
-            "1 Paar"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "40 90 0026",
+    "product_id": "40_90_0026",
     "gtin": "3584176577582",
     "title": "Sunlight",
     "description": "Altec Lansing Sunlight Kurze zusammenfassende Beschreibung Altec Lansing Sunlight 2-Wege 10 W Silber, Holz Kabellos: Altec Lansing Sunlight, 2-Wege, 2.0 Kanäle, Kabellos, 10 W, Silber, Holz Bluetooth Speaker 4.0 EDR -A2DP – NFC Nennleistung: 2 x 5 Watt RMS Frequenzbereich: 80Hz - 18kHz Build in DSP, Aux 3.5mm Wood finish",
-    "images": [
-      "https://pob.flashnet.ch/3584176577582.jpg",
-      "https://pob.flashnet.ch/3584176577582_1.jpg"
-    ],
+    "images": [],
     "price": 3500,
     "stock": "8",
     "specification": {
@@ -5453,16 +5065,11 @@
     "condition": "new"
   },
   {
-    "product_id": "40 90 0064",
+    "product_id": "40_90_0064",
     "gtin": "639247095175 ",
     "title": "iLuv Aud Dock Black",
     "description": "iLuv Aud Dock ist die perfekte Ergänzung zu Amazon Echo Dot. Es ist ein Docking-System, das Ihren Echo Dot auf der Oberseite des Geräts umfasst. Ausgestattet mit einem dynamischen Lautsprecher und zwei Bass-Boostern gibt der Aud Dock Ihrer Musik einen knackigen Sound mit angereichertem Bass. Durch den integrierten wiederaufladbaren Akku ist Ihr Echo Dot vollständig tragbar. Bringen Sie Ihren Echo Dot an jeden gewünschten Ort. Der Aud Dock wird es möglich machen. Setzen Sie einfach Ihren Echo Dot in den oberen Bereich des Aud Dock, stecken Sie die internen Anschlüsse ein und schon können Sie loslegen.",
-    "images": [
-      "https://pob.flashnet.ch/639247095175.jpg",
-      "https://pob.flashnet.ch/639247095175_1.jpg",
-      "https://pob.flashnet.ch/639247095175_2.jpg",
-      "https://pob.flashnet.ch/639247095175_3.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "30",
     "specification": {
@@ -5567,7 +5174,7 @@
       "https://pob.flashnet.ch/9350784102010_4.jpg"
     ],
     "price": 6900,
-    "stock": "5",
+    "stock": "4",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Bluetooth Audio Adapter",
@@ -5625,14 +5232,11 @@
     "condition": "new"
   },
   {
-    "product_id": "45 10 0008",
+    "product_id": "45_10_0008",
     "gtin": "4260488551371",
     "title": "Amazon Echo cover",
     "description": "Balolo Amazon Echo Holz Cover. Alexa war nie so schön, bis jetzt. Balolo ist der erste Hersteller, der ein Cover für den Amazon Echo entwickelt hat, das aus echtem Walnussholz gefertigt ist. Das Ergebnis ist eine beeindruckende Kombination aus Natur und Technik.",
-    "images": [
-      "https://pob.flashnet.ch/4260488551371.jpg",
-      "https://pob.flashnet.ch/4260488551371_1.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "18",
     "specification": {
@@ -5691,43 +5295,17 @@
     "condition": "new"
   },
   {
-    "product_id": "50 00 0023",
+    "product_id": "50_00_0023",
     "gtin": "7640123931886",
     "title": "Swich Qi Charger White",
     "description": "Der Swich Wireless Qi Charging Stand ist eine simple Lösung um Smartphones kabellos auf einem ergonomischen Stand aufzuladen. Gefertigt aus edlen Materialien in einem Design, welches der Natur Respekt zollt. Holz und Keramik Elemente wurden sorgfältig verarbeitet um eine Rotation des Charging Pads zu ermöglicen. Die organische Form ist kennzeichnend für den Swich Qi Charging Stand und hebt ihn so aus der Masse von Ladestationen heraus. Swich ist einer der wenigen wireless charger welcher vertikale und horizontale Bewegungen bis 90 Grad des charging Pads erlaubt und dem Nutzer so ermöglicht sein Smartphone während des Ladevorgangs zu benutzen. Kompatibel mit allen Smartphones die mit der QI-Wireless Technologie ausgestattet sind, wie z.B. das iPhone 8 und Galaxy S8.",
-    "images": [
-      "https://pob.flashnet.ch/7640123931886.jpg",
-      "https://pob.flashnet.ch/7640123931886_1.jpg",
-      "https://pob.flashnet.ch/7640123931886_2.jpg",
-      "https://pob.flashnet.ch/7640123931886_3.jpg",
-      "https://pob.flashnet.ch/7640123931886_4.jpg",
-      "https://pob.flashnet.ch/7640123931886_5.jpg"
-    ],
+    "images": [],
     "price": 6900,
     "stock": "6",
     "specification": {
       "category": "Smartphones + Tablets",
       "product_type": "Wireless Charger",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Keramik"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Keramik"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -6409,7 +5987,7 @@
       "https://pob.flashnet.ch/6922621504290_9.jpg"
     ],
     "price": 9900,
-    "stock": "9",
+    "stock": "3",
     "specification": {
       "category": "Peripherie",
       "product_type": "Tastatur",
@@ -6465,7 +6043,7 @@
       "https://pob.flashnet.ch/5060666504606_8.jpg"
     ],
     "price": 9900,
-    "stock": "4",
+    "stock": "3",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Plattenspieler",
@@ -6685,773 +6263,122 @@
     "condition": "new"
   },
   {
-    "product_id": "60 60 0001",
+    "product_id": "60_60_0001",
     "gtin": "0740016550181",
     "title": "Gem LED Glühbirne",
     "description": "Die ultra effiziente Nanoleaf Gem LED Birne ersetzt die klassische Glühbirne und sorgt für eine warme, angenehme und augenfreundliche Beleuchtung. Dank des Abstrahlwinkels von 360 Grad leuchten Sie einen Raum komplett aus. Aufrgrund der super langen Lebensdauer von ca. 23 Jahren (bei 3 Std. Betrieb täglich) entfällt lästiges Wechseln und die Umwelt wird dabei geschützt.",
-    "images": [
-      "https://pob.flashnet.ch/0740016550181.jpg",
-      "https://pob.flashnet.ch/0740016550181_1.jpg",
-      "https://pob.flashnet.ch/0740016550181_2.jpg",
-      "https://pob.flashnet.ch/0740016550181_3.jpg",
-      "https://pob.flashnet.ch/0740016550181_4.jpg",
-      "https://pob.flashnet.ch/0740016550181_5.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "17",
     "specification": {
       "category": "Wohnen",
       "product_type": "Leuchtmittel",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "Lampenfassung Typ E27"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "8 cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Gehäuse",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Gehäuseform",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "13.5 cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "8 cm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lumen",
-          "value": [
-            "470 lm"
-          ]
-        },
-        {
-          "name": "Zertifizierung",
-          "value": [
-            "Energie Label F"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "60 60 0003",
+    "product_id": "60_60_0003",
     "gtin": "0740016550716",
     "title": "LED Glühbirne 850lm, E27",
     "description": "Die besondere Bauform des Nanoleaf One sieht nicht nur extrem edel aus, sie ermöglichen auch eine gleichmässige 360 Grad Lichtverteilung. Die LED-Lampe ist optimal für grössere Räume geeignet, die wenig natürliche Lichtquellen besitzen. Die Nanoleaf One ist robust gefertigt, sodass zerbrochene Glühbirnen zu der Vergangenheit gehören. Die verbauten 11 LEDs sind ringsherum verteilt, so dass Streuverlust nahezu unmöglich ist. Die hochwertigen LEDs haben eine extrem kurze Reaktionszeit und leuchten direkt nach dem Einschalten in voller Lichtstärke.",
-    "images": [
-      "https://pob.flashnet.ch/0740016550716.jpg",
-      "https://pob.flashnet.ch/0740016550716_1.jpg",
-      "https://pob.flashnet.ch/0740016550716_2.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "8",
     "specification": {
       "category": "Wohnen",
       "product_type": "Leuchtmittel",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "Lampenfassung Typ E27"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "8cm"
-          ]
-        },
-        {
-          "name": "Dimmbarkeit",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Gehäuse",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Gehäuseform",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "13.5cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "8cm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lumen",
-          "value": [
-            "850 lm"
-          ]
-        },
-        {
-          "name": "Zertifizierung",
-          "value": [
-            "Enerige Label F"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "60 60 0009",
+    "product_id": "60_60_0009",
     "gtin": "0740016550785",
     "title": "Amber LED Leuchtmittel E14",
     "description": "Die ultra effiziente Nanoleaf AMBER LED Birne ersetzt die klassische Glühbirne und sorgt für eine warme, angenehme und augenfreundliche Beleuchtung. Dank des Abstrahlwinkels von 360 Grad leuchten Sie einen Raum komplett aus. Super lange Lebensdauer von ca. 1,5 Jahren (bei 3 Std. Betrieb täglich). Lästiges wechseln entfällt und schützt dabei die Umwelt.",
-    "images": [
-      "https://pob.flashnet.ch/0740016550785.jpg",
-      "https://pob.flashnet.ch/0740016550785_1.jpg",
-      "https://pob.flashnet.ch/0740016550785_2.jpg"
-    ],
+    "images": [],
     "price": 390,
     "stock": "30",
     "specification": {
       "category": "Wohnen",
       "product_type": "Leuchtmittel",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "Lampenfassung Typ E14"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "4 cm"
-          ]
-        },
-        {
-          "name": "Farbtemparatur",
-          "value": [
-            "2200 K"
-          ]
-        },
-        {
-          "name": "Gehäuse",
-          "value": [
-            "E14"
-          ]
-        },
-        {
-          "name": "Gehäuseform",
-          "value": [
-            "E14"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "11 cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "4 cm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lumen",
-          "value": [
-            "170 lm"
-          ]
-        },
-        {
-          "name": "Zertifizierung",
-          "value": [
-            "Energie Label F"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "60 60 0010",
+    "product_id": "60_60_0010",
     "gtin": "0740016550709",
     "title": "Ivy Smarter Kit",
     "description": "Das Nanoleaf Smarter-Kit kommt mit einer Basisstation und 2 LED-Lampen, die mit einem Smartphone steuerbar sind. Durch die Kompatibilität mit Apple HomeKit muss das iPhone nicht entsperrt sein, da Ihre Beleuchtung einfach über Siri verwalten können.",
-    "images": [
-      "https://pob.flashnet.ch/0740016550709.jpg",
-      "https://pob.flashnet.ch/0740016550709_1.jpg",
-      "https://pob.flashnet.ch/0740016550709_2.jpg",
-      "https://pob.flashnet.ch/0740016550709_3.jpg",
-      "https://pob.flashnet.ch/0740016550709_4.jpg"
-    ],
+    "images": [],
     "price": 2990,
     "stock": "50",
     "specification": {
       "category": "Wohnen",
       "product_type": "Leuchtmittel",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "Lampenfassung Typ E27"
-          ]
-        },
-        {
-          "name": "Artikel pro Verkaufseinheit",
-          "value": [
-            "3 Stück"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "14 cm"
-          ]
-        },
-        {
-          "name": "Dimmbarkeit",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Gehäuse",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Gehäuseform",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "11 cm"
-          ]
-        },
-        {
-          "name": "Intelligente Beleuchtung",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "29.5 cm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lumen",
-          "value": [
-            "800 lm"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Smart Home",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Stil + Design",
-          "value": [
-            "Modern"
-          ]
-        },
-        {
-          "name": "Wohnbereich",
-          "value": [
-            "Schlafzimmer"
-          ]
-        },
-        {
-          "name": "Zertifizierung",
-          "value": [
-            "Energie Label F"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "60 60 0011",
+    "product_id": "60_60_0011",
     "gtin": "0740016550280",
     "title": "LED Spot Leuchte",
     "description": "Die Nanoleaf PAR38 LED-Spot-Leuchte lässt Ihre Räume in hellem und natürlichen Farben erstrahlen. Niedriger Stromverbrauch dank LED Technik. Fassung E27. 16W LED entspricht 120W Halogen. 1450 lm.",
-    "images": [
-      "https://pob.flashnet.ch/0740016550280.jpg",
-      "https://pob.flashnet.ch/0740016550280_1.jpg",
-      "https://pob.flashnet.ch/0740016550280_2.jpg",
-      "https://pob.flashnet.ch/0740016550280_3.jpg",
-      "https://pob.flashnet.ch/0740016550280_4.jpg",
-      "https://pob.flashnet.ch/0740016550280_5.jpg"
-    ],
+    "images": [],
     "price": 1290,
     "stock": "41",
     "specification": {
       "category": "Wohnen",
       "product_type": "Leuchtmittel",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "Lampenfassung Typ E27"
-          ]
-        },
-        {
-          "name": "Anwendungsbereich",
-          "value": [
-            "Indoor"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "12.5 cm"
-          ]
-        },
-        {
-          "name": "Dimmbarkeit",
-          "value": [
-            "Nein"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Farbtemparatur",
-          "value": [
-            "3000 K"
-          ]
-        },
-        {
-          "name": "Gehäuse",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Gehäuseform",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "16 cm"
-          ]
-        },
-        {
-          "name": "Lampentyp",
-          "value": [
-            "Deckenleuchte"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "12.5 cm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lumen",
-          "value": [
-            "1450 lm"
-          ]
-        },
-        {
-          "name": "Zertifizierung",
-          "value": [
-            "Energie Label F"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "60 60 0016",
+    "product_id": "60_60_0016",
     "gtin": "0740016550600",
     "title": "Bloom, 1200Lm - green",
     "description": "Leuchtstärke: 1200lm (analog 75W). Dimmbar ohne Dimmer dank einzigartiger integrierter Dimmertechnologie - einfach über den Lichtschalter zu bedienen. Direkt anwählbarer Nachtmodus (5 Prozent der maximalen Lichtleistung). Mit Überhitzungsschutz. Kann auch in vollständig geschlossenen Leuchten verwendet werden. Durch die innovative Bauform wird kein herkömmlicher Kühlkörper benötigt und auch nach langem Gebrauch kann man Sie mit der bloßen Hand anfassen. Das einzigartige Design ermöglicht einen Abstrahlwinkel von 360° mit gleichmäßiger Lichtverteilung ohne Streuverluste und für vielfältige Einsatzmöglichkeiten. Extra lange Lebensdauer von 27 Jahren (bei 3 Std. Betrieb täglich) - häufiges und lästiges Wechseln der Leuchtmittel entfällt. Sicher für die Umwelt und Ihr Zuhause - langlebiges und umweltfreundliches Design.",
-    "images": [
-      "https://pob.flashnet.ch/0740016550600.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "11",
     "specification": {
       "category": "Haushalt",
       "product_type": "Leuchtmittel",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "Lampenfassung Typ E27"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "9 cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "grün"
-          ]
-        },
-        {
-          "name": "Gehäuse",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Gehäuseform",
-          "value": [
-            "E27"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "grün"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "12.5 cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "9 cm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lumen",
-          "value": [
-            "1200 lm"
-          ]
-        },
-        {
-          "name": "Zertifizierung",
-          "value": [
-            "Energie Label F"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "60 60 0058",
+    "product_id": "60_60_0058",
     "gtin": "840102701722 ",
     "title": "Essentials Strips exp. 1M",
     "description": "Nanoleaf Essentials Light Strips Expansion 1 Meter Kreieren Sie das perfekte Ambiente für einen gemütlichen Abend mit Freunden! Die Light Strips von Nanoleaf bringen stimmungsvolles Licht in Ihre Wohnung. Die Farbpalette umfasst über 16 Mio. Farben, auch die Weisstöne können warm eingestellt werden und so perfekte Momente schaffen. Die smarte LED Beleuchtung lässt sich über verschiedene Wege steuern. Per App (Android & iOS), Sprachsteuerung (Apple HomeKit & Google Assistant) oder ganz einfach per Schalter.",
-    "images": [
-      "https://pob.flashnet.ch/840102701722.jpg",
-      "https://pob.flashnet.ch/840102701722_1.jpg"
-    ],
+    "images": [],
     "price": 1490,
     "stock": "30",
     "specification": {
       "category": "Haushalt",
       "product_type": "LED Streifen",
-      "attributes": [
-        {
-          "name": "Anwendungsbereich",
-          "value": [
-            "Indoor"
-          ]
-        },
-        {
-          "name": "Artikel pro Verkaufseinheit",
-          "value": [
-            "1"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "1.5cm"
-          ]
-        },
-        {
-          "name": "Dimmbarkeit",
-          "value": [
-            "Dimmbar"
-          ]
-        },
-        {
-          "name": "Engergieversorgung",
-          "value": [
-            "Netzbetrieb"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Intelligente Beleuchtung",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Lampentyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "100cm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lichtfarbe",
-          "value": [
-            "Mehrfarbig, Warmweiss"
-          ]
-        },
-        {
-          "name": "Lumen",
-          "value": [
-            "1100lm"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Kunststoff"
-          ]
-        },
-        {
-          "name": "Schutzart IP-Code",
-          "value": [
-            "IP20"
-          ]
-        },
-        {
-          "name": "Schutzklasse",
-          "value": [
-            "TypII"
-          ]
-        },
-        {
-          "name": "Smart Home",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Smart Home Ökosystem",
-          "value": [
-            "Amazon Alexa, Apple Siri, Google Assistant"
-          ]
-        },
-        {
-          "name": "Zertifizierung",
-          "value": [
-            "CE"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "60 60 0073",
+    "product_id": "60_60_0073",
     "gtin": "4897105330547",
     "title": "Lines Pink Skin",
     "description": "Mit diesen ultraleichten Steckabdeckungen können Sie das Aussehen Ihres Layouts im Handumdrehen an Ihren persönlichen Stil anpassen. Es ist kein Klebeband oder eine weitere Installation erforderlich. Das Paket enthält 9 Skins und 9 Montagekappen.",
-    "images": [
-      "https://pob.flashnet.ch/4897105330547.jpg",
-      "https://pob.flashnet.ch/4897105330547_1.jpg",
-      "https://pob.flashnet.ch/4897105330547_2.jpg"
-    ],
+    "images": [],
     "price": 990,
     "stock": "30",
     "specification": {
       "category": "Haushalt",
       "product_type": "Beleuchtung Zubehör",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "0.21cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "pink"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "pink"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "0.91cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "25.93cm"
-          ]
-        },
-        {
-          "name": "Lieferumfang",
-          "value": [
-            "9x"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -8721,7 +7648,7 @@
       "https://pob.flashnet.ch/7350033658093_4.jpg"
     ],
     "price": 1990,
-    "stock": "14",
+    "stock": "13",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Bluetooth Lautsprecher",
@@ -9031,7 +7958,7 @@
       "https://pob.flashnet.ch/4897111740125_3.jpg"
     ],
     "price": 2490,
-    "stock": "14",
+    "stock": "12",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Kinderkopfhörer",
@@ -9184,7 +8111,7 @@
       "https://pob.flashnet.ch/5060650752983_8.jpg"
     ],
     "price": 2900,
-    "stock": "20",
+    "stock": "16",
     "specification": {
       "category": "Spielzeug",
       "product_type": "Kinderkopfhörer",
@@ -9254,15 +8181,11 @@
     "condition": "new"
   },
   {
-    "product_id": "80 00 0021",
+    "product_id": "80_00_0021",
     "gtin": "851142005954 ",
     "title": "Aerial Filter",
     "description": "Sorgt für bessere Objektbelichtung, reduziert den Lichteinfall auf den Sensor und unterdrückt Reflektion und Spiegelung. Aus ultraleichtem Material höchster Qualitätsstufe und mit mehrfach beschichteter Glas-Veredelung.",
-    "images": [
-      "https://pob.flashnet.ch/851142005954.jpg",
-      "https://pob.flashnet.ch/851142005954_1.jpg",
-      "https://pob.flashnet.ch/851142005954_2.jpg"
-    ],
+    "images": [],
     "price": 1990,
     "stock": "11",
     "specification": {
@@ -9273,16 +8196,11 @@
     "condition": "new"
   },
   {
-    "product_id": "80 00 0022",
+    "product_id": "80_00_0022",
     "gtin": "851142005961 ",
     "title": "Graduated Filter",
     "description": "Ideal zum Arrangieren von Horizontbildern: Abgestuftes Orange für wärmere Bildeffekte, abgestuftes Blau für kühlere Bildeffekte, abgestuftes ND8 reduziert Reflektionen. Aus ultraleichtem Material höchster Qualitätsstufe und mit mehrfach beschichteter Glas-Veredelung.",
-    "images": [
-      "https://pob.flashnet.ch/851142005961.jpg",
-      "https://pob.flashnet.ch/851142005961_1.jpg",
-      "https://pob.flashnet.ch/851142005961_2.jpg",
-      "https://pob.flashnet.ch/851142005961_3.jpg"
-    ],
+    "images": [],
     "price": 1900,
     "stock": "14",
     "specification": {
@@ -9293,50 +8211,17 @@
     "condition": "new"
   },
   {
-    "product_id": "80 80 0031",
+    "product_id": "80_80_0031",
     "gtin": "851492006793 ",
     "title": "Filament Carbon Fiber 250ft",
     "description": "3D PLA Drucker-Filament mit 33% Anteil Kohlefaser von M3D. Farbe: Carbon. Stärke: 1,75 mm, Länge: 250 ft (= ca. 75 m).",
-    "images": [
-      "https://pob.flashnet.ch/851492006793.jpg"
-    ],
+    "images": [],
     "price": 1900,
-    "stock": "5",
+    "stock": "3",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "3D Filament",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "1,75 mm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "Grau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "dunkelgrau"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "75 m"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "PLA + Kohlefaser"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -9517,80 +8402,17 @@
     "condition": "new"
   },
   {
-    "product_id": "90 60 0007",
+    "product_id": "90_60_0007",
     "gtin": "7640123931398",
     "title": "goal DVB-T TV 3.5 Zoll",
     "description": "3,5 Zoll Pocket DVB-T TV DVB-T Empfang innerhalb von Europa, Australien & Taiwan MP3-Musikwiedergabefunktion über SD/SDHC-Karte Echtzeit-TV-Aufzeichnungs- & Wiedergabemöglichkeiten Sehr gute Empfangsempfindlichkeit (-90dMm in Deutschland) Hervorragende Mobilitätsunterstützung (100 Km /Std. in Deutschland) Unterstützt automatische Kanalsuche, EPG, Videotext, Untertitel und Anpassung des Seitenverhältnisses Unterstützung mehrerer Länder und mehrerer Sprachen Betriebszeit: 5 Stunden für TV & 16 Stunden für MP3 (mit Kopfhörer) Unterstützung von bis zu 8 GB SD / SDHC-Kartenleser Eingebaute Teleskopstabantenne Eingebauter Akku",
-    "images": [
-      "https://pob.flashnet.ch/7640123931398.jpg"
-    ],
+    "images": [],
     "price": 6900,
     "stock": "30",
     "specification": {
       "category": "TV + Heimkino",
       "product_type": "TV",
-      "attributes": [
-        {
-          "name": "Bildschirmgösse",
-          "value": [
-            "3,5 Zoll"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "110 mm"
-          ]
-        },
-        {
-          "name": "Engergieversorgung",
-          "value": [
-            "Akkubetrieb"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "Schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "Schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Kunststoff"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "25 mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "150 mm"
-          ]
-        },
-        {
-          "name": "Lieferumfang",
-          "value": [
-            "Netzteil, Bedienungsanleitung"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Kunststoff"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -12068,64 +10890,22 @@
     "condition": "new"
   },
   {
-    "product_id": "AUL101 BLACK",
+    "product_id": "AUL101_BLACK",
     "gtin": "8600030574452",
     "title": "Glasses Black",
     "description": "Während die einen versuchen, sich die Zukunft vorzustellen, erschaffen andere sie. Einen Blick in die Zukunft bietet die AU-Lens True Wireless Audio Glasses. Eine innovative Audiobrille für die Zukunft. Die AU-Lens präsentiert den Fortschritt der Innovation, ohne dabei die erstklassige Audioleistung aller Ausounds Kopfhörer aus den Augen zu verlieren. Mit einem Frequenzbereich von 20Hz - 20kHz geht die AU-Lens Audiobrille niemals Kompromisse bei der Klangleistung ein, die mit der preisgekrönten Ausounds Audio-Signatur übereinstimmt.Komfortable, leichte Passform, Wasserdicht IPX4, Gesamte Akkulaufzeit 5 Stunden, eEchtes drahtloses Bluetooth 5.1, Ladezeit 1,5 Stunden, Ohrhörer-Impedanz 24O, Frequenzbereich 20Hz -20KHz, SPL 100 ± 3 dB@1KHz, Bluetooth-Reichweite bis 10m, Gewicht 49g",
-    "images": [
-      "https://pob.flashnet.ch/8600030574452.jpg",
-      "https://pob.flashnet.ch/8600030574452_1.jpg",
-      "https://pob.flashnet.ch/8600030574452_2.jpg",
-      "https://pob.flashnet.ch/8600030574452_3.jpg"
-    ],
+    "images": [],
     "price": 4900,
     "stock": "6",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Kopfhörer",
-      "attributes": [
-        {
-          "name": "Audiokanal",
-          "value": [
-            "Stereo"
-          ]
-        },
-        {
-          "name": "Bluetooth Version",
-          "value": [
-            "5.0"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Geräuschunterdrückung",
-          "value": [
-            "nein"
-          ]
-        },
-        {
-          "name": "Treiberdurchmesser",
-          "value": [
-            "15mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "AUL101 BROWN",
+    "product_id": "AUL101_BROWN",
     "gtin": "8600030574520",
     "title": "Glasses Brown",
     "description": "Während die einen versuchen, sich die Zukunft vorzustellen, erschaffen andere sie. Einen Blick in die Zukunft bietet die AU-Lens True Wireless Audio Glasses. Eine innovative Audiobrille für die Zukunft. Die AU-Lens präsentiert den Fortschritt der Innovation, ohne dabei die erstklassige Audioleistung aller Ausounds Kopfhörer aus den Augen zu verlieren. Mit einem Frequenzbereich von 20Hz - 20kHz geht die AU-Lens Audiobrille niemals Kompromisse bei der Klangleistung ein, die mit der preisgekrönten Ausounds Audio-Signatur übereinstimmt.Komfortable, leichte Passform, Wasserdicht IPX4, Gesamte Akkulaufzeit 5 Stunden, eEchtes drahtloses Bluetooth 5.1, Ladezeit 1,5 Stunden, Ohrhörer-Impedanz 24O, Frequenzbereich 20Hz -20KHz, SPL 100 ± 3 dB@1KHz, Bluetooth-Reichweite bis 10m, Gewicht 49g",
@@ -12135,163 +10915,37 @@
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Kopfhörer",
-      "attributes": [
-        {
-          "name": "Audiokanal",
-          "value": [
-            "Stereo"
-          ]
-        },
-        {
-          "name": "Bluetooth Version",
-          "value": [
-            "5.0"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "braun"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "braun"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "AUS101-GOLD",
+    "product_id": "AUS101_GOLD",
     "gtin": "8600021958346",
     "title": "AU-Stream Gold",
     "description": "AUSOUNDS AU-Stream EarBuds Der AU-Stream ist die leichte Version des bekannten AU-Stream ANC-Ohrhörers. Entwickelt mit den gleichen Leitprinzipien von Premium-Audio, Technologie und Komfort. Der AU-Stream wurde mit vielen der neuesten Technologien ohne Rauschunterdrückung entwickelt und ist ideal für Audio-Enthusiasten und eine perfekte Wahl für den täglichen Gebrauch von Musikschaffenden. Premium Audiosignatur: Die Audiokurve liefert den besten verfügbaren Klang für den Preis eines echten kabellosen Kopfhörers. 13mm AU-Titan-Treiber: Der dreischichtige Composite-Filmlautsprecher ist perfekt abgestimmt, um Ihnen die Klarheit und Klangqualität zu bieten, die nur Ausounds in einem so leichten kleinen Ohrhörer bieten kann. Komfort für langes Zuhören: Die Silikon-Ohrstöpsel sind in drei Grössen erhältlich, um eine perfekte Abdichtung zu gewährleisten. Die AU-Streams sind IPX5-wasserdicht, sodass Sie sorgenfrei schwitzen und zusätzlichen Staub mit einem wenig anhaltenden Wasserspray abspül",
-    "images": [
-      "https://pob.flashnet.ch/8600021958346.jpg",
-      "https://pob.flashnet.ch/8600021958346_1.jpg",
-      "https://pob.flashnet.ch/8600021958346_2.jpg",
-      "https://pob.flashnet.ch/8600021958346_3.jpg",
-      "https://pob.flashnet.ch/8600021958346_4.jpg",
-      "https://pob.flashnet.ch/8600021958346_5.jpg",
-      "https://pob.flashnet.ch/8600021958346_6.jpg",
-      "https://pob.flashnet.ch/8600021958346_7.jpg"
-    ],
+    "images": [],
     "price": 2500,
     "stock": "19",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Kopfhörer",
-      "attributes": [
-        {
-          "name": "Bluetooth Version",
-          "value": [
-            "5.0"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "gold"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "gold"
-          ]
-        },
-        {
-          "name": "Geräuschunterdrückung",
-          "value": [
-            "Nein"
-          ]
-        },
-        {
-          "name": "Kopfhörertyp",
-          "value": [
-            "InEar"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10 Meter"
-          ]
-        },
-        {
-          "name": "Treiberdurchmesser",
-          "value": [
-            "13mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "AUS101-GRAY",
+    "product_id": "AUS101_GRAY",
     "gtin": "8600021958582",
     "title": "AU-Stream grey",
     "description": "AUSOUNDS AU-Stream EarBuds Der AU-Stream ist die leichte Version des bekannten AU-Stream ANC-Ohrhörers. Entwickelt mit den gleichen Leitprinzipien von Premium-Audio, Technologie und Komfort. Der AU-Stream wurde mit vielen der neuesten Technologien ohne Rauschunterdrückung entwickelt und ist ideal für Audio-Enthusiasten und eine perfekte Wahl für den täglichen Gebrauch von Musikschaffenden. Premium Audiosignatur: Die Audiokurve liefert den besten verfügbaren Klang für den Preis eines echten kabellosen Kopfhörers. 13mm AU-Titan-Treiber: Der dreischichtige Composite-Filmlautsprecher ist perfekt abgestimmt, um Ihnen die Klarheit und Klangqualität zu bieten, die nur Ausounds in einem so leichten kleinen Ohrhörer bieten kann. Komfort für langes Zuhören: Die Silikon-Ohrstöpsel sind in drei Grössen erhältlich, um eine perfekte Abdichtung zu gewährleisten. Die AU-Streams sind IPX5-wasserdicht, sodass Sie sorgenfrei schwitzen und zusätzlichen Staub mit einem wenig anhaltenden Wasserspray abspül",
-    "images": [
-      "https://pob.flashnet.ch/8600021958582.jpg",
-      "https://pob.flashnet.ch/8600021958582_1.jpg",
-      "https://pob.flashnet.ch/8600021958582_2.jpg",
-      "https://pob.flashnet.ch/8600021958582_3.jpg",
-      "https://pob.flashnet.ch/8600021958582_4.jpg"
-    ],
+    "images": [],
     "price": 2500,
     "stock": "30",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Kopfhörer",
-      "attributes": [
-        {
-          "name": "Bluetooth Version",
-          "value": [
-            "5.00"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "grau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "grau"
-          ]
-        },
-        {
-          "name": "Geräuschunterdrückung",
-          "value": [
-            "nein"
-          ]
-        },
-        {
-          "name": "Kopfhörertyp",
-          "value": [
-            "InEar"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10 Meter"
-          ]
-        },
-        {
-          "name": "Treiberdurchmesser",
-          "value": [
-            "13mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -12493,45 +11147,17 @@
     "condition": "new"
   },
   {
-    "product_id": "AV-60",
+    "product_id": "AV_60",
     "gtin": "709006099000 ",
     "title": "Einfacheres Staubsaugen 600mm",
     "description": "Einfacheres Staubsaugen. Mit dem Reach AV-60 saugen Sie ganz einfach über, unter und zwischen an schwer zugänglichen Stellen! 8 Löcher auf der Unterseite sorgen für effizientes Staubsaugen mit einer Saugfläche von satten 600mm x 40mm. Dank dem beweglichen Gelenk können Sie einfach oben, unten und dazwischen saugen. Passen für Rohre mit einem Durchmesser von 32  bis 35mm. 7 Jahre Garantie. Abnehmbare Platte für Reinigung.",
-    "images": [
-      "https://pob.flashnet.ch/709006099000.jpg",
-      "https://pob.flashnet.ch/709006099000_1.jpg",
-      "https://pob.flashnet.ch/709006099000_2.jpg",
-      "https://pob.flashnet.ch/709006099000_3.jpg",
-      "https://pob.flashnet.ch/709006099000_4.jpg",
-      "https://pob.flashnet.ch/709006099000_5.jpg",
-      "https://pob.flashnet.ch/709006099000_6.jpg",
-      "https://pob.flashnet.ch/709006099000_7.jpg"
-    ],
+    "images": [],
     "price": 2690,
     "stock": "30",
     "specification": {
       "category": "Haushalt",
       "product_type": "Staubsauger + Reinigen Zubehör",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "40mm"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "12mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "600mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -12589,7 +11215,7 @@
     "condition": "new"
   },
   {
-    "product_id": "CAPSULIER CAPSI",
+    "product_id": "CAPSULIER_CAPSI",
     "gtin": "0746060670141",
     "title": "Capsi 2 Stück",
     "description": "Alle lieben einen tollen Kaffee, aber wenn es darum geht, eine Tasse zu Hause zu kochen, finden die meisten ihn einschüchternd und zeitaufwendig. Aber es muss nicht schwierig sein - es genügt eine Auswahl an frisch gerösteten und gemahlenen Bohnen. Laden Sie die gemahlenen Bohnen in den Kapselhalter, schliessen Sie den Deckel und drücken Sie den Hebel, und schon haben Sie eine Kapsel. Einfacher geht es nicht. Warum Edelstahl? Jede Capsi-Kapsel ist aus Edelstahl gefertigt. Edelstahl bietet die perfekte Balance zwischen Form und Funktion - langlebig und verschleissfest mit schlichtem Design. Wiederverwendbare Kapsel zum Befüllen. Frisch gemahlenen Kaffee oder eigene Kreationen verwenden. Einfache Bedienung am Hebel. Kompatible Nespresso-Maschinen: Inissia, Essenza, Lattissima. Schickes, praktisches Zusatzgerät für Ihr Nespresso-System. Kompatibilität der Kapseln: Originalgrösse. Material der Kapsel: Rostfreier Stahl. Volumen: bis zu 5,5g. Grösse: 37mm(B) x 37mm(T) x 26.7mm(H). Gewicht:",
@@ -12599,82 +11225,22 @@
     "specification": {
       "category": "Haushalt",
       "product_type": "Kaffeemaschinen Zubehör",
-      "attributes": [
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Stahl"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Stahl"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "CAPSULIER LITE",
+    "product_id": "CAPSULIER_LITE",
     "gtin": "746060670158 ",
     "title": "Capsulier Lite Kaffeekapselbefüller inkl. 1 Kapsel",
     "description": "Der weltweit erste Single-Push, wiederverwendbare, unkomplizierte Kapselmacher. Erstelle eine Kaffeekapsel, die die Umwelt und dein Budget schont. Erstelle deine eigene Kapsel mit exotischen Bohnen und handverlesenen Gewürzen. Laden Sie die gerösteten und gemahlenen Bohnen in den Kapselhalter, schliessen Sie den Deckel und drücken Sie den Hebel, Sie haben eine Kapsel in Sekundenschnelle einsatzbereit. Der Capsulier Lite bietet Ihnen eine Kapsel, die wiederverwendbar und Nespresso-kompatibel ist, so dass Sie Ihre eigenen, individuellen Mischungen erstellen können, die umweltfreundlich und wirtschaftlich sind. Entwickelt in Schweden. Ziel war es, ein Objekt zu schaffen, das ästhetisch ansprechend, aber auch vielseitig und funktional ist, mit einer dezenten Schönheit, die sich an jeder Theke wie zu Hause fühlen sollte. Ein Begleiter zu Ihrer Nespresso-Maschine. Das Design verkörpert eine klare, minimalistische Ästhetik. Der Capsulier ist ein Pendant zu Ihrer Kaffeemaschine, kompakt und d",
-    "images": [
-      "https://pob.flashnet.ch/746060670158.jpg",
-      "https://pob.flashnet.ch/746060670158_1.jpg",
-      "https://pob.flashnet.ch/746060670158_2.jpg",
-      "https://pob.flashnet.ch/746060670158_3.jpg",
-      "https://pob.flashnet.ch/746060670158_4.jpg",
-      "https://pob.flashnet.ch/746060670158_5.jpg",
-      "https://pob.flashnet.ch/746060670158_6.jpg",
-      "https://pob.flashnet.ch/746060670158_7.jpg",
-      "https://pob.flashnet.ch/746060670158_8.jpg"
-    ],
+    "images": [],
     "price": 4900,
     "stock": "13",
     "specification": {
       "category": "Haushalt",
       "product_type": "Zubehör Kaffeemaschinen",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "130 mm"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Kunststoff"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "195 mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "235 mm"
-          ]
-        },
-        {
-          "name": "Lieferumfang",
-          "value": [
-            "1 Kapselbefüller, 1 wiederverwendbare Stahlkapsel"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Kunststoff"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -12870,7 +11436,7 @@
     "condition": "new"
   },
   {
-    "product_id": "FUDY-BB",
+    "product_id": "FUDY_BB",
     "gtin": "0036336080843",
     "title": "Beutel Bowl  3er Set weiss",
     "description": "Die Fudy wiederverwendbare Beutel sind eine innovative Alternative zu den klassischen Behälter aus starrem Kunststoff oder Glas. Sie sind eine umweltfreundliche Lösung zur Aufbewahrung und Transport von Lebensmittel.Das 3er Set von Fudy eignet sich besonders gut für den Transport von Ihrer Mittagsmahlzeit. Das elastische Material passt hervorragend in Ihre Handtasche und Sie können das Gericht direkt mit dem Beutel in der Mikrowelle erwärmen.Die Fudy wiederverwendbare Beutel können in die Spülmaschine, in die Mikrowelle, ins Gefrierfach und in den Ofen bis zu 220 Grad C gestellt werden, Sie können sogar darauf rollen, es wird nichts zerbrechen! Set besteht aus ein Beutel mit 473ml, 710ml und 946ml Grösse",
@@ -12880,37 +11446,12 @@
     "specification": {
       "category": "Haushalt",
       "product_type": "Lunchbox",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "FUDY-BT",
+    "product_id": "FUDY_BT",
     "gtin": "0036336356856",
     "title": "Beutel Bowl  3er Set Blau",
     "description": "Die Fudy wiederverwendbare Beutel sind eine innovative Alternative zu den klassischen Behälter aus starrem Kunststoff oder Glas. Sie sind eine umweltfreundliche Lösung zur Aufbewahrung und Transport von Lebensmittel.Das 3er Set von Fudy eignet sich besonders gut für den Transport von Ihrer Mittagsmahlzeit. Das elastische Material passt hervorragend in Ihre Handtasche und Sie können das Gericht direkt mit dem Beutel in der Mikrowelle erwärmen.Die Fudy wiederverwendbare Beutel können in die Spülmaschine, in die Mikrowelle, ins Gefrierfach und in den Ofen bis zu 220 Grad C gestellt werden, Sie können sogar darauf rollen, es wird nichts zerbrechen! 1 Set besteht aus je ein Beutel mit 473ml, 710ml und 946ml Fassungsvermögen",
@@ -12920,37 +11461,12 @@
     "specification": {
       "category": "Haushalt",
       "product_type": "Lunchbox",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "blau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "blau"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "FUDY-LB",
+    "product_id": "FUDY_LB",
     "gtin": "0036336080829",
     "title": "Beutel Lunch 3er Set weiss",
     "description": "Fudy wiederverwendbare Beutel Lunch 3er Set  (37 ml / 473 ml / 710 ml) Die Fudy wiederverwendbare Beutel sind eine innovative Alternative zu den klassischen Behälter aus starrem Kunststoff oder Glas. Sie sind eine umweltfreundliche Lösung zur Aufbewahrung und Transport von Lebensmittel. Das 3er Set von Fudy eignet sich besonders gut für den Transport von Ihrer Mittagsmahlzeit. Das elastische Material passt hervorragend in Ihre Handtasche und Sie können das Gericht direkt mit dem Beutel in der Mikrowelle erwärmen. Anwendung: Transportieren Sie Ihre Mittagsmahlzeiten / Nachmittagstee  Bewahren Sie Lebensmittel in Ihrem Kühlschrank auf   Im Ofen oder im Wasserbad kochen Erwärmen Sie Ihr Essen in der Mikrowelle Und viele andere Non-Food-Anwendungen Die Fudy wiederverwendbare Beutel können in die Spülmaschine, in die Mikrowelle, ins Gefrierfach und in den Ofen bis zu 220 ° C gestellt werden, Sie können sogar darauf rollen, es wird nichts zerbrechen! Material: Silikon (Lebensmittelqualität)",
@@ -12960,37 +11476,12 @@
     "specification": {
       "category": "Haushalt",
       "product_type": "Lunchbox",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "FUDY-LT",
+    "product_id": "FUDY_LT",
     "gtin": "0036336356832",
     "title": "Beutel Lunch 3er Set blau",
     "description": "Fudy wiederverwendbare Beutel Lunch 3er Set  (37 ml / 473 ml / 710 ml) Die Fudy wiederverwendbare Beutel sind eine innovative Alternative zu den klassischen Behälter aus starrem Kunststoff oder Glas. Sie sind eine umweltfreundliche Lösung zur Aufbewahrung und Transport von Lebensmittel. Das 3er Set von Fudy eignet sich besonders gut für den Transport von Ihrer Mittagsmahlzeit. Das elastische Material passt hervorragend in Ihre Handtasche und Sie können das Gericht direkt mit dem Beutel in der Mikrowelle erwärmen. Anwendung: Transportieren Sie Ihre Mittagsmahlzeiten / Nachmittagstee  Bewahren Sie Lebensmittel in Ihrem Kühlschrank auf   Im Ofen oder im Wasserbad kochen Erwärmen Sie Ihr Essen in der Mikrowelle Und viele andere Non-Food-Anwendungen Die Fudy wiederverwendbare Beutel können in die Spülmaschine, in die Mikrowelle, ins Gefrierfach und in den Ofen bis zu 220 ° C gestellt werden, Sie können sogar darauf rollen, es wird nichts zerbrechen! Material: Silikon (Lebensmittelqualität)",
@@ -13000,37 +11491,12 @@
     "specification": {
       "category": "Haushalt",
       "product_type": "Lunchbox",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "blau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "blau"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Silikon"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "HTW-500DO",
+    "product_id": "HTW_500DO",
     "gtin": "4897097690025",
     "title": "TW5 Onyx True Wire Less",
     "description": "Die HELM Audio True Wireless 5.0 sind relativ leicht und sitzen sehr angenehm im Ohr. Durch die angebrachten Earwings fallen sie nicht so leicht heraus und sind damit auch für den Sport gut einsetzbar. Sie besitzen einen abgewinkelten Tonkanal, der es leicht macht einen guten Seal zu finden.Im Lieferumfang sind ein paar Comply Schaumstoffohrstöpsel und Silikonohrstöpsel in verschiedenen Grössen beigelegt. Hier sollte für jedes Ohr etwas dabei sein, um einen optionalem Tragekomfort zu erreichen. Sound Matters – Featuring Qualcomm® aptX™ & AAC Audio Technology Reiner HiFi-Sound, geringe Latenz (keine Verzögerung) für Musik und Filme.Von der Industrie anerkannte Klangqualität und starker Bass, den Sie fühlen können. Mit Auto-Pairing und Auto-Charging aufnehmen und spielen. 6-8 Stunden Spielzeit +30 zusätzliche Stunden mit dem tragbaren Ladekoffer. Sichere Komfort-Passform mit unglaublicher Geräuschisolierung für jede Aktivität – Perfekt für Reisen, Training und unterwegs. Regen, Schweiss",
@@ -13040,50 +11506,7 @@
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Kopfhörer",
-      "attributes": [
-        {
-          "name": "Akkukapazität",
-          "value": [
-            "30 Stunden"
-          ]
-        },
-        {
-          "name": "Bluetooth Feature",
-          "value": [
-            "aptX"
-          ]
-        },
-        {
-          "name": "Bluetooth Profile",
-          "value": [
-            "AAC"
-          ]
-        },
-        {
-          "name": "Bluetooth Version",
-          "value": [
-            "5.0"
-          ]
-        },
-        {
-          "name": "Kopfhörertyp",
-          "value": [
-            "InEar"
-          ]
-        },
-        {
-          "name": "Lieferumfang",
-          "value": [
-            "3 Paar Silikonstöpsel, USB Kabel, Ladebox"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "20 Meter"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -13782,307 +12205,92 @@
     "condition": "new"
   },
   {
-    "product_id": "K-PS001",
+    "product_id": "K_PS001",
     "gtin": "6430055457582",
     "title": "Desktop Power Stand Qi 10W",
     "description": "Der Kodak - Power Stand ist ein kompaktes, multifunktionales kabelloses Ladegerät für jeden Schreibtisch oder Nachttisch. Einstellbare Höhe - und Betrachtungswinkel ermöglichen es Ihnen, Videos anzusehen oder Videoanrufe zu besuchen, während Sie Ihr Telefon bequem aufladen. Duale Ladespulen ermöglichen horizontales und vertikales Laden. Der Power Stand lässt sich auch für eine einfache Portabilität zusammenklappen. Dieses Gerät wird der beste Freund Ihres Smartphones!",
-    "images": [
-      "https://pob.flashnet.ch/6430055457582.jpg",
-      "https://pob.flashnet.ch/6430055457582_1.jpg",
-      "https://pob.flashnet.ch/6430055457582_2.jpg",
-      "https://pob.flashnet.ch/6430055457582_3.jpg",
-      "https://pob.flashnet.ch/6430055457582_4.jpg",
-      "https://pob.flashnet.ch/6430055457582_5.jpg"
-    ],
+    "images": [],
     "price": 1790,
     "stock": "25",
     "specification": {
       "category": "Smartphones + Tablets",
       "product_type": "Wireless Charger",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "45mm"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "56mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "137mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "LB03-BLACK",
+    "product_id": "LB03_BLACK",
     "gtin": "667140012340 ",
     "title": "Slim Briefcase 15Zoll Wingman",
     "description": "Die PKG Wingman Aktentasche ist die perfekte Tasche für das Mitnehmen Ihrer wichtigen Unterlagen und Ihrem 15 Zoll Notebook oder MacBook. Die PKG besteht aus leichtem, wetterfesten und atmungsaktivem Außengewebe aus Polyester. Der überstehende Haubenverschluss verhindert das Eindringen von Wasser, wenn Sie im Regen unterwegs sind. Die zwei großen, getrennten Innenfächer bieten Platz für Ihr 15 Zoll  Notebook und Unterlagen bzw. Akten. In den zwei Fronttaschen lassen sich bequem Kabel, Mäuse, Geldbeutel, Handy etc verstauen. Auf Reisen lässt sich die Tasche durch die durchdachte Rückseite an Ihrem Reise-Trolley befestigen. Der mitgelieferte Schultergurt und die Kunstleder-Tragegriffe sorgen für ein angenehmes Tragegefühl",
-    "images": [
-      "https://pob.flashnet.ch/667140012340.jpg",
-      "https://pob.flashnet.ch/667140012340_1.jpg",
-      "https://pob.flashnet.ch/667140012340_2.jpg",
-      "https://pob.flashnet.ch/667140012340_3.jpg",
-      "https://pob.flashnet.ch/667140012340_4.jpg"
-    ],
+    "images": [],
     "price": 1990,
     "stock": "25",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Notebooktasche",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "0.3m"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "0.01m"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "0.4m"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "LB03-DARK GREY",
+    "product_id": "LB03_DARK_GREY",
     "gtin": "667140011237 ",
     "title": "Handliche Tablet/Notebooktasche",
     "description": "Die PKG Wingman Aktentasche ist die perfekte Tasche für das Mitnehmen Ihrer wichtigen Unterlagen und Ihrem 15 Zoll Notebook oder MacBook. Die PKG besteht aus leichtem, wetterfesten und atmungsaktivem Außengewebe aus Polyester. Der überstehende Haubenverschluss verhindert das Eindringen von Wasser, wenn Sie im Regen unterwegs sind. Die zwei großen, getrennten Innenfächer bieten Platz für Ihr 15 Zoll  Notebook und Unterlagen bzw. Akten. In den zwei Fronttaschen lassen sich bequem Kabel, Mäuse, Geldbeutel, Handy etc verstauen. Auf Reisen lässt sich die Tasche durch die durchdachte Rückseite an Ihrem Reise-Trolley befestigen. Der mitgelieferte Schultergurt und die Kunstleder-Tragegriffe sorgen für ein angenehmes Tragegefühl",
-    "images": [
-      "https://pob.flashnet.ch/667140011237.jpg",
-      "https://pob.flashnet.ch/667140011237_1.jpg",
-      "https://pob.flashnet.ch/667140011237_2.jpg",
-      "https://pob.flashnet.ch/667140011237_3.jpg"
-    ],
+    "images": [],
     "price": 1900,
     "stock": "12",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Notebooktasche",
-      "attributes": [
-        {
-          "name": "Anwendungsbereich",
-          "value": [
-            "Indoor + Outdoor"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "33 cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "Grau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "Dunkelgrau"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "5cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "39.50 cm"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Stoff"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "LB03-LIGHT GREY",
+    "product_id": "LB03_LIGHT_GREY",
     "gtin": "667140011244 ",
     "title": "Handliche Notebook/Tablet Tasche bis 15Zoll",
     "description": "Die PKG Wingman Aktentasche ist die perfekte Tasche für das Mitnehmen Ihrer wichtigen Unterlagen und Ihrem 15 Zoll Notebook oder MacBook. Die PKG besteht aus leichtem, wetterfesten und atmungsaktivem Außengewebe aus Polyester. Der überstehende Haubenverschluss verhindert das Eindringen von Wasser, wenn Sie im Regen unterwegs sind. Die zwei großen, getrennten Innenfächer bieten Platz für Ihr 15 Zoll  Notebook und Unterlagen bzw. Akten. In den zwei Fronttaschen lassen sich bequem Kabel, Mäuse, Geldbeutel, Handy etc verstauen. Auf Reisen lässt sich die Tasche durch die durchdachte Rückseite an Ihrem Reise-Trolley befestigen. Der mitgelieferte Schultergurt und die Kunstleder-Tragegriffe sorgen für ein angenehmes Tragegefühl",
-    "images": [
-      "https://pob.flashnet.ch/667140011244.jpg",
-      "https://pob.flashnet.ch/667140011244_1.jpg",
-      "https://pob.flashnet.ch/667140011244_2.jpg",
-      "https://pob.flashnet.ch/667140011244_3.jpg",
-      "https://pob.flashnet.ch/667140011244_4.jpg"
-    ],
+    "images": [],
     "price": 2900,
     "stock": "30",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Notebooktasche",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "33cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "grau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "hellgrau"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "5cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "39.5cm"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Stoff"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "LB06-GREY",
+    "product_id": "LB06_GREY",
     "gtin": "667140012005 ",
     "title": "Slim Briefcase 15 Zoll Wingman CE",
     "description": "Die PKG Wingman Aktentasche ist die perfekte Tasche für das Mitnehmen Ihrer wichtigen Unterlagen und Ihrem 15 Zoll Notebook oder MacBook. Die PKG besteht aus leichtem, wetterfesten und atmungsaktivem Außengewebe aus Polyester. Der überstehende Haubenverschluss verhindert das Eindringen von Wasser, wenn Sie im Regen unterwegs sind. Die zwei großen, getrennten Innenfächer bieten Platz für Ihr 15 Zoll  Notebook und Unterlagen bzw. Akten. In den zwei Fronttaschen lassen sich bequem Kabel, Mäuse, Geldbeutel, Handy etc verstauen. Auf Reisen lässt sich die Tasche durch die durchdachte Rückseite an Ihrem Reise-Trolley befestigen. Der mitgelieferte Schultergurt und die Kunstleder-Tragegriffe sorgen für ein angenehmes Tragegefühl",
-    "images": [
-      "https://pob.flashnet.ch/667140012005.jpg",
-      "https://pob.flashnet.ch/667140012005_1.jpg",
-      "https://pob.flashnet.ch/667140012005_2.jpg",
-      "https://pob.flashnet.ch/667140012005_3.jpg"
-    ],
+    "images": [],
     "price": 3500,
     "stock": "6",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Notebooktasche",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "grau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "grau"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "LB08-BLACKTAN",
+    "product_id": "LB08_BLACKTAN",
     "gtin": "667140012418 ",
     "title": "Rucksackttasche mit Notebookfach",
     "description": "Schlanker Notebook-Rucksack inspiriert von technischen Materialien und moderner urbaner Outdoor-Bekleidung. Leichter, wasserdichter und atmungsaktiver Aussenstoff. Futter in Kontrast-Farben, langlebig und leicht zu reinigen. Innenteiler, um Laptop und Datei Fächer trennen. Bequeme Nylon-Griffe und ein Nylon-Schultergurt sorgen für Komfort.",
-    "images": [
-      "https://pob.flashnet.ch/667140012418.jpg",
-      "https://pob.flashnet.ch/667140012418_1.jpg",
-      "https://pob.flashnet.ch/667140012418_2.jpg",
-      "https://pob.flashnet.ch/667140012418_3.jpg",
-      "https://pob.flashnet.ch/667140012418_4.jpg"
-    ],
+    "images": [],
     "price": 4900,
     "stock": "2",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Notebooktasche",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "40 cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz, tan"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "05 cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "50 cm"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Stoff"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -14169,100 +12377,32 @@
     "condition": "new"
   },
   {
-    "product_id": "LS05-DARK GREY",
+    "product_id": "LS05_DARK_GREY",
     "gtin": "667140011251 ",
     "title": "Pocket Sleeve 13 Zoll",
     "description": "PKG Notebooktasche Inspiriert von den technischen Materialien und schlanken Silhouetten der modernen, urbanen Outdoor-Bekleidungen. - Leichter, wasserdichter und atmungsaktiver Aussenstoff Innenfutter in Kontrastfarbe, langlebig und leicht zu reinigen Fronttasche für Kabel, Geldbörse, Sonnenbrille usw.",
-    "images": [
-      "https://pob.flashnet.ch/667140011251.jpg",
-      "https://pob.flashnet.ch/667140011251_1.jpg"
-    ],
+    "images": [],
     "price": 1990,
     "stock": "30",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Notebooktasche",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "40 cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "grau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "dunkelgrau"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "10 cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "40 cm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "LS05-LIGHT GREY",
+    "product_id": "LS05_LIGHT_GREY",
     "gtin": "667140011268 ",
     "title": "Pocket Sleeve 13 Zoll",
     "description": "PKG Notebooktasche Inspiriert von den technischen Materialien und schlanken Silhouetten der modernen, urbanen Outdoor-Bekleidungen. - Leichter, wasserdichter und atmungsaktiver Aussenstoff Innenfutter in Kontrastfarbe, langlebig und leicht zu reinigen Fronttasche für Kabel, Geldbörse, Sonnenbrille usw.",
-    "images": [
-      "https://pob.flashnet.ch/667140011268.jpg",
-      "https://pob.flashnet.ch/667140011268_1.jpg"
-    ],
+    "images": [],
     "price": 1990,
     "stock": "30",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Notebooktasche",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "25 cm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "grau"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "hellgrau"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "05 cm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "40 cm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -14403,85 +12543,17 @@
     "condition": "new"
   },
   {
-    "product_id": "MF-PG-001",
+    "product_id": "MF_PG_001",
     "gtin": "3665905000240",
     "title": "Massagepistole",
     "description": "Massforce eignet sich für Sport Amateuren und Spitzensportler.  Hilft Spannungen und Verhärtungen zu lindern Regt die Blutzirkulation an Baut Stress ab Ideal zum Aufwärmen und zur Rehabilitation Leicht und mit nur einer Hand zu bedienen Austauschbare Aufsätze 20 Geschwindigkeiten zu 1200 bis 3200 Schwingungen pro Minute.",
-    "images": [
-      "https://pob.flashnet.ch/3665905000240.jpg",
-      "https://pob.flashnet.ch/3665905000240_1.jpg",
-      "https://pob.flashnet.ch/3665905000240_2.jpg",
-      "https://pob.flashnet.ch/3665905000240_3.jpg",
-      "https://pob.flashnet.ch/3665905000240_4.jpg",
-      "https://pob.flashnet.ch/3665905000240_5.jpg"
-    ],
+    "images": [],
     "price": 7900,
     "stock": "30",
     "specification": {
       "category": "Fitness",
       "product_type": "Massagegerät",
-      "attributes": [
-        {
-          "name": "Akkulaufzeit",
-          "value": [
-            "7 Stunden"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "6cm"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Härtegrad",
-          "value": [
-            "Hart, mittel, weich"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "24cm"
-          ]
-        },
-        {
-          "name": "Körperbereich",
-          "value": [
-            "Ganzer Körper"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "17cm"
-          ]
-        },
-        {
-          "name": "Massageart",
-          "value": [
-            "Entspannung"
-          ]
-        },
-        {
-          "name": "Massagegerätetyp",
-          "value": [
-            "Pistole"
-          ]
-        },
-        {
-          "name": "Spannung",
-          "value": [
-            "12V"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -14566,177 +12638,32 @@
     "condition": "new"
   },
   {
-    "product_id": "OP-DRBTSP-WH",
+    "product_id": "OP_DRBTSP_WH",
     "gtin": "8809477020564",
     "title": "Xingo BT Robot Speaker",
     "description": "Opus One Xingo Dancing Robot Speaker BT Der Roboter-Lautsprecher ist ein kleines Multitalent: Er spielt nicht nur die gewünschte Musik ab, sondern tanzt zu den Beats der Musik . Der Xingo Roboter von Opus One analysiert die abgespielte Musik, die Instrumente und das Tempo - an den Moves von Xingo können sich so manche ein Beispiel nehmen. Eine wirklich ernst zu nehmende Konkurrenz - den Moonwalk von Michael Jackson beherrscht der Robo Dancer ziemlich gut. Voilà   Alleine im Homeoffice? Xingo leistet Gesellschaft und sorgt stellvertretend für die Arbeitskollegen für ein bisschen Unterhaltun Smart Xingo - Fernsteuerung Mit der Programmierfunktion über die App können mehr als 139 Aktionen so kombinieren werden, dass sie zum abgespielten Song passen. Darüber hinaus kann der Xingo Roboter mit der Fernsteuerung einfach vorwärts, seitwärts und rückwärts gehen, die Lichtfarbe auf der Frontplatte ändern.   Die App ist auf Google Play und im App Store verfügbar.",
-    "images": [
-      "https://pob.flashnet.ch/8809477020564.jpg",
-      "https://pob.flashnet.ch/8809477020564_1.jpg",
-      "https://pob.flashnet.ch/8809477020564_2.jpg",
-      "https://pob.flashnet.ch/8809477020564_3.jpg",
-      "https://pob.flashnet.ch/8809477020564_4.jpg"
-    ],
+    "images": [],
     "price": 3500,
     "stock": "30",
     "specification": {
       "category": "HiFi + Audio",
       "product_type": "Bluetooth Lautsprecher",
-      "attributes": [
-        {
-          "name": "Akkukapazität",
-          "value": [
-            "1800mAh"
-          ]
-        },
-        {
-          "name": "Akkulaufzeit",
-          "value": [
-            "4 Stunden"
-          ]
-        },
-        {
-          "name": "Bluetooth Version",
-          "value": [
-            "4.2"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "112mm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "178mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "84mm"
-          ]
-        },
-        {
-          "name": "Max Reichweite",
-          "value": [
-            "10 Meter"
-          ]
-        },
-        {
-          "name": "Nennbelastbarkeit (RMS)",
-          "value": [
-            "5 Watt"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "R5085-DIAMOND",
+    "product_id": "R5085_DIAMOND",
     "gtin": "8435350741785",
     "title": "Smart Bulb E27 Alexa, Google, IFTTT",
     "description": "Verwalten Sie Ihre Leuchten zu Hause, wo immer Sie sind Über Wi-Fi können Sie die Woox Smart Bulb oder die Smart Bulb ohne Hub oder zusätzliche Hardware steuern. Die Smart Bulb ist so einfach installiert wie eine Standardlampe und verbindet sich im Handumdrehen über die kostenlose Woox Home App mit Ihrem WLAN. Woox Home ermöglicht es Ihnen auch, Ihre Leuchten mit einem Smartphone oder Tablet zu steuern, z. B. die Helligkeit anzupassen, Zeitpläne und Szenen festzulegen und die verbrauchte Energie zu verfolgen. Für zusätzlichen Komfort können Sie Ihre Stimme verwenden, um die Woox Smart Bulb in Verbindung mit Amazon Alexa und Google Assistant zu steuern. Sprachsteuerung: Die Woox Smart Bulb arbeitet direkt mit Amazon Alexa und Google Assistant zusammen, um Ihre Geräte per Sprachsteuerung zu verwalten. Weisen Sie jeder Smart Bulb einen Namen zu und kommunizieren Sie beim Erstellen eines Sprachbefehls einfach mit ihm über den Namen. Sie können auch eine Gruppe für alle Ihre intelligenten",
-    "images": [
-      "https://pob.flashnet.ch/8435350741785.jpg",
-      "https://pob.flashnet.ch/8435350741785_1.jpg",
-      "https://pob.flashnet.ch/8435350741785_2.jpg",
-      "https://pob.flashnet.ch/8435350741785_4.jpg"
-    ],
+    "images": [],
     "price": 390,
     "stock": "40",
     "specification": {
       "category": "Wohnen",
       "product_type": "Leuchtmittel",
-      "attributes": [
-        {
-          "name": "Anschlüsse",
-          "value": [
-            "Lampenfassung Typ E27"
-          ]
-        },
-        {
-          "name": "Anwendungsbereich",
-          "value": [
-            "Indoor"
-          ]
-        },
-        {
-          "name": "Anzahl Lampen",
-          "value": [
-            "1"
-          ]
-        },
-        {
-          "name": "Breite",
-          "value": [
-            "55 mm"
-          ]
-        },
-        {
-          "name": "Dimmbarkeit",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Farbtemparatur",
-          "value": [
-            "2700K - 6500K"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "110 mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "110 mm"
-          ]
-        },
-        {
-          "name": "Leutchtmitteltyp",
-          "value": [
-            "LED"
-          ]
-        },
-        {
-          "name": "Lichtfarbe",
-          "value": [
-            "RGB+CCT"
-          ]
-        },
-        {
-          "name": "Smart Home",
-          "value": [
-            "Ja"
-          ]
-        },
-        {
-          "name": "Smart Home Ökosystem",
-          "value": [
-            "Alexa, Google"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -14836,7 +12763,7 @@
       "https://pob.flashnet.ch/6922621501695.jpg"
     ],
     "price": 3900,
-    "stock": "6",
+    "stock": "5",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Gaming Controller",
@@ -14855,7 +12782,7 @@
       "https://pob.flashnet.ch/6922621501725_2.jpg"
     ],
     "price": 3900,
-    "stock": "11",
+    "stock": "9",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Gaming Controller",
@@ -14864,156 +12791,47 @@
     "condition": "new"
   },
   {
-    "product_id": "RET00292-PM",
+    "product_id": "RET00292_PM",
     "gtin": "6922621502210",
     "title": "Ultimade Xbox Pad weiss",
     "description": "Ultimative Kontrolle, Stil und Leistung zu einem günstigen Preis. Passen Sie Button-Mapping, Stick- und Trigger-Empfindlichkeit an, Schwingungsdämpfung und mehr mit 8BitDo Ultimate Software Xbox Series X/S, Xbox 0ne, Windows, i0S und Android.",
-    "images": [
-      "https://pob.flashnet.ch/6922621502210.jpg",
-      "https://pob.flashnet.ch/6922621502210_1.jpg",
-      "https://pob.flashnet.ch/6922621502210_2.jpg",
-      "https://pob.flashnet.ch/6922621502210_3.jpg"
-    ],
+    "images": [],
     "price": 3900,
     "stock": "17",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Gaming Controller",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "146.7mm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "weiss"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "61.3mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "103.6mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "RET00293-PM",
+    "product_id": "RET00293_PM",
     "gtin": "6922621502227",
     "title": "Ultimate Xbox Pad schwarz",
     "description": "Ultimative Kontrolle, Stil und Leistung zu einem günstigen Preis. Passen Sie Button-Mapping, Stick- und Trigger-Empfindlichkeit an, Schwingungsdämpfung und mehr mit 8BitDo Ultimate Software Xbox Series X/S, Xbox 0ne, Windows, i0S und Android.",
-    "images": [
-      "https://pob.flashnet.ch/6922621502227.jpg",
-      "https://pob.flashnet.ch/6922621502227_1.jpg",
-      "https://pob.flashnet.ch/6922621502227_2.jpg",
-      "https://pob.flashnet.ch/6922621502227_3.jpg",
-      "https://pob.flashnet.ch/6922621502227_4.jpg"
-    ],
+    "images": [],
     "price": 2900,
-    "stock": "16",
+    "stock": "15",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Gaming Controller",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "146,7mm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "61,3mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "103,6mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "RET00294-PM",
+    "product_id": "RET00294_PM",
     "gtin": "6922621502234",
     "title": "Ultimate Xbox Pad pink",
     "description": "Ultimative Kontrolle, Stil und Leistung zu einem günstigen Preis. Passen Sie Button-Mapping, Stick- und Trigger-Empfindlichkeit an, Schwingungsdämpfung und mehr mit 8BitDo Ultimate Software Xbox Series X/S, Xbox 0ne, Windows, i0S und Android.",
-    "images": [
-      "https://pob.flashnet.ch/6922621502234.jpg",
-      "https://pob.flashnet.ch/6922621502234_1.jpg",
-      "https://pob.flashnet.ch/6922621502234_2.jpg",
-      "https://pob.flashnet.ch/6922621502234_3.jpg"
-    ],
+    "images": [],
     "price": 2500,
     "stock": "9",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Gaming Controller",
-      "attributes": [
-        {
-          "name": "Breite",
-          "value": [
-            "146.7mm"
-          ]
-        },
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "pink"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "pink"
-          ]
-        },
-        {
-          "name": "Höhe",
-          "value": [
-            "61.3mm"
-          ]
-        },
-        {
-          "name": "Länge",
-          "value": [
-            "103.6mm"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -15062,7 +12880,7 @@
       "https://pob.flashnet.ch/6922621503170_4.jpg"
     ],
     "price": 4900,
-    "stock": "4",
+    "stock": "2",
     "specification": {
       "category": "IT + Multimedia",
       "product_type": "Gaming Controller",
@@ -15269,7 +13087,7 @@
       "https://pob.flashnet.ch/5057964001777_4.jpg"
     ],
     "price": 3900,
-    "stock": "4",
+    "stock": "3",
     "specification": {
       "category": "TV + Heimkino",
       "product_type": "Echo Show Halterung",
@@ -15360,99 +13178,32 @@
     "condition": "new"
   },
   {
-    "product_id": "SIMP-BLACK",
+    "product_id": "SIMP_BLACK",
     "gtin": "863604000452 ",
     "title": "French Press 964ml",
     "description": "Mühelose, schnelle Reinigung - Mehr Geschmack, weniger Schmutz. Im Gegensatz zu herkömmlichen französischen Pressen lässt sich unser Kaffeekaraffe zur einfachen Reinigung neben dem intelligenten Filter herausheben. Das bedeutet, dass kein Kaffeesatz mehr im Waschbecken verstreut ist oder den Abfluss verstopft. Individuell anpassbar Der doppelte Edelstahlfilter verhindert, dass Sedimente jemals in Ihre Tasse gelangen. Sie können Ihr Gebräu basierend auf Ihrer bevorzugten Bohnenmahlung und Röstung/Herkunft anpassen (und ja, der im Laden gekaufte vorgemahlene Kaffee zum Drip funktioniert auch). Sie machen nicht nur Kaffee, Sie kreieren ein Ritual, das auf Sie persönlich zugeschnitten ist . Gourmet Kaffee, leicht gemacht. Die Glaskaraffe und der Kaffeekorb werden mit vorab gemessenen Linien geliefert, die das Rätselraten bei Ihrem Kaffee-Wasser-Brühverhältnis beseitigen. Konstant leckerer Kaffee, immer!",
-    "images": [
-      "https://pob.flashnet.ch/863604000452.jpg",
-      "https://pob.flashnet.ch/863604000452_1.jpg",
-      "https://pob.flashnet.ch/863604000452_2.jpg",
-      "https://pob.flashnet.ch/863604000452_3.jpg",
-      "https://pob.flashnet.ch/863604000452_4.jpg",
-      "https://pob.flashnet.ch/863604000452_5.jpg",
-      "https://pob.flashnet.ch/863604000452_6.jpg",
-      "https://pob.flashnet.ch/863604000452_7.jpg"
-    ],
+    "images": [],
     "price": 2900,
     "stock": "30",
     "specification": {
       "category": "Haushalt",
       "product_type": "Kaffeebereiter",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Stahl"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Stahl"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "SIMP-RED",
+    "product_id": "SIMP_RED",
     "gtin": "863604000469 ",
     "title": "French Press 964ml",
     "description": "Mühelose, schnelle Reinigung - Mehr Geschmack, weniger Schmutz. Im Gegensatz zu herkömmlichen französischen Pressen lässt sich unser Kaffeekaraffe zur einfachen Reinigung neben dem intelligenten Filter herausheben. Das bedeutet, dass kein Kaffeesatz mehr im Waschbecken verstreut ist oder den Abfluss verstopft. Individuell anpassbar Der doppelte Edelstahlfilter verhindert, dass Sedimente jemals in Ihre Tasse gelangen. Sie können Ihr Gebräu basierend auf Ihrer bevorzugten Bohnenmahlung und Röstung/Herkunft anpassen (und ja, der im Laden gekaufte vorgemahlene Kaffee zum Drip funktioniert auch). Sie machen nicht nur Kaffee, Sie kreieren ein Ritual, das auf Sie persönlich zugeschnitten ist . Gourmet Kaffee, leicht gemacht. Die Glaskaraffe und der Kaffeekorb werden mit vorab gemessenen Linien geliefert, die das Rätselraten bei Ihrem Kaffee-Wasser-Brühverhältnis beseitigen. Konstant leckerer Kaffee, immer!",
-    "images": [
-      "https://pob.flashnet.ch/863604000469.jpg",
-      "https://pob.flashnet.ch/863604000469_1.jpg",
-      "https://pob.flashnet.ch/863604000469_2.jpg",
-      "https://pob.flashnet.ch/863604000469_3.jpg",
-      "https://pob.flashnet.ch/863604000469_4.jpg",
-      "https://pob.flashnet.ch/863604000469_5.jpg",
-      "https://pob.flashnet.ch/863604000469_6.jpg"
-    ],
+    "images": [],
     "price": 2990,
-    "stock": "19",
+    "stock": "18",
     "specification": {
       "category": "Haushalt",
       "product_type": "Kaffeebereiter",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "rot"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "rot"
-          ]
-        },
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Stahl"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Stahl"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -15510,32 +13261,17 @@
     "condition": "new"
   },
   {
-    "product_id": "T3 BLACK",
+    "product_id": "T3_BLACK",
     "gtin": "6430058280286",
     "title": "Gemüsegarten",
     "description": "Ein Gemüsegarten in deiner Küche? Der Tegren Kräutertopf T3 macht es möglich! Dieser moderne Topf kann fast alle Pflanzensamen aufnehmen und passt dank dem kompakten Design problemlos in jede Küche. Zu den Vorteilen dieses neuartigen T3-Küchengarten gehören: das dreimal schnellere Wachstum der Pflanzen, die mühelose Anwendung und die Möglichkeit, fast alle Pflanzen zu züchten. Ausserdem eignet sich dieses Gerät auch für Personen ohne grünen Daumen, dank der innovativen Active Growing Technology und mithilfe der Smart Gardener App wirst du Schritt für Schritt beim Anpflanzungsprozess begleitet. Die Active Growing Technology wird durch die Smart-Gardener Anwendung gesteuert und besitzt viele nützliche Funktionen. Details & Informationen: Topf für Kräuter oder Blumen. Anwendung: Tregren Smart Gardener für Android & iOS. Max. Anzahl Pflanzen: 3. Einsatzort: Innen. Material: ABS, Aluminium. Form: Rechteck. Wasser-Volumen: 1 l. Leistung: 100-240V, 50/60Hz, 2A, 5W. Länge des Kabels: 1,4 m. H",
-    "images": [
-      "https://pob.flashnet.ch/6430058280286.jpg"
-    ],
+    "images": [],
     "price": 3900,
     "stock": "6",
     "specification": {
       "category": "Do it + Garten",
       "product_type": "Blumentopf",
-      "attributes": [
-        {
-          "name": "Farbgruppe",
-          "value": [
-            "schwarz"
-          ]
-        },
-        {
-          "name": "Genaue Farbbezeichnung",
-          "value": [
-            "schwarz"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
@@ -15606,81 +13342,41 @@
     "condition": "new"
   },
   {
-    "product_id": "V-AFMBO",
+    "product_id": "V_AFMBO",
     "gtin": "6922794741539",
     "title": "8 Port HDMI Switch Splitter",
     "description": "Perfekt zum Duplizieren von 1 HDMI-Eingangssignal auf 8 Monitore oder 4K-Fernsehbildschirme, HDMI-Splitter 1 in 8 out, dieses Gerät erweitert den Monitor nicht für PC oder Laptops",
-    "images": [
-      "https://pob.flashnet.ch/6922794741539.jpg",
-      "https://pob.flashnet.ch/6922794741539_1.jpg",
-      "https://pob.flashnet.ch/6922794741539_2.jpg"
-    ],
+    "images": [],
     "price": 7900,
     "stock": "4",
     "specification": {
       "category": "Peripherie",
       "product_type": "Switch Box",
-      "attributes": [
-        {
-          "name": "Kategorie",
-          "value": [
-            "Switch Box"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "V-CHLBD",
+    "product_id": "V_CHLBD",
     "gtin": "6922794746633",
     "title": "4-Port USB 3.0 Hub 0.5 Meter",
     "description": "Nicht genügend Anschlüsse in der Ausstattung Ihres Computers oder Laptops? USB Hub Vention ergänzt die ursprünglichen Anschlüsse, wodurch Sie auch die Arbeitseffizienz erheblich verbessern. Vention 4-Port USB 3.0 Hub with Power Supply 0,5 m Schwarz bietet Verbindung durch Stecker USB-A des Standards USB 3,2 Gen 1 (USB 3,0). Das Gehäuse des USB-Hubs ist aus Kunststoff gefertigt.",
-    "images": [
-      "https://pob.flashnet.ch/6922794746633.jpg",
-      "https://pob.flashnet.ch/6922794746633_1.jpg",
-      "https://pob.flashnet.ch/6922794746633_2.jpg",
-      "https://pob.flashnet.ch/6922794746633_3.jpg",
-      "https://pob.flashnet.ch/6922794746633_4.jpg",
-      "https://pob.flashnet.ch/6922794746633_5.jpg",
-      "https://pob.flashnet.ch/6922794746633_6.jpg",
-      "https://pob.flashnet.ch/6922794746633_7.jpg",
-      "https://pob.flashnet.ch/6922794746633_8.jpg",
-      "https://pob.flashnet.ch/6922794746633_9.jpg"
-    ],
+    "images": [],
     "price": 1290,
     "stock": "30",
     "specification": {
       "category": "Notebook Zubehör",
       "product_type": "Dockingstation + USB Hub",
-      "attributes": [
-        {
-          "name": "Länge",
-          "value": [
-            "0.5 Meter"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "V-CNBHB",
+    "product_id": "V_CNBHB",
     "gtin": "6922794741348",
     "title": "USB-C Docking Station 5 in 1",
     "description": "Eine Dockingstation stellt eine absolut unverzichtbare Ergänzung zum Notebook dar. Besonders für Ultrabooks, die eine bescheidenere Ausstattung haben, garantiert sie den Pluspunkt zahlreicher Ports und Anschlüsse. Sie erhöht die Benutzerfreundlichkeit des Notebooks, durch sie können Sie Ihren Schreibtisch besser organisieren, und von jeder zusätzlichen Elektronik können Sie sich befreien - in wenigen Sekunden. Die eigentliche Verbindung zwischen Dockingstation Vention Type-C (USB-C) to HDMI + 3x USB3.0 + PD Converter 0.15M Gray Metal Type und dem Laptop läuft über die Schnittstelle USB-C. Der Standard für Steckverbinder ist USB 3,2 Gen 1 (USB 3,0). Die Dockingstation ist aus Aluminium gefertigt, so dass sie auf dem Tisch gut zur Geltung kommt. Ein Netzadapter ist ebenfalls im Lieferumfang enthalten. Anschliessen können Sie maximal 1 Stk. Monitore, von denen 1 Stk. 4K-Auflösung haben können. Power Delivery beschleunigt das Aufladen erheblich.",
-    "images": [
-      "https://pob.flashnet.ch/6922794741348.jpg",
-      "https://pob.flashnet.ch/6922794741348_1.jpg",
-      "https://pob.flashnet.ch/6922794741348_2.jpg",
-      "https://pob.flashnet.ch/6922794741348_3.jpg",
-      "https://pob.flashnet.ch/6922794741348_4.jpg",
-      "https://pob.flashnet.ch/6922794741348_5.jpg",
-      "https://pob.flashnet.ch/6922794741348_6.jpg",
-      "https://pob.flashnet.ch/6922794741348_7.jpg",
-      "https://pob.flashnet.ch/6922794741348_8.jpg",
-      "https://pob.flashnet.ch/6922794741348_9.jpg"
-    ],
+    "images": [],
     "price": 1790,
     "stock": "26",
     "specification": {
@@ -15691,56 +13387,26 @@
     "condition": "new"
   },
   {
-    "product_id": "V-THEBC",
+    "product_id": "V_THEBC",
     "gtin": "6922794742642",
     "title": "Multifunktion 12-in-1 Typ C Dockingstation",
     "description": "Die 12-in-1 USB-C Dockingstation von Vention bietet eine umfassende Lösung für die Erweiterung der Anschlussmöglichkeiten von Laptops und anderen Geräten. Mit einer Vielzahl von Ports ermöglicht diese Dockingstation eine nahtlose Verbindung zu verschiedenen Peripheriegeräten. Sie ist ideal für den Einsatz im Büro oder zu Hause, um die Produktivität zu steigern und die Konnektivität zu verbessern. Die kompakte Bauweise und das elegante Design aus Metall machen sie zu einer praktischen Ergänzung für jeden Arbeitsplatz. Die Dockingstation unterstützt sowohl Datenübertragungen als auch Videoausgaben, was sie zu einem vielseitigen Werkzeug für moderne Nutzer macht.    Multi-function 12-in-1 Type-C Docking Station 0.25m Black Metal Type. TF Card Leser, Type C PD, Type C female Port, 3.5mm Audio",
-    "images": [
-      "https://pob.flashnet.ch/6922794742642.jpg",
-      "https://pob.flashnet.ch/6922794742642_1.jpg",
-      "https://pob.flashnet.ch/6922794742642_2.jpg",
-      "https://pob.flashnet.ch/6922794742642_3.jpg",
-      "https://pob.flashnet.ch/6922794742642_4.jpg"
-    ],
+    "images": [],
     "price": 7900,
     "stock": "15",
     "specification": {
       "category": "Notebooks + PCs",
       "product_type": "Dockingstation + USB Hub",
-      "attributes": [
-        {
-          "name": "Genaue Materialgruppe",
-          "value": [
-            "Aluminium"
-          ]
-        },
-        {
-          "name": "Materialgruppe",
-          "value": [
-            "Aluminium"
-          ]
-        }
-      ]
+      "attributes": []
     },
     "condition": "new"
   },
   {
-    "product_id": "V-TOMHB",
+    "product_id": "V_TOMHB",
     "gtin": "6922794753471",
     "title": "Multifunction USB-C 9in-1 HDMI, USB-C, RJ45, 3.5mm",
     "description": "Multi-function USB-C 9-in-1 to HDMI/USB-C Gen 1/USB3.0x2/RJ45/SD/TF/TRRS 3.5mm/PD Docking Station 0.15M Gray Aluminum Alloy Type",
-    "images": [
-      "https://pob.flashnet.ch/6922794753471.jpg",
-      "https://pob.flashnet.ch/6922794753471_1.jpg",
-      "https://pob.flashnet.ch/6922794753471_2.jpg",
-      "https://pob.flashnet.ch/6922794753471_3.jpg",
-      "https://pob.flashnet.ch/6922794753471_4.jpg",
-      "https://pob.flashnet.ch/6922794753471_5.jpg",
-      "https://pob.flashnet.ch/6922794753471_6.jpg",
-      "https://pob.flashnet.ch/6922794753471_7.jpg",
-      "https://pob.flashnet.ch/6922794753471_8.jpg",
-      "https://pob.flashnet.ch/6922794753471_9.jpg"
-    ],
+    "images": [],
     "price": 4900,
     "stock": "30",
     "specification": {
