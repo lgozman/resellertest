@@ -3,9 +3,7 @@
     "gtin": "4023012338561",
     "title": "Nicer Dicer Fusion Smart XXL Messer - 10x10mm - T\u00fcrkis",
     "attributes": {
-        "size": [
-            "10x10mm"
-        ],
+        "size": [],
         "color": [
             "T\u00fcrkis"
         ],
@@ -28,9 +26,7 @@
     "gtin": "4023012338455",
     "title": "Julietti Plus 9tlg. - 9tlg. - T\u00fcrkis",
     "attributes": {
-        "size": [
-            "9tlg."
-        ],
+        "size": [],
         "color": [
             "T\u00fcrkis"
         ],
@@ -55,9 +51,7 @@
     "gtin": "4023012340045",
     "title": "Nicer Julietti Kompakt - 3tlg. - Gr\u00fcn",
     "attributes": {
-        "size": [
-            "3tlg."
-        ],
+        "size": [],
         "color": [
             "Gr\u00fcn"
         ],
@@ -141,14 +135,9 @@
     "product_type": "Staubsauger Zubeh\u00f6r",
     "images": [
         "https://www.simpli.ch/original/28069.jpg",
-        "https://www.simpli.ch/original/INVICTUS_X",
-        "Water_stehendkleiner.jpeg",
-        "https://www.simpli.ch/original/INVICTUS",
-        "X",
-        "WATER.jpeg",
-        "https://www.simpli.ch/original/Invictus",
-        "X7",
-        "Water_8tlg_mit-Beschreibung_A4.jpeg"
+        "https://www.simpli.ch/original/INVICTUS_X%20Water_stehendkleiner.jpeg",
+        "https://www.simpli.ch/original/INVICTUS%20X%20WATER.jpeg",
+        "https://www.simpli.ch/original/Invictus%20X7%20Water_8tlg_mit-Beschreibung_A4.jpeg"
     ],
     "condition": "new"
 },{
@@ -189,10 +178,7 @@
     "price": "590",
     "category": "Grill",
     "product_type": "Holzkohlegrill Zubeh\u00f6r",
-    "images": [
-        "https://www.simpli.ch/original/everdure_raeucherchips",
-        "(1).png"
-    ],
+    "images": "https://www.simpli.ch/original/everdure_raeucherchips%20(1).png",
     "condition": "new"
 },{
     "product_id": "107509",
@@ -219,9 +205,8 @@
         "https://www.simpli.ch/original/54280-107509-03.jpg",
         "https://www.simpli.ch/original/54280-107509-18.jpg",
         "https://www.simpli.ch/original/54280-107509-09.jpg",
-        "https://www.simpli.ch/original/cyclonic-dc-flux-296v-staubsauger-ohne-kabel-ohne-beutel-oder-3-in-1",
-        "(1).webp",
-        "https://www.simpli.ch/original/cyclonic-dc-flux-296v-staubsauger-ohne-kabel-ohne-beutel-oder-3-in-1.webp"
+        "https://www.simpli.ch/original/107509_6.jpg",
+        "https://www.simpli.ch/original/107509_7.jpg"
     ],
     "condition": "new"
 },{
@@ -247,8 +232,8 @@
         "https://www.simpli.ch/original/75027-147813-02.jpg",
         "https://www.simpli.ch/original/75027-147813-03.jpg",
         "https://www.simpli.ch/original/75027-147813-04.jpg",
-        "https://www.simpli.ch/original/75027-147809-010.webp",
-        "https://www.simpli.ch/original/75027-147809-019.webp"
+        "https://www.simpli.ch/original/18024_6.jpg",
+        "https://www.simpli.ch/original/18024_7.jpg"
     ],
     "condition": "new"
 },{
@@ -283,9 +268,7 @@
     "gtin": "8435572600600",
     "title": "Standmixer Moi Grey - 400ml - Grau",
     "attributes": {
-        "size": [
-            "400ml"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -294,7 +277,7 @@
         ]
     },
     "description": "Der neue Mixer kommt mit 230 W Leistung und erm\u00f6glicht es Ihnen schnell S\u00e4fte, Smoothies und sogar N\u00fcssen zuzubereiten und es in einem tragbaren 400-ml-Beh\u00e4lter \u00fcberall mit hin zu nehmen.\nDer Deckel hat einen klappbaren Tragegriff zum Aufh\u00e4ngen an Ihrem Rucksack, sowie einen Auslauf zum Trinken. Nicht elektrische Teile sind Sp\u00fclmaschinenfest. Der Mixer ist leicht und kompakt, nimmt sehr wenig Platz ein und ist in verschiedenen Farben erh\u00e4ltlich. Die Klingen bestehen aus Edelstahl und die Becher frei von BPA und anderen Toxinen. \n\nTipp : Wenn die Zutaten zu dick sind und dazu neigen, am Boden des Becher zu haften, sch\u00fctteln Sie den Becher wie ein Shaker, bevor Sie es auf den Boden stellen. Wenn sie noch unten bleiben, f\u00fcgen Sie etwas Fl\u00fcssigkeit (Wasser, Milch, Saft usw.) hinzu und sch\u00fctteln sie den Inhalt.",
-    "stock": "20",
+    "stock": "39",
     "price": "1120",
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Standmixer",
@@ -347,7 +330,7 @@
         ]
     },
     "description": "Hei\u00dfluftfritteuse mit einer Leistung von 1500W, k\u00f6nnen Sie ohne \u00d6l frittieren, um auf saubere, gesunde und rauchfreie Weise ein ebenso knuspriges Ergebnis zu erzielen wie bei herk\u00f6mmlichen Fritteusen. Ebenso eignet sich die Fritteuse zum Backen. Die Kapazit\u00e4t betr\u00e4gt ca. 4 Portionen. Programmieren Sie die Kochtemperatur und -zeit auf Ihrem LCD-Bildschirm oder verwenden Sie eines der acht vorinstallierten Programme, um Kartoffeln, Fleisch, Fisch, Garnelen, H\u00fchnchen, Kuchen, H\u00fchnchenschenkel oder Brot zu frittieren. \n\nMit einem 3,5-l-Beh\u00e4lter k\u00f6nnen Sie bis zu 500 g Kartoffeln oder andere Lebensmittel \u00f6l frei braten (das entspricht etwa 3-4 Portionen). Sie k\u00f6nnen eine Pause einlegen, um die Zutaten zu r\u00fchren und gleichm\u00e4ssig zu br\u00e4unen. \n\nFritteuse und Ofen: Mit der Hei\u00dflufttechnologie k\u00f6nnen Sie nicht nur Braten, sondern auch Lebensmittel gebacken.\n\nLeicht zu reinigen: Alle nicht elektrischen Teile sind sp\u00fclmaschinenfest und frei von BPA.",
-    "stock": "15",
+    "stock": "24",
     "price": "6650",
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Air Fryer",
@@ -358,33 +341,6 @@
         "https://www.simpli.ch/original/52025-103791-04-1.jpg",
         "https://www.simpli.ch/original/52025-103971-02-FONDO-BLANCO.jpg",
         "https://www.simpli.ch/original/Mosaico-FONDO-BLANCO-52025-103791.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "119163",
-    "gtin": "8435572603311",
-    "title": "QUICKFRY FD-2180 - Fritteuse - Schwarz,Silber",
-    "attributes": {
-        "size": [],
-        "color": [
-            "Schwarz,Silber"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "Elektrische Fritteuse aus rostfreiem Stahl mit einem Fassungsverm\u00f6gen von 3 Litern einer Temperatur von bis zu 190 \u00b0 C und transparentem Deckel zur Kontrolle des Bratzustands. Dar\u00fcber hinaus verf\u00fcgt die Fritteuse \u00fcber einen Filter, um das \u00d6l sauber zu halten und ein Vermischen von Ger\u00fcchen und Aromen zu vermeiden.\n\nBest\u00e4ndigkeit, Hygiene und Haltbarkeit dank Edelstahldesign. \nDer transparente Deckel verhindert das Entweichen von Ger\u00fcchen oder Spritzern. Die Innenverkleidung und Korb sind aus verchromtem Hochdruck-Aluminiumdruckguss mit einer Antihaftbeschichtung. Die Fritteuse ist leicht zu reinigen mit abnehmbaren Teilen, die sp\u00fclmaschinenfest sind.",
-    "stock": "6",
-    "price": [],
-    "category": "K\u00fcchenger\u00e4te",
-    "product_type": "Fritteuse",
-    "images": [
-        "https://www.simpli.ch/original/60906-119163-01.jpg",
-        "https://www.simpli.ch/original/60906-119163-02.jpg",
-        "https://www.simpli.ch/original/60906-119163-03.jpg",
-        "https://www.simpli.ch/original/60906-119163-04.jpg",
-        "https://www.simpli.ch/original/60906-119163-06.jpg",
-        "https://www.simpli.ch/original/60906-119163-07.jpg"
     ],
     "condition": "new"
 },{
@@ -401,7 +357,7 @@
         ]
     },
     "description": "Toasten, erhitzen, auftauen und auf dem oberen Rost Muffins oder Geb\u00e4ck br\u00e4unen. Mit 3 Funktionen und 6 Temperaturstufen ist es f\u00fcr gleichm\u00e4\u00dfiges toasten ausgelegt. \n\nLeistungsstark mit 1000 W Leistung, 6 Temperaturen, 3 Funktionen und Oberfl\u00e4chen aus geb\u00fcrstetem Edelstahl beinhaltet es eine herausnehmbarer Kr\u00fcmelschale und Kabelrinne.\n\nDer Schlitz ist lang genug, um zwei Scheiben Brot zu r\u00f6sten, und tief genug, um zwei lange St\u00fccke Brot zu r\u00f6sten, die \u00fcbereinandergelegt werden k\u00f6nnen.",
-    "stock": "10",
+    "stock": "8",
     "price": "1565",
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Toaster",
@@ -451,7 +407,7 @@
         ]
     },
     "description": "Reisedampfb\u00fcgeleisen, praktisch, bequem, leicht und faltbar. Eine B\u00fcgell\u00f6sung, die Ihre Kleidung perfekt macht, wann immer Sie sie brauchen. \n\nIntelligentes Faltdesign, mit der gleichen Leistung und den gleichen Ergebnissen wie ein herk\u00f6mmliches Dampfb\u00fcgeleisen.\n\nEs erreicht in nur 25 Sekunden die optimale B\u00fcgeltemperatur und erreicht dank seines innovativen Doppelheizungssystems einen starken Dauerdampf.\n\nBeseitigt Falten, Ger\u00fcche und sterilisiert Stoffe aufgrund der Temperatur (zwischen 120 \u00b0 und 160 \u00b0) und der Dampf Einwirkung.\n\nSehr einfach zu bedienen, einmal gefaltet ist es \u00e4hnlich gro\u00df wie eine Getr\u00e4nkedose. Das extra lange Kabel misst 1,8 m.\n\nEs verf\u00fcgt \u00fcber ein doppeltes Sicherheitssystem: f\u00fcr \u00dcberhitzung und schalet sich automatisch aus.",
-    "stock": "11",
+    "stock": "5",
     "price": "2450",
     "category": "B\u00fcgeln",
     "product_type": "Dampfgl\u00e4tter",
@@ -488,33 +444,6 @@
     ],
     "condition": "new"
 },{
-    "product_id": "110402",
-    "gtin": "8435572602437",
-    "title": "IRON UP STAND - Dampfb\u00fcgeleisen - Weiss",
-    "attributes": {
-        "size": [],
-        "color": [
-            "Weiss"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "Neues vertikales Dampfb\u00fcgeleisen mit Sockel. Ihre Kleidung ist dank des kontinuierlichen Dampfes und des vertikalen B\u00fcgelsystems mit einem h\u00f6henverstellbaren Teleskoprohr, einer speziellen D\u00fcse / B\u00fcrste f\u00fcr Hosen und dem avantgardistischen Design des B\u00fcgeleisens mit 9 Dampfemissionspunkten immer perfekt, sauber und geb\u00fcgelt.\n\nVertikales Dampfb\u00fcgelzentrum mit dreifacher B\u00fcgeloption hinterl\u00e4sst ihre Kleidung faltenfrei, sauber und desinfiziert.\n\nMit dem ultraschnellen Heizsystem und dem kontinuierlichen vertikalen Dampf von 32 g / min k\u00f6nnen Sie Ihre Kleidung in nur wenigen Minuten b\u00fcgeln, ohne die Gefahr des Verbrennens Ihrer Kleidung dank dem Sicherheitssystem, dass von \u00dcberhitzung sch\u00fctzt.\n\nH\u00e4ngen Sie das Kleidungsst\u00fcck an den Kleiderb\u00fcgel, tragen Sie den Dampf mit der 9-Punkt-B\u00fcrste auf und Ihre Kleidung ist in wenigen Sekunden vollst\u00e4ndig sauber und glatt.\n\nDas faltbare Teleskoprohr, das extra lange Kabel und die vertikale St\u00fctze bieten Ihnen maximalen",
-    "stock": "1",
-    "price": "3000",
-    "category": "B\u00fcgeln",
-    "product_type": "Dampfgl\u00e4tter",
-    "images": [
-        "https://www.simpli.ch/original/56040-110402-01-A-1.jpg",
-        "https://www.simpli.ch/original/56040-110402-01-B-1.jpg",
-        "https://www.simpli.ch/original/56040-110402-02-A-1.jpg",
-        "https://www.simpli.ch/original/56040-110402-04-A-1.jpg",
-        "https://www.simpli.ch/original/56040-110402-13-1.jpg",
-        "https://www.simpli.ch/original/56040-110402-02.webp"
-    ],
-    "condition": "new"
-},{
     "product_id": "82474",
     "gtin": "8435572602321",
     "title": "DREAM LINE - Ionisches Gl\u00e4tteisen - Schwarz",
@@ -537,35 +466,6 @@
         "https://www.simpli.ch/original/39634-82474-02.jpg",
         "https://www.simpli.ch/original/39634-82474-03.jpg",
         "https://www.simpli.ch/original/39634-82474-04.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "14511",
-    "gtin": "8435507912556",
-    "title": "Standmixer Moi - 400ml - Vanille",
-    "attributes": {
-        "size": [
-            "400ml"
-        ],
-        "color": [
-            "Vanille"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "Der neue Mixer kommt mit 230 W Leistung und erm\u00f6glicht es Ihnen schnell S\u00e4fte, Smoothies und sogar N\u00fcssen zuzubereiten und es in einem tragbaren 400-ml-Beh\u00e4lter \u00fcberall mit hin zu nehmen.\nDer Deckel hat einen klappbaren Tragegriff zum Aufh\u00e4ngen an Ihrem Rucksack, sowie einen Auslauf zum Trinken. Nicht elektrische Teile sind Sp\u00fclmaschinenfest. Der Mixer ist leicht und kompakt, nimmt sehr wenig Platz ein und ist in verschiedenen Farben erh\u00e4ltlich. Die Klingen bestehen aus Edelstahl und die Becher frei von BPA und anderen Toxinen. \n\nTipp : Wenn die Zutaten zu dick sind und dazu neigen, am Boden des Becher zu haften, sch\u00fctteln Sie den Becher wie ein Shaker, bevor Sie es auf den Boden stellen. Wenn sie noch unten bleiben, f\u00fcgen Sie etwas Fl\u00fcssigkeit (Wasser, Milch, Saft usw.) hinzu und sch\u00fctteln sie den Inhalt.",
-    "stock": "2",
-    "price": "1260",
-    "category": "K\u00fcchenger\u00e4te",
-    "product_type": "Standmixer",
-    "images": [
-        "https://www.simpli.ch/original/6282-14511-01_FONDO_BLANCO.jpg",
-        "https://www.simpli.ch/original/6282-14511-02_FONDO_BLANCO.jpg",
-        "https://www.simpli.ch/original/6282-14511-03_FONDO_BLANCO.jpg",
-        "https://www.simpli.ch/original/6282-14511-04_FONDO_BLANCO.jpg",
-        "https://www.simpli.ch/original/6282-34054-06_FONDO_BLANCO.jpg",
-        "https://www.simpli.ch/original/6282-34054-05_FONDO_BLANCO.jpg"
     ],
     "condition": "new"
 },{
@@ -598,9 +498,7 @@
     "gtin": "4023012342285",
     "title": "Messerset ND Speed - 3tlg. - Silber",
     "attributes": {
-        "size": [
-            "3tlg."
-        ],
+        "size": [],
         "color": [
             "Silber"
         ],
@@ -620,9 +518,7 @@
     "gtin": "4023012281799",
     "title": "INVICTUS One Set - 9tlg. - Weiss",
     "attributes": {
-        "size": [
-            "9tlg."
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -631,7 +527,7 @@
         ]
     },
     "description": "Maximale Power im Handformat. Der INVICTUS ONE ist ein kompakter, kabelloser, federleichter Handstaubsauger mit einem Hochleistungs-BLDC Motor. Mit seiner 2,5-fachen Saugkraft sorgt er f\u00fcr Tiefenreinigung auf allen Oberfl\u00e4chen und auf allen Polsterm\u00f6beln. Der INVICTUS ONE ist immer und \u00fcberall einsetzbar. Egal ob Schmutz auf dem Sofa, im Auto oder an schwer zug\u00e4nglichen Stellen wie Schr\u00e4nken, der INVICTUS ONE erreicht jede noch so kleine Nische.\n\nProduktinformationen: Invictus One | Handstaubsauger | Set 9-tlg.\nDieses Set beinhaltet:\n\nInvictus One Handstaubsauger Set 6-tlg. \n1 x Hauptger\u00e4t\n1 x Staub-Beh\u00e4lter\n1 x B\u00fcrstenaufsatz\n2 x HEPA-Filter\n1 x Edelstahl 18/10-Filter\nGratis dazu erhalten Sie:\n\nInvictus One Lade-Set 3-tlg.\n1 x Ladestation\n1 x Fugend\u00fcse\n1 x Ladekabel\n\nDie Bedienung des INVICTUS ONE ist f\u00fcr jeden geeignet. Einfach den Powerknopf dr\u00fccken und loslegen. Mit dem One-Klick-Brush System verwandelt sich die D\u00fcse mit",
-    "stock": "3",
+    "stock": "1",
     "price": "4915",
     "category": "Bodenpflege",
     "product_type": "Handstaubsauger",
@@ -640,10 +536,8 @@
         "https://www.simpli.ch/original/INV_one_Set_8tlg_weiss.jpeg",
         "https://www.simpli.ch/original/INV_one_weiss_Broetchen.jpeg",
         "https://www.simpli.ch/original/INV_one_weiss_leeren_vorne.jpeg",
-        "https://www.simpli.ch/original/INV_one_Filter",
-        "innen_weiss_2.jpeg",
-        "https://www.simpli.ch/original/INV_one_Filter",
-        "aussen_weiss.jpeg"
+        "https://www.simpli.ch/original/INV_one_Filter%20innen_weiss_2.jpeg",
+        "https://www.simpli.ch/original/INV_one_Filter%20aussen_weiss.jpeg"
     ],
     "condition": "new"
 },{
@@ -700,9 +594,7 @@
     "gtin": "4023012246682",
     "title": "Cerafit Magic Pot Set - 6tlg. - Grau,Weiss",
     "attributes": {
-        "size": [
-            "6tlg."
-        ],
+        "size": [],
         "color": [
             "Grau,Weiss"
         ],
@@ -738,19 +630,16 @@
         ]
     },
     "description": "<p>Eine Evolution in der Toiletten Reinigung<br><br>\u201cI can\u2019t believe we\u2019ve put a man on the moon, yet we use a poo stick to clean the toilet.\u201d<br><br>FlushBrush ist ein Ersatz f\u00fcr Ihre schreckliche Toilettenb\u00fcrste. Es ist eine neue Art der Toilettenreinigung. Jeder andere Gegenstand in Ihrem Badezimmer hat sich modernisiert, ist bequemer und hygienischer geworden, au\u00dfer der Toilettenb\u00fcrste!<br><br>Das Design der Toilettenb\u00fcrste ist seit der Erfindung der modernen Toilette gleich geblieben, und die meisten von uns halten sie bis auf einen Meter an unsere Zahnb\u00fcrsten heran.<br><br>Das muss sich wirklich \u00e4ndern. Die FlushBrush bringt die Toilettenreinigung ins 21. Jahrhundert.<br><br>Die FlushBrush ist in dreierlei Hinsicht hygienischer. <br><br>-Der Silikonkopf weist Wasser und Abfall ab, im Gegensatz zu B\u00fcrsten mit Borsten. <br>-Der Kopf wird im Inneren der Toilette aufbewahrt, wobei bei jeder Sp\u00fclung",
-    "stock": "798",
+    "stock": "99",
     "price": "875",
     "category": "Badezimmer",
     "product_type": "Toilettenb\u00fcrste",
     "images": [
         "https://www.simpli.ch/original/IMG_2708.jpg",
-        "https://www.simpli.ch/original/IMG_2717",
-        "(1).jpg",
-        "https://www.simpli.ch/original/Fluhshi",
-        "2.jpg",
+        "https://www.simpli.ch/original/IMG_2717%20(1).jpg",
+        "https://www.simpli.ch/original/Fluhshi%202.jpg",
         "https://www.simpli.ch/original/fjuerhjg.jpg",
-        "https://www.simpli.ch/original/fwefwe5.jpg",
-        "https://www.simpli.ch/original/Flush_Brush_Bu\u0308rste.jpg"
+        "https://www.simpli.ch/original/fwefwe5.jpg"
     ],
     "condition": "new"
 },{
@@ -767,7 +656,7 @@
         ]
     },
     "description": "Ein Set von K\u00fcchenutensilien, die Ihnen bei allen t\u00e4glichen K\u00fcchenarbeiten helfen.\n\nAlle Utensilien sind aus lebensmittelechtem Silikon (LFGB und FDA zugelassen), Holz und Edelstahl (Schneebesen und Zange). Au\u00dferdem sind sie BPA-frei.\n\nSt\u00fcck f\u00fcr St\u00fcck entworfen und handgefertigt, so dass sie sich viel besser an die jeweiligen K\u00fcchentechniken anpassen.\n\n\nSilikon besch\u00e4digt oder zerkratzt Ihre T\u00f6pfe und Pfannen nicht und ist \u00e4u\u00dferst hitzebest\u00e4ndig, da es Temperaturen von bis zu 230 \u00b0C erreichen kann, ohne seine urspr\u00fcngliche Form zu verlieren oder sich zu zersetzen\n\n \n\nGriffe aus naturbelassenem Buchenholz mit einem Loch zum Aufh\u00e4ngen. Holz ist ein leichtes und langlebiges Material, das nicht zerkratzt und keine W\u00e4rme \u00fcbertr\u00e4gt.",
-    "stock": "148",
+    "stock": "99",
     "price": "1560",
     "category": "K\u00fcchenhelfer",
     "product_type": "Kochbesteck",
@@ -794,19 +683,15 @@
         ]
     },
     "description": "Elektrischer Entsafter zur einfachen und reibungslosen Herstellung von Zitruss\u00e4ften. Ein zeitloser, praktischer und funktionaler Klassiker mit einem kompakten, modernen Design, das in Ihrer K\u00fcche kaum Platz beansprucht.\n\nDank seiner Kraft und seines 85-mm-Quetschkegels, der f\u00fcr jede Zitrusfrucht geeignet ist, mit geringem Aufwand auspressen.\n\nMit tropffreiem Edelstahlsaftauslass, um Verschmutzungen zu vermeiden.\n\nLeicht zu reinigen: Die Samen und das dickste Fruchtfleisch werden im herausnehmbaren Filter gesammelt. Alle nicht elektrischen Teile sind sp\u00fclmaschinenfest.\n\nEs nimmt wenig Speicherplatz ein. Es hat ein Kabelfach.\n\nFrei von BPA und anderen Toxinen.",
-    "stock": "26",
+    "stock": "25",
     "price": "1320",
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Entsafter",
     "images": [
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(1).jpg",
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(3).jpg",
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(7).jpg",
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(5).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(1).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(3).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(7).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(5).jpg",
         "https://www.simpli.ch/original/C2_JUICER-EASY-ROSA-04-1.jpg",
         "https://www.simpli.ch/original/C2_JUICER-EASY_ROSA-02.jpg"
     ],
@@ -830,19 +715,12 @@
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Entsafter",
     "images": [
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(8).jpg",
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(9).jpg",
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(10).jpg",
-        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w",
-        "(14).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(8).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(9).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(10).jpg",
+        "https://www.simpli.ch/original/juicer-easy-exprimidor-electrico-de-citricos-40w%20(14).jpg",
         "https://www.simpli.ch/original/C2_JUICER-EASY_VERDE-05.jpg",
-        "https://www.simpli.ch/original/JUICER",
-        "EASY",
-        "PASTEL",
-        "COLORS-03-1.jpg"
+        "https://www.simpli.ch/original/JUICER%20EASY%20PASTEL%20COLORS-03-1.jpg"
     ],
     "condition": "new"
 },{
@@ -873,9 +751,7 @@
     "gtin": "8034023254517",
     "title": "\u00b03 Pinewood Premium Diffusor - 240ml",
     "attributes": {
-        "size": [
-            "240ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -892,13 +768,7 @@
         "https://www.simpli.ch/original/903881000003pack.jpg",
         "https://www.simpli.ch/original/903881000003prod.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "3",
-        "Pinewood.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%203%20Pinewood.png"
     ],
     "condition": "new"
 },{
@@ -906,9 +776,7 @@
     "gtin": "8034023254524",
     "title": "\u00b07 Musk Cassis Premium Diffusor - 240ml",
     "attributes": {
-        "size": [
-            "240ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -926,14 +794,7 @@
         "https://www.simpli.ch/original/903881000007prod.jpg",
         "https://www.simpli.ch/original/903881000007image.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "7",
-        "Musk",
-        "Cassis.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%207%20Musk%20Cassis.png"
     ],
     "condition": "new"
 },{
@@ -941,9 +802,7 @@
     "gtin": "8034023254586",
     "title": "\u00b022 Acqua Premium Diffusor - 240ml",
     "attributes": {
-        "size": [
-            "240ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -961,13 +820,7 @@
         "https://www.simpli.ch/original/903881000022prod.jpg",
         "https://www.simpli.ch/original/903881000022image.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "22",
-        "Acqua.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2022%20Acqua.png"
     ],
     "condition": "new"
 },{
@@ -975,9 +828,7 @@
     "gtin": "8034023254609",
     "title": "\u00b027 Orange Premium Diffusor - 240ml",
     "attributes": {
-        "size": [
-            "240ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -994,11 +845,7 @@
         "https://www.simpli.ch/original/903881000027pack.jpg",
         "https://www.simpli.ch/original/903881000027prod.jpg",
         "https://www.simpli.ch/original/903881000027image.jpg",
-        "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/SDS",
-        "N\u00b027",
-        "ORANGE",
-        "DE.pdf"
+        "https://www.simpli.ch/original/903881000999image.jpg"
     ],
     "condition": "new"
 },{
@@ -1006,9 +853,7 @@
     "gtin": "8034023254616",
     "title": "\u00b033 Sandalwood Premium Diffusor - 240ml",
     "attributes": {
-        "size": [
-            "240ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1026,13 +871,7 @@
         "https://www.simpli.ch/original/903881000033prod.jpg",
         "https://www.simpli.ch/original/903881000033image.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "33",
-        "Sandalwood.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2033%20Sandalwood.png"
     ],
     "condition": "new"
 },{
@@ -1040,9 +879,7 @@
     "gtin": "8034023254876",
     "title": "\u00b015 Lemongrass Refill f\u00fcr Diffusor - 240ml",
     "attributes": {
-        "size": [
-            "240ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1057,13 +894,7 @@
     "product_type": "Raumduft Zubeh\u00f6r",
     "images": [
         "https://www.simpli.ch/original/903882000015.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "15",
-        "Lemongrass.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2015%20Lemongrass.png"
     ],
     "condition": "new"
 },{
@@ -1071,9 +902,7 @@
     "gtin": "8034023254906",
     "title": "\u00b022 Acqua Refill f\u00fcr Diffusor - 240ml",
     "attributes": {
-        "size": [
-            "240ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1088,13 +917,7 @@
     "product_type": "Raumduft Zubeh\u00f6r",
     "images": [
         "https://www.simpli.ch/original/903882000022.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "22",
-        "Acqua.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2022%20Acqua.png"
     ],
     "condition": "new"
 },{
@@ -1102,9 +925,7 @@
     "gtin": "8034023254944",
     "title": "\u00b03 Pinewood Premium Diffusor - 100ml",
     "attributes": {
-        "size": [
-            "100ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1120,13 +941,7 @@
     "images": [
         "https://www.simpli.ch/original/903880000003pack.jpg",
         "https://www.simpli.ch/original/903880000003prod.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "3",
-        "Pinewood.png",
+        "https://www.simpli.ch/original/10003_3.png",
         "https://www.simpli.ch/original/903881000999image.jpg"
     ],
     "condition": "new"
@@ -1135,9 +950,7 @@
     "gtin": "8034023254937",
     "title": "\u00b07 Musk Cassis Premium Diffusor - 100ml",
     "attributes": {
-        "size": [
-            "100ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1154,15 +967,7 @@
         "https://www.simpli.ch/original/903880000007pack.jpg",
         "https://www.simpli.ch/original/100ml_2.jpeg",
         "https://www.simpli.ch/original/903880000007prod.jpg",
-        "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "7",
-        "Musk",
-        "Cassis.png"
+        "https://www.simpli.ch/original/903881000999image.jpg"
     ],
     "condition": "new"
 },{
@@ -1170,9 +975,7 @@
     "gtin": "8034023254968",
     "title": "\u00b09 White Flower Premium Diffusor - 100ml",
     "attributes": {
-        "size": [
-            "100ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1189,15 +992,7 @@
         "https://www.simpli.ch/original/903880000009pack.jpg",
         "https://www.simpli.ch/original/903880000009prod.jpg",
         "https://www.simpli.ch/original/903881000009image.jpg",
-        "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "9",
-        "White",
-        "Flower.png"
+        "https://www.simpli.ch/original/903881000999image.jpg"
     ],
     "condition": "new"
 },{
@@ -1205,9 +1000,7 @@
     "gtin": "8034023254982",
     "title": "\u00b015 Lemongrass Premium Diffusor - 100ml",
     "attributes": {
-        "size": [
-            "100ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1225,13 +1018,7 @@
         "https://www.simpli.ch/original/903880000015prod.jpg",
         "https://www.simpli.ch/original/903881000015image.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "15",
-        "Lemongrass.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2015%20Lemongrass.png"
     ],
     "condition": "new"
 },{
@@ -1239,9 +1026,7 @@
     "gtin": "8034023254999",
     "title": "\u00b018 Lino Puro Premium Diffusor - 100ml",
     "attributes": {
-        "size": [
-            "100ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1259,14 +1044,7 @@
         "https://www.simpli.ch/original/903880000018prod.jpg",
         "https://www.simpli.ch/original/903881000018image.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "18",
-        "Lino",
-        "Puro.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2018%20Lino%20Puro.png"
     ],
     "condition": "new"
 },{
@@ -1274,9 +1052,7 @@
     "gtin": "8034023259789",
     "title": "\u00b022 Acqua Premium Diffusor - 100ml",
     "attributes": {
-        "size": [
-            "100ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1294,13 +1070,7 @@
         "https://www.simpli.ch/original/903880000022prod.jpg",
         "https://www.simpli.ch/original/903881000022image.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "22",
-        "Acqua.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2022%20Acqua.png"
     ],
     "condition": "new"
 },{
@@ -1308,9 +1078,7 @@
     "gtin": "8034023259796",
     "title": "\u00b033 Sandalwood Premium Diffusor - 100ml",
     "attributes": {
-        "size": [
-            "100ml"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1328,13 +1096,7 @@
         "https://www.simpli.ch/original/903880000033prod.jpg",
         "https://www.simpli.ch/original/903881000033image.jpg",
         "https://www.simpli.ch/original/903881000999image.jpg",
-        "https://www.simpli.ch/original/AVVERTENZE",
-        "240ML",
-        "DIFF.",
-        "SHOP",
-        "ONLINE",
-        "33",
-        "Sandalwood.png"
+        "https://www.simpli.ch/original/AVVERTENZE%20240ML%20DIFF.%20SHOP%20ONLINE%2033%20Sandalwood.png"
     ],
     "condition": "new"
 },{
@@ -1351,7 +1113,7 @@
         ]
     },
     "description": "Ein Set von K\u00fcchenutensilien, die Ihnen bei allt\u00e4glichen K\u00fcchenarbeiten helfen.\nAlle Utensilien sind aus lebensmittelechtem Silikon (LFGB und FDA zugelassen), Holz und Edelstahl (Schneebesen und Zange). Ausserdem sind sie BPA-frei.\nSt\u00fcck f\u00fcr St\u00fcck entworfen und handgefertigt. So, dass sie sich viel besser an die jeweiligen K\u00fcchentechniken anpassen.\n\nSilikon besch\u00e4digt oder zerkratzt Ihre T\u00f6pfe und Pfannen nicht und ist \u00e4usserst hitzebest\u00e4ndig, da es Temperaturen von bis zu 230 \u00b0C erreichen kann, ohne seine urspr\u00fcngliche Form zu verlieren oder sich zu zersetzen\n \nGriffe aus naturbelassenem Buchenholz mit einem Loch zum Aufh\u00e4ngen. Holz ist ein leichtes und langlebiges Material, dass nicht zerkratzt und keine W\u00e4rme \u00fcbertr\u00e4gt.\n\nBreiter Spatel: 284x69mm und 73g.\nSchmaler Spatel: 304x42mm und 70g.\nSchlitzspatel: 323x82mm und 73g.\nL\u00f6ffel: 316x69mm und 72g.\nKleiner Skimmer\nSch\u00f6pfl\u00f6ffel: 320x77mm und 85g.\nPastal\u00f6ffel: 317x62mm und",
-    "stock": "238",
+    "stock": "99",
     "price": "1560",
     "category": "K\u00fcchenhelfer",
     "product_type": "Kochbesteck",
@@ -1369,9 +1131,7 @@
     "gtin": "5709386821821",
     "title": "Weinglas 50cl + Trinkglas 35cl - 8tlg. - Weiss",
     "attributes": {
-        "size": [
-            "8tlg."
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -1407,7 +1167,7 @@
         ]
     },
     "description": "Dieser vielseitig einsetzbare Kleiderst\u00e4nder wird sofort eine praktische und mobile Aufbewahrungsl\u00f6sung f\u00fcr Ihre Kleider bieten. Hergestellt aus hochwertigem Edelstahl, ist der Kleiderst\u00e4nder f\u00fcr jahrelangen Gebrauch ausgelegt. Mit einer Kleiderstange, die bis zu 150 cm ausziehbar sind, ist der Kleiderst\u00e4nder so konzipiert, dass der Trocknungsraum maximiert, wobei die Standfl\u00e4che minimiert wird. Seine H\u00f6he kann von 100 cm bis 170 cm eingestellt werden. . Er kann au\u00dferdem f\u00fcr die einfache Lagerung auseinandergebaut werden. Dieser mobile Kleiderst\u00e4nder ist leicht, robust, stabil und leicht zu verstauen.\n\nAbmessungen: 81x42x100-170cm\n22/16mm Rohr, Dicke:0.35mm\n25mm Rohr, Dicke:0.45mm\nMaximale Belastung: 10kg",
-    "stock": "44",
+    "stock": "40",
     "price": "590",
     "category": "Kleideraufbewahrung",
     "product_type": "Kleiderst\u00e4nder",
@@ -1425,9 +1185,7 @@
     "gtin": "8435572603793",
     "title": "POT STUDIO - Topf - \u00d824cm - Pastellblau",
     "attributes": {
-        "size": [
-            "\u00d824cm"
-        ],
+        "size": [],
         "color": [
             "Pastellblau"
         ],
@@ -1447,9 +1205,7 @@
         "https://www.simpli.ch/original/60636-123414_02.jpg",
         "https://www.simpli.ch/original/pot-studio-topf-o20fcm-aus-aluminiumguss-und-bakelitgriffen.jpeg",
         "https://www.simpli.ch/original/pot-studiod-topf-o20cm-aus-aluminiumguss-und-bakelitgriffen.jpeg",
-        "https://www.simpli.ch/original/Mosaico",
-        "BLANCO",
-        "60636-123414.jpg",
+        "https://www.simpli.ch/original/Mosaico%20BLANCO%2060636-123414.jpg",
         "https://www.simpli.ch/original/60636-123414_ICONOS.jpg"
     ],
     "condition": "new"
@@ -1498,7 +1254,7 @@
         ]
     },
     "description": "Ein Gartenstuhl mit Polyrattangeflecht in Bambus Optik, ideal f\u00fcr gem\u00fctliche Stunden auf der Terrasse oder Balkon.\nSei es zum Nachmittagskaffee oder zum Abendessen mit Freunden oder Familie, mit diesem eleganten Stuhl machen Sie nichts falsch!\n\nEine Kombination aus Metall und Rattan, welcher Stabilit\u00e4t bietet aber auch gem\u00fctlich ist und ein nat\u00fcrliches und stilvolles Ambiente bringt.\n\nUV- und witterungsbest\u00e4ndig\n\n\nMassen\nL: 57 cm\nB: 68 cm\nH: 80 cm\n\nBelastung\nMax. Gewicht 120 kg",
-    "stock": "26",
+    "stock": "14",
     "price": "5400",
     "category": "Gartenm\u00f6bel",
     "product_type": "Gartenstuhl",
@@ -1515,9 +1271,7 @@
     "gtin": "5709386718381",
     "title": "Korb-Set - 3tlg. - Braun",
     "attributes": {
-        "size": [
-            "3tlg."
-        ],
+        "size": [],
         "color": [
             "Braun"
         ],
@@ -1555,7 +1309,7 @@
         ]
     },
     "description": "Die klappbare Box von SCHOU ist die perfekte L\u00f6sung f\u00fcr alle, die Wert auf Ordnung und \u00dcbersicht legen. Durch ihre faltbare und stapelbare Konstruktion eignen sie sich hervorragend als Aufbewahrungskisten und lassen sich platzsparend verstauen. Mit den mitgelieferten Etiketten k\u00f6nnen die Boxen beschriftet werden, sodass alles seinen richtigen Platz findet.\n\nHergestellt aus 100% recyceltem Kunststoff, sind sie eine umweltfreundliche Wahl und tragen zur Verringerung der Abfallmenge bei.\n\nBestellen Sie jetzt und bringen Sie Ordnung in Ihr Zuhause - mit unseren zusammenklappbaren Boxen!\n\n33 cm x 24.5 cm x 15 cm",
-    "stock": "143",
+    "stock": "99",
     "price": "600",
     "category": "Wohnen",
     "product_type": "Aufbewahrung und Ordnung",
@@ -1571,9 +1325,7 @@
     "gtin": "5709386723347",
     "title": "BACKFORM mit Deckel - 36x23cm - Schwarz",
     "attributes": {
-        "size": [
-            "36x23cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -1598,9 +1350,7 @@
     "gtin": "8435572613181",
     "title": "STONE 2 IN 1 COMPACT - 5tlg. - Grau",
     "attributes": {
-        "size": [
-            "5tlg."
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -1615,39 +1365,9 @@
     "product_type": "Sandwich + Waffeleisen",
     "images": [
         "https://www.simpli.ch/original/106190-211234-1-1.jpg",
-        "https://www.simpli.ch/original/106190-211234-04-A-1_GOFRE",
-        "gris.jpg",
-        "https://www.simpli.ch/original/106190-211234-04-A-1",
-        "gris.jpg",
-        "https://www.simpli.ch/original/stone-2-in-1-compact-sandwichgrill-und-waffeleisen-mit-austauschbaren-platten",
-        "(9).jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "83329",
-    "gtin": "5709386833299",
-    "title": "Besteck Set Holzoptik - 4tlg. - Braun",
-    "attributes": {
-        "size": [
-            "4tlg."
-        ],
-        "color": [
-            "Braun"
-        ],
-        "brand": [
-            "Schou"
-        ]
-    },
-    "description": "Verleihen Sie Ihren Mahlzeiten eine besondere Note mit dem Besteck 4-teiliges Set! Dieses Set besteht aus einem 22,5cm langen Messer mit 2mm Klinge, einer 21,5cm langen Gabel mit 2mm Zinken in edler Holzoptik. Beide Teile sind aus hochwertigem, poliertem Edelstahl gefertigt und somit langlebig und sp\u00fclmaschinenfest.\n\nDas Besteck 4-teiliges Set ist der perfekte Begleiter f\u00fcr jede Art von Mahlzeit und eignet sich auch perfekt f\u00fcr den Outdoor-Einsatz. Holen Sie sich jetzt das Set und genie\u00dfen Sie k\u00f6stliche Momente mit Freunden und Familie!",
-    "stock": "8",
-    "price": "305",
-    "category": "Geschirr + Besteck",
-    "product_type": "Besteck Set",
-    "images": [
-        "https://www.simpli.ch/original/83329_f.jpg",
-        "https://www.simpli.ch/original/83329_m.jpg",
-        "https://www.simpli.ch/original/74173_83329_m.jpg",
-        "https://www.simpli.ch/original/83329_f1.jpg"
+        "https://www.simpli.ch/original/106190-211234-04-A-1_GOFRE%20gris.jpg",
+        "https://www.simpli.ch/original/106190-211234-04-A-1%20gris.jpg",
+        "https://www.simpli.ch/original/stone-2-in-1-compact-sandwichgrill-und-waffeleisen-mit-austauschbaren-platten%20(9).jpg"
     ],
     "condition": "new"
 },{
@@ -1681,9 +1401,7 @@
     "gtin": "5709386726355",
     "title": "Bambus Tisch - 40x40x5cm - Braun,Schwarz",
     "attributes": {
-        "size": [
-            "40x40x5cm"
-        ],
+        "size": [],
         "color": [
             "Braun,Schwarz"
         ],
@@ -1704,40 +1422,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "874044",
-    "gtin": "5701390442788",
-    "title": "Einmachglas mit Schraubdeckel - 0.25l - Weiss,Gold",
-    "attributes": {
-        "size": [
-            "0.25l"
-        ],
-        "color": [
-            "Weiss,Gold"
-        ],
-        "brand": [
-            "Schou"
-        ]
-    },
-    "description": "Halten Sie Ihre Lebensmittel lange frisch mit der Aufbewahrungsgl\u00e4ser 0,25l mit Deckel! Dieses hochwertige Glas ist aus langlebigem Glas und Metall gefertigt und hat eine Gr\u00f6\u00dfe von \u00d88,5xH9cm. Der Deckel sorgt daf\u00fcr, dass keine Luft in das Glas eindringen kann und somit bleiben die Lebensmittel l\u00e4nger frisch.\n\nDas Aufbewahrungsglas eignet sich auch perfekt zum Sterilisieren mit kochendem Wasser. Um das Glas vor Besch\u00e4digungen zu sch\u00fctzen, sollten Sie es vor der Sterilisierung mit hei\u00dfem Leitungswasser vorw\u00e4rmen.\n\nHolen Sie sich jetzt das Aufbewahrungsglas 0,25l mit Deckel und bewahren Sie Ihre Lebensmittel lange frisch auf!",
-    "stock": "4",
-    "price": "80",
-    "category": "K\u00fcche",
-    "product_type": "Einmachglas",
-    "images": [
-        "https://www.simpli.ch/original/874044_f.jpg",
-        "https://www.simpli.ch/original/74139_74140_874043_874044_874045_87456_m.jpg",
-        "https://www.simpli.ch/original/87447_87448_874049_874045_874043_87456_m.jpg",
-        "https://www.simpli.ch/original/874045_874043_75124_82319_77071_83133_m.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "72339",
     "gtin": "5709386723392",
     "title": "Backform - 26cm - Schwarz",
     "attributes": {
-        "size": [
-            "26cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -1754,28 +1443,6 @@
         "https://www.simpli.ch/original/72337.jpg",
         "https://www.simpli.ch/original/72337_1.jpg"
     ],
-    "condition": "new"
-},{
-    "product_id": "72330",
-    "gtin": "5709386723309",
-    "title": "Brotbackform - 25,5x12x6cm - Rot",
-    "attributes": {
-        "size": [
-            "25,5x12x6cm"
-        ],
-        "color": [
-            "Rot"
-        ],
-        "brand": [
-            "Schou"
-        ]
-    },
-    "description": "Das perfekte Werkzeug zum Backen von leckerem Brot zu Hause. Diese Brotbackform misst 25,5 x 12 x 6 cm und ist aus hochwertigem Karbonstahl mit einer Dicke von 0,4 mm gefertigt. Die Pfanne ist mit einer einlagigen Goldflon-Antihaftbeschichtung versehen, so dass Sie Ihr Brot leicht herausnehmen k\u00f6nnen, ohne dass es an der Pfanne kleben bleibt. Die k\u00fchle graue 11C-Farbe ist stilvoll und modern, und die Backform ist bei einer H\u00f6chsttemperatur von 230\u00b0 sicher zu verwenden. Mit ihrer robusten Konstruktion und der Antihaftbeschichtung wird die Brotbackform sicher ein fester Bestandteil Ihrer K\u00fcche werden.",
-    "stock": "11",
-    "price": "130",
-    "category": "Backen",
-    "product_type": "Backform",
-    "images": "https://www.simpli.ch/original/72330.jpg",
     "condition": "new"
 },{
     "product_id": "72335",
@@ -1851,9 +1518,7 @@
     "gtin": "5701390358454",
     "title": "Bartisch VILLADS - \u00d860cm - Silber",
     "attributes": {
-        "size": [
-            "\u00d860cm"
-        ],
+        "size": [],
         "color": [
             "Silber"
         ],
@@ -1879,9 +1544,7 @@
     "gtin": "5709386494636",
     "title": "Ampelschirm ULRIK \u00d82 - \u00d82.7m - Schwarz",
     "attributes": {
-        "size": [
-            "\u00d82.7m"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -1934,9 +1597,7 @@
     "gtin": "5709386494483",
     "title": "Solarlampe \u00d84,5cm H36cm - 5tlg. - Silber",
     "attributes": {
-        "size": [
-            "5tlg."
-        ],
+        "size": [],
         "color": [
             "Silber"
         ],
@@ -2011,9 +1672,7 @@
     "gtin": "5709386517694",
     "title": "Gartenstuhl MY - 2tlg. - Braun",
     "attributes": {
-        "size": [
-            "2tlg."
-        ],
+        "size": [],
         "color": [
             "Braun"
         ],
@@ -2047,7 +1706,7 @@
         ]
     },
     "description": "<p>Der Gartenstuhl Elisabeth bietet bequeme Sitzm\u00f6glichkeiten und zeitloses Design f\u00fcr Ihren Outdoor-Bereich.</p> <p>&nbsp </p> <p>Mit Massen von B71xT80xH83cm ist dieser Stuhl kompakt und dennoch bequem. Die Sitzh\u00f6he von 39cm, die Sitztiefe von 37cm und die Sitzbreite von 37cm sorgen f\u00fcr eine angenehme Sitzposition. Der Stuhl kann ein maximales Gewicht von 120Kg tragen und eignet sich somit f\u00fcr verschiedene Nutzer. Das KD-Modell (zerlegbar) erleichtert die Montage und Demontage, was die Lagerung und den Transport problemlos macht.</p> <p>&nbsp </p> <p>Hergestellt aus strapazierf\u00e4higem Metall und PE-Kunststoff in der zeitlosen Farbkombination Schwarz/Natur, ist dieser Gartenstuhl nicht nur \u00e4sthetisch ansprechend, sondern auch langlebig und wetterbest\u00e4ndig. Der Gartenstuhl Elisabeth ist vielseitig einsetzbar und passt perfekt zu Gartenm\u00f6belsets, Terrassen oder Balkonen.</p> <p>&nbsp </p>",
-    "stock": "36",
+    "stock": "35",
     "price": "2875",
     "category": "Gartenm\u00f6bel",
     "product_type": "Gartenstuhl",
@@ -2062,43 +1721,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "48871",
-    "gtin": "5709386488710",
-    "title": "Bistrotisch HECTOR - \u00d870cm - Schwarz",
-    "attributes": {
-        "size": [
-            "\u00d870cm"
-        ],
-        "color": [
-            "Schwarz"
-        ],
-        "brand": [
-            "Schou"
-        ]
-    },
-    "description": "<p>Tauchen Sie ein in die Welt des modernen Designs mit unserem Bistrotisch Hector \u00d870cm. Dieser elegante Tisch verbindet Form und Funktion auf perfekte Weise und wird zu einem Blickfang in jedem Raum. Mit einem Durchmesser von 70 cm und einer H\u00f6he von 72 cm bietet er ausreichend Platz f\u00fcr gem\u00fctliche Mahlzeiten oder gesellige Gespr\u00e4che.</p> <p>&nbsp </p> <p>Die Tischplatte mit einer Dicke von 4 mm verleiht dem Tisch eine schlanke und zeitgem\u00e4sse Optik und ist zugleich \u00e4usserst strapazierf\u00e4hig. Das Schwarze Metallgestell sorgt f\u00fcr Stabilit\u00e4t und verleiht dem Tisch eine moderne Eleganz, die zu verschiedenen Einrichtungsstilen passt.</p> <p>&nbsp </p> <p>Der Bistrotisch Hector \u00d870cm eignet sich hervorragend f\u00fcr den Einsatz in K\u00fcchen, Esszimmern oder auch im Gartenbereich. Er ist vielseitig einsetzbar und verleiht jedem Raum einen Hauch von Raffinesse. Lassen Sie sich von diesem stilvollen Tisch begeistern und schaffen Sie einen",
-    "stock": "1",
-    "price": "6900",
-    "category": "Gartenm\u00f6bel",
-    "product_type": "Bistrotisch",
-    "images": [
-        "https://www.simpli.ch/original/48871_f.jpg",
-        "https://www.simpli.ch/original/48871_c1.jpg",
-        "https://www.simpli.ch/original/48871_49244_m2.jpg",
-        "https://www.simpli.ch/original/48871_48727_m.jpg",
-        "https://www.simpli.ch/original/48871_49243_m1.jpg",
-        "https://www.simpli.ch/original/48871_47881_ecom.jpg",
-        "https://www.simpli.ch/original/48871_ecom.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "50141",
     "gtin": "5709386501419",
     "title": "Gartenbox 166 x 75 cm - 166x75cm - Schwarz",
     "attributes": {
-        "size": [
-            "166x75cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -2138,18 +1765,10 @@
     "category": "Geschirr + Besteck",
     "product_type": "Sektk\u00fchler",
     "images": [
-        "https://www.simpli.ch/original/Babybucket",
-        "white.png",
-        "https://www.simpli.ch/original/Babybucket",
-        "white.2.png",
-        "https://www.simpli.ch/original/Babybucket",
-        "white.jpg",
-        "https://www.simpli.ch/original/Babybucket",
-        "white",
-        "&",
-        "sliced",
-        "top",
-        "wood.jpg"
+        "https://www.simpli.ch/original/Babybucket%20white.png",
+        "https://www.simpli.ch/original/Babybucket%20white.2.png",
+        "https://www.simpli.ch/original/Babybucket%20white.jpg",
+        "https://www.simpli.ch/original/BUCKKL.WIT_4.jpg"
     ],
     "condition": "new"
 },{
@@ -2171,14 +1790,10 @@
     "category": "Geschirr + Besteck",
     "product_type": "Sektk\u00fchler",
     "images": [
-        "https://www.simpli.ch/original/Babybucket",
-        "black.1.png",
-        "https://www.simpli.ch/original/Babybucket",
-        "black.jpg",
-        "https://www.simpli.ch/original/Babybucket",
-        "black3.jpg",
-        "https://www.simpli.ch/original/Babybucket",
-        "black.2.png"
+        "https://www.simpli.ch/original/Babybucket%20black.1.png",
+        "https://www.simpli.ch/original/Babybucket%20black.jpg",
+        "https://www.simpli.ch/original/Babybucket%20black3.jpg",
+        "https://www.simpli.ch/original/Babybucket%20black.2.png"
     ],
     "condition": "new"
 },{
@@ -2200,16 +1815,9 @@
     "category": "Geschirr + Besteck",
     "product_type": "Sektk\u00fchler",
     "images": [
-        "https://www.simpli.ch/original/Classic",
-        "Icebucket",
-        "black.jpg",
-        "https://www.simpli.ch/original/Classic",
-        "Icebucket",
-        "black",
-        "pack.jpg",
-        "https://www.simpli.ch/original/Classic",
-        "Icebucket",
-        "black.1.png"
+        "https://www.simpli.ch/original/Classic%20Icebucket%20black.jpg",
+        "https://www.simpli.ch/original/Classic%20Icebucket%20black%20pack.jpg",
+        "https://www.simpli.ch/original/Classic%20Icebucket%20black.1.png"
     ],
     "condition": "new"
 },{
@@ -2217,9 +1825,7 @@
     "gtin": "5709386896850",
     "title": "K\u00fchlbox 24 L - 24l - Grau",
     "attributes": {
-        "size": [
-            "24l"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -2258,29 +1864,12 @@
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Aufschnittmaschine",
     "images": [
-        "https://www.simpli.ch/original/RED",
-        "2.png",
-        "https://www.simpli.ch/original/12001",
-        "RED.jpg",
-        "https://www.simpli.ch/original/12001",
-        "RED",
-        "I-RON",
-        "COLOR",
-        "25",
-        "front.jpg",
-        "https://www.simpli.ch/original/004",
-        "I-RON",
-        "COLOR",
-        "Salami.jpg",
-        "https://www.simpli.ch/original/013",
-        "I-RON",
-        "COLOR",
-        "Cucumber",
-        "round.jpg",
-        "https://www.simpli.ch/original/017",
-        "PRODUCT",
-        "TO",
-        "CUT.jpg"
+        "https://www.simpli.ch/original/RED%202.png",
+        "https://www.simpli.ch/original/12001%20RED.jpg",
+        "https://www.simpli.ch/original/12001%20RED%20%20%20I-RON%20COLOR%2025%20front.jpg",
+        "https://www.simpli.ch/original/004%20I-RON%20COLOR%20Salami.jpg",
+        "https://www.simpli.ch/original/013%20I-RON%20COLOR%20Cucumber%20round.jpg",
+        "https://www.simpli.ch/original/017%20PRODUCT%20TO%20CUT.jpg"
     ],
     "condition": "new"
 },{
@@ -2302,34 +1891,12 @@
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Aufschnittmaschine",
     "images": [
-        "https://www.simpli.ch/original/BLACK",
-        "2.png",
-        "https://www.simpli.ch/original/12002",
-        "BLACK.jpg",
-        "https://www.simpli.ch/original/12002",
-        "BLACK",
-        "I-RON",
-        "COLOR",
-        "25",
-        "front.jpg",
-        "https://www.simpli.ch/original/012",
-        "BREAD",
-        "SLICES",
-        "BY",
-        "I-RON",
-        "COLOR.jpg",
-        "https://www.simpli.ch/original/003",
-        "Ham",
-        "sliced",
-        "\u200b\u200bsuper",
-        "thin",
-        "by",
-        "I-RON",
-        "COLOR.jpg",
-        "https://www.simpli.ch/original/017",
-        "PRODUCT",
-        "TO",
-        "CUT.jpg"
+        "https://www.simpli.ch/original/BLACK%202.png",
+        "https://www.simpli.ch/original/12002%20BLACK.jpg",
+        "https://www.simpli.ch/original/12002%20BLACK%20I-RON%20COLOR%2025%20front.jpg",
+        "https://www.simpli.ch/original/012%20BREAD%20SLICES%20BY%20I-RON%20COLOR.jpg",
+        "https://www.simpli.ch/original/003%20Ham%20sliced%20\u200b\u200bsuper%20thin%20by%20I-RON%20COLOR.jpg",
+        "https://www.simpli.ch/original/017%20PRODUCT%20TO%20CUT.jpg"
     ],
     "condition": "new"
 },{
@@ -2351,33 +1918,12 @@
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Aufschnittmaschine",
     "images": [
-        "https://www.simpli.ch/original/CREMA",
-        "2.png",
-        "https://www.simpli.ch/original/12004",
-        "CREMA.jpg",
-        "https://www.simpli.ch/original/12002",
-        "CREMA",
-        "I-RON",
-        "COLOR",
-        "25",
-        "front.jpg",
-        "https://www.simpli.ch/original/012",
-        "BREAD",
-        "SLICES",
-        "BY",
-        "I-RON",
-        "COLOR.jpg",
-        "https://www.simpli.ch/original/017",
-        "PRODUCT",
-        "TO",
-        "CUT.jpg",
-        "https://www.simpli.ch/original/009",
-        "Cheese",
-        "super",
-        "thin",
-        "by",
-        "I-RON",
-        "COLOR.jpg"
+        "https://www.simpli.ch/original/CREMA%202.png",
+        "https://www.simpli.ch/original/12004%20CREMA.jpg",
+        "https://www.simpli.ch/original/12002%20CREMA%20I-RON%20COLOR%2025%20front.jpg",
+        "https://www.simpli.ch/original/012%20BREAD%20SLICES%20BY%20I-RON%20COLOR.jpg",
+        "https://www.simpli.ch/original/017%20PRODUCT%20TO%20CUT.jpg",
+        "https://www.simpli.ch/original/009%20Cheese%20super%20thin%20by%20I-RON%20COLOR.jpg"
     ],
     "condition": "new"
 },{
@@ -2394,7 +1940,7 @@
         ]
     },
     "description": "<p>B\u00f6rner Roko PowerLine</p> <p>&nbsp </p> <p>Mit unserem Julienneschneider leckere Gerichte zaubern!</p> <p>Mit der original B\u00f6rner Roko-Reibe k\u00f6nnen Sie Obst und Gem\u00fcse in feine d\u00fcnne Julienne-Streifen schneiden. Unser Julienneschneider schneidet Wurzelgem\u00fcse wie Karotten, Sellerie, Pastinaken oder Kohlrabi, aber auch Kartoffeln oder Gurken lassen sich reiben und zu feinen Julienne-Streifen z. B. f\u00fcr Rohkost-Salate verarbeiten. Die beidseitig geschliffenen Klingenreihen schneiden in k\u00fcrzester Zeit gro\u00dfe Mengen, da in beide Richtungen geschnitten werden kann. Perfekt geeignet ist der Julienneschneider f\u00fcr die Zubereitung von Gem\u00fcsepfannen wie z. B. Wokgem\u00fcse. Au\u00dferdem kann die Roko Powerline ideal als Zucchini Spaghetti Schneider verwendet werden und leckere Gerichte zaubern.</p> <p>Nach Gebrauch einfach unter flie\u00dfendem Wasser reinigen.</p> <p>Lieferung ohne Fruchthalter, bitte auf Wunsch separat",
-    "stock": "12",
+    "stock": "6",
     "price": "1200",
     "category": "K\u00fcchenhelfer",
     "product_type": "Gem\u00fcseschneider",
@@ -2411,9 +1957,7 @@
     "gtin": "5709386108281",
     "title": "Eisw\u00fcrfelbeh\u00e4lter Silikon klein - 4tlg. - Farbig",
     "attributes": {
-        "size": [
-            "4tlg."
-        ],
+        "size": [],
         "color": [
             "Farbig"
         ],
@@ -2438,9 +1982,7 @@
     "gtin": "5709386108342",
     "title": "Eisw\u00fcrfelbeh\u00e4lter Silikon - 2tlg. - Farbig",
     "attributes": {
-        "size": [
-            "2tlg."
-        ],
+        "size": [],
         "color": [
             "Farbig"
         ],
@@ -2465,9 +2007,7 @@
     "gtin": "5709386761455",
     "title": "6 St\u00fcck Strohhalm + Reinigungspinsel - 7tlg. - Silber",
     "attributes": {
-        "size": [
-            "7tlg."
-        ],
+        "size": [],
         "color": [
             "Silber"
         ],
@@ -2492,9 +2032,7 @@
     "gtin": "5709386762940",
     "title": "Ramekin 5cm hoch - \u00d89cm - Farbig",
     "attributes": {
-        "size": [
-            "\u00d89cm"
-        ],
+        "size": [],
         "color": [
             "Farbig"
         ],
@@ -2519,9 +2057,7 @@
     "gtin": "5709386108090",
     "title": "Travel Mug - 0.45l - Farbig",
     "attributes": {
-        "size": [
-            "0.45l"
-        ],
+        "size": [],
         "color": [
             "Farbig"
         ],
@@ -2544,9 +2080,7 @@
     "gtin": "5709386774479",
     "title": "Thermoskanne to Go 0,5L - 12tlg. - Schwarz",
     "attributes": {
-        "size": [
-            "12tlg."
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -2614,8 +2148,7 @@
         "https://www.simpli.ch/original/128783-265864-02.jpg",
         "https://www.simpli.ch/original/128783-265864-01.jpg",
         "https://www.simpli.ch/original/128783-VERDE-11.jpg",
-        "https://www.simpli.ch/original/crepe-maker-crepe-maker",
-        "(1).jpg"
+        "https://www.simpli.ch/original/crepe-maker-crepe-maker%20(1).jpg"
     ],
     "condition": "new"
 },{
@@ -2647,9 +2180,7 @@
     "gtin": "5709386732646",
     "title": "Kehrset - 2tlg. - Schwarz",
     "attributes": {
-        "size": [
-            "2tlg."
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -2658,7 +2189,7 @@
         ]
     },
     "description": "<p>Machen Sie das Kehren zum Kinderspiel mit unserem praktischen und effizienten Kehrset. Dieses Set besteht aus einer Kehrschaufel und einem Handfeger, die perfekt aufeinander abgestimmt sind, um Schmutz und Staub schnell und einfach aufzunehmen. Das kompakte Design erm\u00f6glicht eine einfache Aufbewahrung und ist ideal f\u00fcr den Einsatz in K\u00fcche, Wohnzimmer, Schlafzimmer oder Arbeitsbereich.</p> <p>Der Handfeger verf\u00fcgt \u00fcber dichte Borsten, die selbst feinen Staub und Schmutz m\u00fchelos aufnehmen, w\u00e4hrend die Kehrschaufel mit ihrem abgeschr\u00e4gten Rand und der erh\u00f6hten R\u00fcckseite das Aufkehren erleichtert und ein Versch\u00fctten verhindert. Zusammen bilden sie das perfekte Duo f\u00fcr eine saubere und ordentliche Umgebung in Ihrem Zuhause.</p> <p>Erg\u00e4nzen Sie Ihre Reinigungsutensilien mit unserem praktischen Kehrset und erleben Sie, wie einfach und effizient das Kehren sein kann.</p>",
-    "stock": "19",
+    "stock": "11",
     "price": "320",
     "category": "Reinigung",
     "product_type": "Kehrset",
@@ -2674,9 +2205,7 @@
     "gtin": "5709386754280",
     "title": "Schneidebrett mit Griff - 47x25cm - Braun",
     "attributes": {
-        "size": [
-            "47x25cm"
-        ],
+        "size": [],
         "color": [
             "Braun"
         ],
@@ -2700,9 +2229,7 @@
     "gtin": "5709386754297",
     "title": "Schneidebrett mit Griff - 61x16cm - Braun",
     "attributes": {
-        "size": [
-            "61x16cm"
-        ],
+        "size": [],
         "color": [
             "Braun"
         ],
@@ -2726,9 +2253,7 @@
     "gtin": "5709386741723",
     "title": "Schneidebrett - 45x15x1,5cm - Braun",
     "attributes": {
-        "size": [
-            "45x15x1,5cm"
-        ],
+        "size": [],
         "color": [
             "Braun"
         ],
@@ -2753,9 +2278,7 @@
     "gtin": "8435572616564",
     "title": "FRYER AIR PRO COMPACT - 3.5l - Weiss",
     "attributes": {
-        "size": [
-            "3.5l"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -2764,28 +2287,16 @@
         ]
     },
     "description": "<p>Die Air Pro Compact Heissluftfritteuse bietet eine gesunde Alternative zur herk\u00f6mmlichen Zubereitung von frittierten Lebensmitteln. Durch den Verzicht auf \u00d6l wird nicht nur die Gesundheit gef\u00f6rdert, sondern auch die Sicherheit und Einfachheit in der K\u00fcche verbessert.</p> <p>Dank des innovativen 360\u00ba-Luftzirkulationssystems zirkuliert heisse Luft in einem spiralf\u00f6rmigen Muster um die Lebensmittel, wodurch eine gleichm\u00e4ssige Garung gew\u00e4hrleistet wird. Das l\u00e4stige Umr\u00fchren der Speisen w\u00e4hrend des Garvorgangs geh\u00f6rt somit der Vergangenheit an.</p> <p>Unsere Heissluftfritteuse verf\u00fcgt \u00fcber einen Weitwinkel-Bildschirm, der Ihnen eine m\u00fchelose Steuerung und Bedienung des Ger\u00e4ts erm\u00f6glicht, ohne den Bildschirm aus den Augen zu verlieren. Geniessen Sie die einfache Kontrolle \u00fcber Ihr \u00f6lfreies Frittiererlebnis.</p> <p>Mit einem Gesamtinhalt von 4,3 Litern und einem Garvolumen von 3,5 Litern bietet unsere Heissluftfritteuse ausreichend Platz, um bis zu",
-    "stock": "7",
+    "stock": "17",
     "price": "4475",
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Air Fryer",
     "images": [
-        "https://www.simpli.ch/original/PRO",
-        "COMPACT",
-        "BLANCO.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "COMPACT",
-        "BLANCO",
-        "4.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "COMPACT",
-        "BLANCO",
-        "3.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "COMPACT",
-        "BLANCO",
-        "2.jpg",
-        "https://www.simpli.ch/original/1200x1200",
-        "(3).jpg"
+        "https://www.simpli.ch/original/PRO%20COMPACT%20BLANCO.jpg",
+        "https://www.simpli.ch/original/PRO%20COMPACT%20BLANCO%204.jpg",
+        "https://www.simpli.ch/original/PRO%20COMPACT%20BLANCO%203.jpg",
+        "https://www.simpli.ch/original/PRO%20COMPACT%20BLANCO%202.jpg",
+        "https://www.simpli.ch/original/1200x1200%20(3).jpg"
     ],
     "condition": "new"
 },{
@@ -2793,9 +2304,7 @@
     "gtin": "8435572617707",
     "title": "FRYER AIR PRO LARGE - 6.2l - Weiss",
     "attributes": {
-        "size": [
-            "6.2l"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -2809,30 +2318,12 @@
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Air Fryer",
     "images": [
-        "https://www.simpli.ch/original/PRO",
-        "LARGE",
-        "BLANCO",
-        "1.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "LARGE",
-        "BLANCO",
-        "2.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "LARGE",
-        "BLANCO",
-        "3.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "LARGE",
-        "BLANCO",
-        "4.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "LARGE",
-        "BLANCO",
-        "6.jpg",
-        "https://www.simpli.ch/original/PRO",
-        "LARGE",
-        "BLANCO",
-        "7.jpg"
+        "https://www.simpli.ch/original/PRO%20LARGE%20BLANCO%201.jpg",
+        "https://www.simpli.ch/original/PRO%20LARGE%20BLANCO%202.jpg",
+        "https://www.simpli.ch/original/PRO%20LARGE%20BLANCO%203.jpg",
+        "https://www.simpli.ch/original/PRO%20LARGE%20BLANCO%204.jpg",
+        "https://www.simpli.ch/original/PRO%20LARGE%20BLANCO%206.jpg",
+        "https://www.simpli.ch/original/PRO%20LARGE%20BLANCO%207.jpg"
     ],
     "condition": "new"
 },{
@@ -2840,9 +2331,7 @@
     "gtin": "8435572617745",
     "title": "FRIDGE MINI BOX - Kosmetik heiss/kalt - 4l - Pastellblau",
     "attributes": {
-        "size": [
-            "4l"
-        ],
+        "size": [],
         "color": [
             "Pastellblau"
         ],
@@ -2856,41 +2345,13 @@
     "category": "K\u00fchlen + Gefrieren",
     "product_type": "Mini K\u00fchlschrank",
     "images": [
-        "https://www.simpli.ch/original/FRIDGE",
-        "MINI",
-        "BOX",
-        "AZUL",
-        "(1).jpg",
-        "https://www.simpli.ch/original/FRIDGE",
-        "MINI",
-        "BOX",
-        "AZUL",
-        "(2).jpg",
-        "https://www.simpli.ch/original/FRIDGE",
-        "MINI",
-        "BOX",
-        "AZUL",
-        "(3).jpg",
-        "https://www.simpli.ch/original/FRIDGE",
-        "MINI",
-        "BOX",
-        "AZUL",
-        "(4).jpg",
-        "https://www.simpli.ch/original/FRIDGE",
-        "MINI",
-        "BOX",
-        "AZUL",
-        "(6).jpg",
-        "https://www.simpli.ch/original/FRIDGE",
-        "MINI",
-        "BOX",
-        "AZUL",
-        "(7).jpg",
-        "https://www.simpli.ch/original/FRIDGE",
-        "MINI",
-        "BOX",
-        "AZUL",
-        "(9).jpg"
+        "https://www.simpli.ch/original/FRIDGE%20MINI%20BOX%20AZUL%20(1).jpg",
+        "https://www.simpli.ch/original/FRIDGE%20MINI%20BOX%20AZUL%20(2).jpg",
+        "https://www.simpli.ch/original/FRIDGE%20MINI%20BOX%20AZUL%20(3).jpg",
+        "https://www.simpli.ch/original/FRIDGE%20MINI%20BOX%20AZUL%20(4).jpg",
+        "https://www.simpli.ch/original/FRIDGE%20MINI%20BOX%20AZUL%20(6).jpg",
+        "https://www.simpli.ch/original/FRIDGE%20MINI%20BOX%20AZUL%20(7).jpg",
+        "https://www.simpli.ch/original/FRIDGE%20MINI%20BOX%20AZUL%20(9).jpg"
     ],
     "condition": "new"
 },{
@@ -2898,9 +2359,7 @@
     "gtin": "5709386708740",
     "title": "Weihnachtsbaum Mini mit LED Batterie - 33cm - Gr\u00fcn",
     "attributes": {
-        "size": [
-            "33cm"
-        ],
+        "size": [],
         "color": [
             "Gr\u00fcn"
         ],
@@ -2955,9 +2414,7 @@
     "gtin": "5714988002967",
     "title": "Sonnenschirm Felix mit Kurbel - \u00d83m - Schwarz",
     "attributes": {
-        "size": [
-            "\u00d83m"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -2966,7 +2423,7 @@
         ]
     },
     "description": "Der Sonnenschirm Felix mit Kurbel und Neigefunktion \u00d83M ist die ideale Wahl, um sich an sonnigen Tagen im Freien vor der Hitze zu sch\u00fctzen. Mit einem Durchmesser von 3 Metern bietet dieser Schirm ausreichend Schatten f\u00fcr Ihre Terrasse, Ihren Garten oder Ihren Balkon.\n \n Der Schirm hat eine H\u00f6he von 246cm und besteht aus hochwertigem 180g/m\u00b2 Polyesterstoff. Dank des \u00d848mm starken Stangendurchmessers und der 8 stabilen Metallstreben ist der Schirm langlebig und stabil.\n \n Das Besondere an diesem Sonnenschirm ist die Neigefunktion, die es Ihnen erm\u00f6glicht, den Schirm so zu positionieren, dass er den Sonnenstrahlen optimal folgt und Schatten bietet, wo Sie ihn ben\u00f6tigen. Die Kurbel erleichtert das \u00d6ffnen und Schliessen des Schirms.\n Der Sonnenschirm Felix mit Kurbel und Neigefunktion ist in der zeitlosen Farbkombination Schwarz/Schwarz erh\u00e4ltlich und passt zu verschiedenen Outdoor-Umgebungen und M\u00f6belstilen.\n \n Produktname: Sonnenschirm Felix",
-    "stock": "3",
+    "stock": "2",
     "price": "2345",
     "category": "Gartenm\u00f6bel",
     "product_type": "Sonnenschirm",
@@ -2978,38 +2435,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "53839",
-    "gtin": "5709386538392",
-    "title": "Rattan Ecklounge Ester, schwarz",
-    "attributes": {
-        "size": [],
-        "color": [],
-        "brand": [
-            "ENVY"
-        ]
-    },
-    "description": "<p>Das&nbsp Sofa-Set Ester bietet Ihnen den ultimativen Komfort und Stil f\u00fcr Ihren Outdoor-Bereich. Dieses Set besteht aus zwei Sofas und einem Tisch und ist die perfekte Erg\u00e4nzung f\u00fcr Ihre Terrasse oder Ihren Garten.<br> <br> Das grosse Sofa hat Abmessungen von B175xT67xH73cm, das kleine Sofa misst B165xT67xH73cm und der Tisch ist B145xT75xH68cm gross. Die bequeme Sitzh\u00f6he von 39cm erm\u00f6glicht entspanntes Sitzen und Geniessen. Das Rattan-Geflecht in 3in1-Optik verleiht diesem Set einen eleganten und zeitlosen Look. Die breiten Latten mit einer Breite von 9,5cm sorgen f\u00fcr Stabilit\u00e4t und Komfort.<br> <br> Die Wendekissen mit einer Dicke von 6cm bieten Ihnen die M\u00f6glichkeit, das Erscheinungsbild Ihres Sofas nach Belieben anzupassen. Sie bestehen aus hochwertigem 230g/m\u00b2 Polyester, das strapazierf\u00e4hig und pflegeleicht ist. Dieses Set kann ein maximales Gewicht von beeindruckenden 395Kg tragen, was es ideal f\u00fcr gesellige Treffen mit",
-    "stock": "3",
-    "price": "30595",
-    "category": [],
-    "product_type": "LOUNGE",
-    "images": [
-        "https://www.simpli.ch/original/50050_f1.jpg",
-        "https://www.simpli.ch/original/50050_bord_c.jpg",
-        "https://www.simpli.ch/original/50050_bord_c1.jpg",
-        "https://www.simpli.ch/original/50050_bord_c2.jpg",
-        "https://www.simpli.ch/original/50050_m.jpg",
-        "https://www.simpli.ch/original/50050_ecom1.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "53290",
     "gtin": "5709386532901",
     "title": "Sofa Set Miriam mit Kissen - 4tlg. - Schwarz, Grau",
     "attributes": {
-        "size": [
-            "4tlg."
-        ],
+        "size": [],
         "color": [
             "Schwarz, Grau"
         ],
@@ -3024,12 +2454,9 @@
     "product_type": "Garten Lounge",
     "images": [
         "https://www.simpli.ch/original/53290.jpg",
-        "https://www.simpli.ch/original/53290_f",
-        "bord.jpg",
-        "https://www.simpli.ch/original/53290_f",
-        "sofa.jpg",
-        "https://www.simpli.ch/original/53290_f",
-        "stol.jpg",
+        "https://www.simpli.ch/original/53290_f%20bord.jpg",
+        "https://www.simpli.ch/original/53290_f%20sofa.jpg",
+        "https://www.simpli.ch/original/53290_f%20stol.jpg",
         "https://www.simpli.ch/original/53290_m.jpg",
         "https://www.simpli.ch/original/53290_s.jpg",
         "https://www.simpli.ch/original/53290_f.jpg"
@@ -3065,9 +2492,7 @@
     "gtin": "5709386486853",
     "title": "Gartentisch Johan - 205/275X100cm - Braun,Schwarz",
     "attributes": {
-        "size": [
-            "205/275X100cm"
-        ],
+        "size": [],
         "color": [
             "Braun,Schwarz"
         ],
@@ -3076,7 +2501,7 @@
         ]
     },
     "description": "<p>Der Gartentisch Johan 205/275X100cm ist ein stilvoller und funktionaler Tisch, der perfekt f\u00fcr Ihre Outdoor-Veranstaltungen und Mahlzeiten geeignet ist.<br> <br> Mit grossz\u00fcgigen Abmessungen von 205/275x100cm bietet dieser Tisch ausreichend Platz f\u00fcr Speisen, Getr\u00e4nke und Dekorationen. Die H\u00f6he von 76cm sorgt f\u00fcr bequemes Sitzen oder Stehen w\u00e4hrend Ihrer Aktivit\u00e4ten.<br> <br> Die Tischplatte verf\u00fcgt \u00fcber 4 verstellbare Schrauben, um die Stabilit\u00e4t und den Ausgleich auf unebenem Boden zu gew\u00e4hrleisten. Die Latten der Tischplatte haben eine Breite von 9,5cm und bieten eine stabile Oberfl\u00e4che. Bei Bedarf k\u00f6nnen Sie die Erweiterungsplatte von 69,5x100cm nutzen, um noch mehr Platz zu schaffen.<br> <br> Der Gartentisch Johan ist ein KD-Modell (zerlegbar), was die Montage und Demontage erleichtert und die Lagerung und den Transport problemlos macht. Hergestellt aus robustem Aluminium und in der zeitlosen Farbkombination",
-    "stock": "2",
+    "stock": "1",
     "price": "25090",
     "category": "Gartenm\u00f6bel",
     "product_type": "Gartentisch",
@@ -3095,9 +2520,7 @@
     "gtin": "5709386538514",
     "title": "H\u00e4ngender Sonnenschirm Andreas - \u00d83m - Schwarz",
     "attributes": {
-        "size": [
-            "\u00d83m"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -3125,9 +2548,7 @@
     "gtin": "5709386538774",
     "title": "Gartenlounge Daniela - 4tlg. - Weiss,Braun",
     "attributes": {
-        "size": [
-            "4tlg."
-        ],
+        "size": [],
         "color": [
             "Weiss,Braun"
         ],
@@ -3149,44 +2570,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "138222_290199",
-    "gtin": "8435572621360",
-    "title": "RICE COOKER STUDIO - Reiskocher",
-    "attributes": {
-        "size": [
-            "2l"
-        ],
-        "color": [
-            "Creme"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "Der RICE COOKER STUDIO ist ein elektrischer Reiskocher mit einem modernen und langlebigen Design. Mit einem Fassungsverm\u00f6gen von 2 Litern eignet er sich perfekt f\u00fcr die einfache Zubereitung von Mahlzeiten und ist aufgrund seiner kompakten Gr\u00f6\u00dfe ideal f\u00fcr kleine K\u00fcchen. Dieser Reiskocher ist programmierbar bis zu 24 Stunden im Voraus, was Flexibilit\u00e4t bei der Mahlzeitenplanung bietet. Neu ist auch ein Steamkorb dabei, der es erm\u00f6glicht, ged\u00e4mpfte Gerichte, Eint\u00f6pfe oder Suppen zuzubereiten, was die Vielseitigkeit beim Kochen weiter erh\u00f6ht. Nach dem Garvorgang h\u00e4lt der Reiskocher die Speisen bis zu 12 Stunden warm. Der antihaftbeschichtete Beh\u00e4lter erleichtert die Zubereitung und Reinigung, da die Speisen nicht anhaften. Dieser Reiskocher ist die perfekte Erg\u00e4nzung f\u00fcr die K\u00fcche, um eine Vielzahl von k\u00f6stlichen Mahlzeiten zuzubereiten.",
-    "stock": "1",
-    "price": "3350",
-    "category": "K\u00fcchenger\u00e4te",
-    "product_type": "Reiskocher",
-    "images": [
-        "https://www.simpli.ch/original/138222_290199_1.png",
-        "https://www.simpli.ch/original/138222_290199_1.jpg",
-        "https://www.simpli.ch/original/138222_290199_2.jpg",
-        "https://www.simpli.ch/original/138222_290199_3.jpg",
-        "https://www.simpli.ch/original/138222_290199_5.jpg",
-        "https://www.simpli.ch/original/138222_290199_6.jpg",
-        "https://www.simpli.ch/original/138222_290199_7.jpg",
-        "https://www.simpli.ch/original/138222_290199_8.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "61500",
     "gtin": "5709386615000",
     "title": "Batterie Alkaline C LR14 1 - 2tlg. -",
     "attributes": {
-        "size": [
-            "2tlg."
-        ],
+        "size": [],
         "color": [
             "Blau"
         ],
@@ -3195,7 +2583,7 @@
         ]
     },
     "description": "<p>Das 2er-Pack Alkaline C-Batterien der Marke Alive bietet eine zuverl\u00e4ssige und leistungsstarke Energiequelle f\u00fcr Ger\u00e4te mit h\u00f6herem Energiebedarf. Mit einem Durchmesser von 25 mm, einer H\u00f6he von 49 mm und einem Gewicht von 71,5 Gramm pro Batterie sind diese Zellen robust und leistungsf\u00e4hig. Die beeindruckende Kapazit\u00e4t von 7200mAh und die Spannung von 1,5 Volt gew\u00e4hrleisten eine lang anhaltende und zuverl\u00e4ssige Leistung.</p> <p>Diese Alkaline-Batterien sind ideal f\u00fcr den Einsatz in gr\u00f6\u00dferen Ger\u00e4ten wie Taschenlampen, tragbaren Radios und anderen elektronischen Ger\u00e4ten. Die Marke Alive steht f\u00fcr Qualit\u00e4t und Nachhaltigkeit, und dieses 2er-Pack Alkaline C-Batterien erf\u00fcllt diese Standards. Mit der ISO-Norm LR14 sind sie nicht nur leistungsstark, sondern auch umweltfreundlich. Vertrauen Sie auf die bew\u00e4hrte Qualit\u00e4t von Alive f\u00fcr die Energieversorgung Ihrer Ger\u00e4te.</p>",
-    "stock": "34",
+    "stock": "33",
     "price": "120",
     "category": "Batterien",
     "product_type": "Batterien Alkaline",
@@ -3203,31 +2591,6 @@
         "https://www.simpli.ch/original/61500_1.jpg",
         "https://www.simpli.ch/original/61500.jpg",
         "https://www.simpli.ch/original/61500_61501_61502_61496_61498_61493_61494_f1.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "61503",
-    "gtin": "5709386615031",
-    "title": "Batterie Alkaline LR44 1 - 12tlg.",
-    "attributes": {
-        "size": [
-            "12tlg."
-        ],
-        "color": [
-            "Silber"
-        ],
-        "brand": [
-            "Schou"
-        ]
-    },
-    "description": "<p>Das 12er-Pack Alkaline LR44-Batterien von Alive bietet eine zuverl\u00e4ssige und langlebige Energiequelle f\u00fcr verschiedene kleine elektronische Ger\u00e4te. Mit einem Gewicht von 1,67 Gramm und einer Kapazit\u00e4t von 155mAh sind diese Batterien kompakt und leicht, aber dennoch leistungsstark.</p> <p>Die Batterien sind im Doppelpack verpackt, was eine bequeme Handhabung erm\u00f6glicht und gleichzeitig sicherstellt, dass sie frisch und einsatzbereit sind, wenn Sie sie ben\u00f6tigen. Mit der Alkaline-Technologie und der Bezeichnung AG13/LR44 sind sie f\u00fcr den Einsatz in Uhren, Taschenrechnern, Spielzeug und anderen Ger\u00e4ten geeignet.</p> <p>Die Marke Alive steht f\u00fcr Qualit\u00e4t und Zuverl\u00e4ssigkeit, und diese LR44-Batterien erf\u00fcllen diese Standards. Die T\u00dcV-Zertifizierung unterstreicht die Sicherheit und Qualit\u00e4t dieser Batterien. Vertrauen Sie auf die bew\u00e4hrte Leistung von Alive, um Ihre kleinen elektronischen Ger\u00e4te mit Energie zu versorgen.</p>",
-    "stock": "36",
-    "price": "45",
-    "category": "Batterien",
-    "product_type": "Knopfbatterien",
-    "images": [
-        "https://www.simpli.ch/original/61503.jpg",
-        "https://www.simpli.ch/original/61503_61504_61505_61506_61507_m.jpg"
     ],
     "condition": "new"
 },{
@@ -3244,7 +2607,7 @@
         ]
     },
     "description": "<p>Dieses innovative Dampfb\u00fcgeleisen bietet eine dreifache B\u00fcgelfunktion: vertikal, mit Dampf und trocken. Das ultraschnelle Heizsystem und der kontinuierliche Dampfaussto\u00df erm\u00f6glichen es, Kleidungsst\u00fccke in nur wenigen Minuten zu b\u00fcgeln und Falten m\u00fchelos zu entfernen. Das B\u00fcgeleisen birgt kein Verbrennungsrisiko f\u00fcr Ihre Kleidung, da es mit einem Sicherheitssystem inklusive \u00dcberhitzungsschutz ausgestattet ist.</p> <p>F\u00fcr optimale Ergebnisse h\u00e4ngen Sie das Kleidungsst\u00fcck einfach auf einen B\u00fcgel und wenden den Dampf mit der 9-Punkt-B\u00fcrste an. Die Bedienung ist einfach und effizient. Das B\u00fcgeleisen verf\u00fcgt \u00fcber ein zusammenklappbares Teleskoprohr, ein extralanges Kabel und einen vertikalen St\u00e4nder f\u00fcr maximalen Komfort. Mit einer Hand k\u00f6nnen Sie m\u00fchelos b\u00fcgeln, ohne sich zu \u00fcberanstrengen. Das faltbare Teleskoprohr erleichtert die Aufbewahrung.</p> <p>Mit einem gro\u00dfz\u00fcgigen Fassungsverm\u00f6gen von 1,6 Litern k\u00f6nnen Sie das B\u00fcgeleisen l\u00e4nger verwenden, und es",
-    "stock": "18",
+    "stock": "16",
     "price": "3000",
     "category": "B\u00fcgeln",
     "product_type": "Dampfgl\u00e4tter",
@@ -3259,40 +2622,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "133334_277268",
-    "gtin": "8435572619244",
-    "title": "IRON UP  - Tragbares Dampfb\u00fcgeleisen - Creme",
-    "attributes": {
-        "size": [],
-        "color": [
-            "Creme"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "<p>Das IRON UP Tragbare Dampfb\u00fcgeleisen in Creme vereint innovatives Design und hohe Leistung. Es entfernt Falten effizient, beseitigt Keime und unangenehme Ger\u00fcche, und ist dabei \u00e4u\u00dferst leicht zu bedienen. Das B\u00fcgeleisen kann horizontal, vertikal oder auf einem B\u00fcgelbrett verwendet werden, was seine Anwendung im Vergleich zu herk\u00f6mmlichen B\u00fcgeleisen bequemer macht. Dank des kontinuierlichen Dampfstroms ohne Kondensation kann die Kleidung direkt nach dem B\u00fcgeln getragen werden, ohne feucht zu werden. Das Ger\u00e4t eignet sich f\u00fcr alle Arten von Textilien, da sein Wirkmechanismus auf Wasserdampf basiert, ohne die Gefahr von Verbrennungen.</p> <p>Mit einem ergonomischen Design, einem 2,2 m langen Kabel und einem Gewicht von nur 1 kg ist es nicht nur bequem, sondern auch leicht zu transportieren. Sicherheitsmerkmale wie ein Thermostat und eine Thermosicherung sorgen f\u00fcr sicheren Betrieb, indem sie das B\u00fcgeleisen bei \u00dcberhitzung blockieren.</p>",
-    "stock": "4",
-    "price": "3335",
-    "category": "B\u00fcgeln",
-    "product_type": "Dampfgl\u00e4tter",
-    "images": [
-        "https://www.simpli.ch/original/133334_277268.jpg",
-        "https://www.simpli.ch/original/133334_277268_1.jpg",
-        "https://www.simpli.ch/original/133334_277268_2.jpg",
-        "https://www.simpli.ch/original/133334_277268_3.jpg",
-        "https://www.simpli.ch/original/133334_277268_5.jpg",
-        "https://www.simpli.ch/original/133334_277268_6.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "72785",
     "gtin": "5709386727857",
     "title": "Cocktailshaker-Set - Set 4-tlg. - Schwarz",
     "attributes": {
-        "size": [
-            "Set 4-tlg."
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -3328,7 +2662,7 @@
         ]
     },
     "description": "Elektrischer Entsafter zur einfachen und reibungslosen Herstellung von Zitruss\u00e4ften. Ein zeitloser, praktischer und funktionaler Klassiker mit einem kompakten, modernen Design, das in Ihrer K\u00fcche kaum Platz beansprucht.\n\nDank seiner Kraft und seines 85-mm-Quetschkegels, der f\u00fcr jede Zitrusfrucht geeignet ist, mit geringem Aufwand auspressen.\n\nMit tropffreiem Edelstahlsaftauslass, um Verschmutzungen zu vermeiden.\n\nLeicht zu reinigen: Die Samen und das dickste Fruchtfleisch werden im herausnehmbaren Filter gesammelt. Alle nicht elektrischen Teile sind sp\u00fclmaschinenfest.\n\nEs nimmt wenig Speicherplatz ein. Es hat ein Kabelfach.\n\nFrei von BPA und anderen Toxinen.",
-    "stock": "105",
+    "stock": "99",
     "price": "1300",
     "category": "K\u00fcchenger\u00e4te",
     "product_type": "Entsafter",
@@ -3343,40 +2677,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "UNIP2040STI1",
-    "gtin": "8032771923174",
-    "title": "Union Line - Bratpfanne - 20cm - Grau",
-    "attributes": {
-        "size": [
-            "20cm"
-        ],
-        "color": [
-            "Grau"
-        ],
-        "brand": [
-            "Piardi"
-        ]
-    },
-    "description": "Die Union Line Bratpfanne (20cm) bietet eine herausragende Kombination aus Widerstandsf\u00e4higkeit und Effizienz in einer einzigen Pfanne. Mit ihrem geschmiedeten Aluminiumk\u00f6rper, der eine hohe Dicke f\u00fcr eine bessere Stabilit\u00e4t und Langlebigkeit aufweist, setzt sie Ma\u00dfst\u00e4be in der K\u00fcche. Die mehrschichtige Antihaft-Quantanium-Beschichtung, verst\u00e4rkt mit Titanpartikeln, garantiert eine hohe Best\u00e4ndigkeit gegen Kratzer und erm\u00f6glicht eine m\u00fchelose Zubereitung Ihrer Lieblingsgerichte.\n\nDank ihres vollinduktionsf\u00e4higen Bodens sparen Sie Energie und Zeit, w\u00e4hrend Sie auf jeder Herdplatte kochen k\u00f6nnen. 100% Made in Italy, frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, aus recyceltem Aluminium und Titan gefertigt. Mit einer Vielzahl von Eigenschaften bietet sie eine optimale Kocherfahrung und ist die ideale Erg\u00e4nzung f\u00fcr jede K\u00fcche.",
-    "stock": "4",
-    "price": "1220",
-    "category": "Kochgeschirr",
-    "product_type": "Pfanne",
-    "images": [
-        "https://www.simpli.ch/original/\u00a0UNIP2040STI1_1.jpg",
-        "https://www.simpli.ch/original/\u00a0UNIP2040STI1_2.jpg",
-        "https://www.simpli.ch/original/\u00a0UNIP2040STI1_3.jpg",
-        "https://www.simpli.ch/original/\u00a0UNIP2040STI1_4.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "UNIP2440STI1",
     "gtin": "8032771923181",
     "title": "Union Line - Bratpfanne - 24cm - Grau",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3397,40 +2702,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "UNIP2840STI1",
-    "gtin": "8032771923198",
-    "title": "Union Line - Bratpfanne - 28cm - Grau",
-    "attributes": {
-        "size": [
-            "28cm"
-        ],
-        "color": [
-            "Grau"
-        ],
-        "brand": [
-            "Piardi"
-        ]
-    },
-    "description": "Die Union Line Bratpfanne (28 cm) kombiniert Widerstandsf\u00e4higkeit und Effizienz in einer einzigen Pfanne. Ihr geschmiedeter Aluminiumk\u00f6rper mit hoher Dicke gew\u00e4hrleistet maximale Stabilit\u00e4t und Langlebigkeit, w\u00e4hrend die mehrschichtige Antihaft-Quantanium-Beschichtung, verst\u00e4rkt mit Titanpartikeln, eine hohe Kratzfestigkeit bietet.\n\nDank des vollinduktionsf\u00e4higen Bodens sparen Sie Energie und Zeit, w\u00e4hrend Sie auf allen Herdplatten kochen k\u00f6nnen. 100% Made in Italy, frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, besteht die Pfanne aus recyceltem Aluminium und Titan. Mit ihrer herausragenden Qualit\u00e4t und Vielseitigkeit ist sie die perfekte Wahl f\u00fcr jede K\u00fcche.",
-    "stock": "6",
-    "price": "1700",
-    "category": "Kochgeschirr",
-    "product_type": "Pfanne",
-    "images": [
-        "https://www.simpli.ch/original/\u00a0UNIP2840STI1_1.jpg",
-        "https://www.simpli.ch/original/\u00a0UNIP2840STI1_2.jpg",
-        "https://www.simpli.ch/original/\u00a0UNIP2840STI1_3.jpg",
-        "https://www.simpli.ch/original/\u00a0UNIP2840STI1_4.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "UNIC2040STI2",
     "gtin": "8032771923228",
     "title": "Union Line - Topf 2.5l - 20cm - Grau",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3453,9 +2729,7 @@
     "gtin": "8032771923235",
     "title": "Union Line - Topf 4l 24cm - 24cm - Grau",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3478,9 +2752,7 @@
     "gtin": "8032771923242",
     "title": "Union Line - Wok - 28cm - Grau",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3505,9 +2777,7 @@
     "gtin": "8032771923259",
     "title": "Union Line - Grillpfanne - 28x28cm - Grau",
     "attributes": {
-        "size": [
-            "28x28cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3532,9 +2802,7 @@
     "gtin": "8032771923280",
     "title": "Glasdeckel Pyrex - 20cm - Weiss",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -3554,9 +2822,7 @@
     "gtin": "8032771923297",
     "title": "Glasdeckel Pyrex - 24cm - Weiss",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -3565,7 +2831,7 @@
         ]
     },
     "description": "Der Glasdeckel Pyrex (24 cm) ist aus hochwertigem Borosilikatglas gefertigt und zeichnet sich durch seine ausgezeichnete Temperaturschockbest\u00e4ndigkeit bis zu 220\u00b0C aus. Dieser Deckel ist frei von BPA und widersteht Kratzern, wodurch er eine langanhaltende Nutzung gew\u00e4hrleistet.\n\nMit seiner Vielseitigkeit ist dieser Glasdeckel f\u00fcr alle Herdplatten geeignet. Seine strapazierf\u00e4hige Konstruktion und seine Widerstandsf\u00e4higkeit machen ihn zu einem unverzichtbaren Zubeh\u00f6r in jeder K\u00fcche.",
-    "stock": "24",
+    "stock": "12",
     "price": "700",
     "category": "Kochgeschirr",
     "product_type": "Pfanne",
@@ -3576,9 +2842,7 @@
     "gtin": "8032771923303",
     "title": "Glasdeckel Pyrex - 28cm - Weiss",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -3598,9 +2862,7 @@
     "gtin": "8032771923334",
     "title": "Union Line - Topfset - 10tlg. - Grau",
     "attributes": {
-        "size": [
-            "10tlg."
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3624,9 +2886,7 @@
     "gtin": "8032771928131",
     "title": "Livestone - Bratpfanne - 20cm - Grau",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3649,9 +2909,7 @@
     "gtin": "8032771928186",
     "title": "Livestone - Bratpfanne - 24cm - Grau",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3674,9 +2932,7 @@
     "gtin": "8032771928193",
     "title": "Livestone - Bratpfanne - 28cm - Grau",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3699,9 +2955,7 @@
     "gtin": "8032771928223",
     "title": "Livestone - Topf 2.5l - 20cm - Grau",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3724,9 +2978,7 @@
     "gtin": "8032771928230",
     "title": "Livestone - Topf 4l - 24cm - Grau",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3749,9 +3001,7 @@
     "gtin": "8032771928247",
     "title": "Livestone - Wok 2H - 28cm - Grau",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3774,9 +3024,7 @@
     "gtin": "8032771928094",
     "title": "Livestone - Wok - 28cm - Grau",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -3796,9 +3044,7 @@
     "gtin": "8032771921712",
     "title": "Liveinduction - Bratpfanne - 20cm - Schwarz",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -3807,7 +3053,7 @@
         ]
     },
     "description": "Die Liveinduction Bratpfanne (20 cm) ist ein unverzichtbares Kochwerkzeug f\u00fcr den t\u00e4glichen Gebrauch, das f\u00fcr alle Herdarten geeignet ist. Liveinduction bietet eine hochwertige Mehrschicht-Antihaftbeschichtung mit Steinoptik, die gesundes Kochen ohne Zugabe von \u00d6len oder anderen Fetten erm\u00f6glicht.\n\nHergestellt zu 100% in Italien und frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, erf\u00fcllt diese Bratpfanne h\u00f6chste Qualit\u00e4tsstandards. Ihre Antihaftbeschichtung gew\u00e4hrleistet eine einfache Reinigung und eine optimale Kochleistung.\n\nMit ihrer Vielseitigkeit ist die Liveinduction Bratpfanne f\u00fcr alle Herdplatten geeignet und macht sie zu einem unverzichtbaren Werkzeug in jeder K\u00fcche. Ideal f\u00fcr gesundheitsbewusstes Kochen und t\u00e4glichen Gebrauch bietet sie Qualit\u00e4t, Leistung und Komfort zugleich.",
-    "stock": "11",
+    "stock": "5",
     "price": "830",
     "category": "Kochgeschirr",
     "product_type": "Pfanne",
@@ -3824,9 +3070,7 @@
     "gtin": "8032771921729",
     "title": "Liveinduction - Bratpfanne - 24cm - Schwarz",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -3849,96 +3093,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "INDP2630NE01",
-    "gtin": "8032771921941",
-    "title": "Liveinduction - Bratpfanne - 26cm - Schwarz",
-    "attributes": {
-        "size": [
-            "26cm"
-        ],
-        "color": [
-            "Schwarz"
-        ],
-        "brand": [
-            "Piardi"
-        ]
-    },
-    "description": "Die Liveinduction Bratpfanne (26 cm) ist ein unverzichtbares Kochwerkzeug, das sich ideal f\u00fcr den t\u00e4glichen Gebrauch eignet und auf allen Herdarten verwendet werden kann. Liveinduction bietet eine hochwertige Mehrschicht-Antihaftbeschichtung mit Steinoptik, die gesundes Kochen ohne Zugabe von \u00d6len oder anderen Fetten erm\u00f6glicht.\n\nHergestellt zu 100% in Italien und frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, erf\u00fcllt diese Bratpfanne h\u00f6chste Qualit\u00e4tsstandards. Ihre Antihaftbeschichtung gew\u00e4hrleistet eine einfache Reinigung und eine optimale Kochleistung.\n\nMit ihrer Vielseitigkeit ist die Liveinduction Bratpfanne f\u00fcr alle Herdplatten geeignet und macht sie zu einem unverzichtbaren Werkzeug in jeder K\u00fcche. Sie bietet Qualit\u00e4t, Leistung und Komfort f\u00fcr eine Vielzahl von Kochanwendungen.",
-    "stock": "6",
-    "price": "1005",
-    "category": "Kochgeschirr",
-    "product_type": "Pfanne",
-    "images": [
-        "https://www.simpli.ch/original/INDP2630NE01_1.jpg",
-        "https://www.simpli.ch/original/INDP2630NE01_2.jpg",
-        "https://www.simpli.ch/original/INDP2630NE01_3.jpg",
-        "https://www.simpli.ch/original/INDP2630NE01_4.jpg",
-        "https://www.simpli.ch/original/INDP2630NE01_6.jpg",
-        "https://www.simpli.ch/original/INDP2630NE01_7.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "INDP2830NE01",
-    "gtin": "8032771921736",
-    "title": "Liveinduction - Bratpfanne - 28cm - Schwarz",
-    "attributes": {
-        "size": [
-            "28cm"
-        ],
-        "color": [
-            "Schwarz"
-        ],
-        "brand": [
-            "Piardi"
-        ]
-    },
-    "description": "Die Liveinduction Bratpfanne (28 cm) ist ein unverzichtbares Kochwerkzeug, das sich perfekt f\u00fcr den t\u00e4glichen Gebrauch eignet und auf allen Herdarten verwendet werden kann. Mit ihrer hochwertigen Mehrschicht-Antihaftbeschichtung mit Steinoptik erm\u00f6glicht Liveinduction gesundes Kochen ohne Zugabe von \u00d6len oder anderen Fetten.\n\nHergestellt zu 100% in Italien und frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, erf\u00fcllt diese Bratpfanne h\u00f6chste Qualit\u00e4tsstandards. Ihre Antihaftbeschichtung gew\u00e4hrleistet eine einfache Reinigung und eine optimale Kochleistung.\n\nDie Liveinduction Bratpfanne ist f\u00fcr alle Herdplatten geeignet und bietet Vielseitigkeit sowie h\u00f6chsten Komfort in der K\u00fcche. Sie ist die perfekte Wahl f\u00fcr gesundheitsbewusste K\u00f6che, die Wert auf Qualit\u00e4t, Leistung und einfache Handhabung legen.",
-    "stock": "5",
-    "price": "1050",
-    "category": "Kochgeschirr",
-    "product_type": "Pfanne",
-    "images": [
-        "https://www.simpli.ch/original/INDP2830NE01_1.jpg",
-        "https://www.simpli.ch/original/INDP2830NE01_2.jpg",
-        "https://www.simpli.ch/original/INDP2830NE01_3.jpg",
-        "https://www.simpli.ch/original/INDP2830NE01_4.jpg",
-        "https://www.simpli.ch/original/INDP2830NE01_6.jpg",
-        "https://www.simpli.ch/original/INDP2830NE01_7.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "INDP2430NEA1",
-    "gtin": "8032771921675",
-    "title": "Liveinduction - Bratpfanne High - 24cm - Schwarz",
-    "attributes": {
-        "size": [
-            "24cm"
-        ],
-        "color": [
-            "Schwarz"
-        ],
-        "brand": [
-            "Piardi"
-        ]
-    },
-    "description": "Die Liveinduction Bratpfanne (24 cm - High) ist ein unverzichtbares Kochwerkzeug, das sich ideal f\u00fcr den t\u00e4glichen Gebrauch eignet und auf allen Herdarten verwendet werden kann. Mit ihrer hochwertigen Mehrschicht-Antihaftbeschichtung mit Steinoptik erm\u00f6glicht Liveinduction gesundes Kochen ohne Zugabe von \u00d6len oder anderen Fetten.\n\nHergestellt zu 100% in Italien und frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, erf\u00fcllt diese Bratpfanne h\u00f6chste Qualit\u00e4tsstandards. Ihre Antihaftbeschichtung gew\u00e4hrleistet eine einfache Reinigung und eine optimale Kochleistung.\n\nDie Liveinduction Bratpfanne ist f\u00fcr alle Herdplatten geeignet und bietet Vielseitigkeit sowie h\u00f6chsten Komfort in der K\u00fcche. Sie ist die perfekte Wahl f\u00fcr gesundheitsbewusste K\u00f6che, die Wert auf Qualit\u00e4t, Leistung und einfache Handhabung legen.",
-    "stock": "5",
-    "price": "1010",
-    "category": "Kochgeschirr",
-    "product_type": "Pfanne",
-    "images": [
-        "https://www.simpli.ch/original/INDP2430NEA1_1.png",
-        "https://www.simpli.ch/original/INDP2430NEA1_2.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "INDP2830NEA1",
     "gtin": "8032771921705",
     "title": "Liveinduction - Bratpfanne  High - 28cm - Schwarz",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -3961,9 +3120,7 @@
     "gtin": "8032771921842",
     "title": "Liveinduction - Topf 6.3l - 24cm - Schwarz",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -3986,9 +3143,7 @@
     "gtin": "8032771921774",
     "title": "Liveinduction - Topf 2.5l - 20cm - Schwarz",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4011,9 +3166,7 @@
     "gtin": "8032771921781",
     "title": "Liveinduction - Topf 4l - 24cm - Schwarz",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4036,9 +3189,7 @@
     "gtin": "8032771922412",
     "title": "Liveinduction - Topf 2l - 18cm - Schwarz",
     "attributes": {
-        "size": [
-            "18cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4047,7 +3198,7 @@
         ]
     },
     "description": "Der Liveinduction Topf (2 Liter, 18 cm) ist ein unverzichtbares Kochwerkzeug, das sich ideal f\u00fcr den t\u00e4glichen Gebrauch eignet und auf allen Herdarten verwendet werden kann. Mit seiner hochwertigen Mehrschicht-Antihaftbeschichtung mit Steinoptik erm\u00f6glicht Liveinduction gesundes Kochen ohne Zugabe von \u00d6len oder anderen Fetten.\n\nHergestellt zu 100% in Italien und frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, erf\u00fcllt dieser Topf h\u00f6chste Qualit\u00e4tsstandards. Seine Antihaftbeschichtung gew\u00e4hrleistet eine einfache Reinigung und eine optimale Kochleistung.\n\nDer Liveinduction Topf ist f\u00fcr alle Herdplatten geeignet und bietet Vielseitigkeit sowie h\u00f6chsten Komfort in der K\u00fcche. Er ist die perfekte Wahl f\u00fcr gesundheitsbewusste K\u00f6che, die Wert auf Qualit\u00e4t, Leistung und einfache Handhabung legen.",
-    "stock": "18",
+    "stock": "12",
     "price": "825",
     "category": "Kochgeschirr",
     "product_type": "Pfanne",
@@ -4058,9 +3209,7 @@
     "gtin": "8032771921866",
     "title": "Liveinduction - Wok - 28cm - Schwarz",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4085,9 +3234,7 @@
     "gtin": "8032771920104",
     "title": "Vulcano line - Bratpfanne - 20cm - Schwarz",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4111,9 +3258,7 @@
     "gtin": "8032771920128",
     "title": "Vulcano line - Bratpfanne - 24cm - Schwarz",
     "attributes": {
-        "size": [
-            "24cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4122,7 +3267,7 @@
         ]
     },
     "description": "Die Vulcano Line Bratpfanne (24 cm) ist ein grundlegendes Kochwerkzeug mit einer klassischen Antihaftbeschichtung, die es erm\u00f6glicht, ohne \u00d6l oder andere Fette zu kochen. Diese Pfanne ist erschwinglich und f\u00fcr den t\u00e4glichen Gebrauch geeignet, und sie erf\u00fcllt die Bed\u00fcrfnisse eines jeden Kochs.\n\nHergestellt zu 100% in Italien und frei von Nickel sowie anderen sch\u00e4dlichen Schadstoffen, erf\u00fcllt diese Bratpfanne h\u00f6chste Qualit\u00e4tsstandards. Ihre Antihaftbeschichtung gew\u00e4hrleistet eine einfache Reinigung und eine zuverl\u00e4ssige Kochleistung.\n\nDie Vulcano Line Bratpfanne ist f\u00fcr Gas-, Elektro- und Halogenherde geeignet und bietet Vielseitigkeit und Erschwinglichkeit in einem. Sie ist die perfekte Wahl f\u00fcr allt\u00e4gliche Kochanforderungen und f\u00fcr jeden, der eine zuverl\u00e4ssige Pfanne sucht, die dennoch erschwinglich ist.",
-    "stock": "23",
+    "stock": "11",
     "price": "420",
     "category": "Kochgeschirr",
     "product_type": "Pfanne",
@@ -4137,9 +3282,7 @@
     "gtin": "8032771920135",
     "title": "Vulcano line - Bratpfanne - 26cm - Schwarz",
     "attributes": {
-        "size": [
-            "26cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4163,9 +3306,7 @@
     "gtin": "8032771920142",
     "title": "Vulcano line - Bratpfanne - 28cm - Schwarz",
     "attributes": {
-        "size": [
-            "28cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4189,9 +3330,7 @@
     "gtin": "5413255170070",
     "title": "Kissen (gef\u00fcllt) HONEYCOMB - 45x45cm - Camel",
     "attributes": {
-        "size": [
-            "45x45cm"
-        ],
+        "size": [],
         "color": [
             "Camel"
         ],
@@ -4216,9 +3355,7 @@
     "gtin": "5413255170056",
     "title": "Kissen (gef\u00fcllt) HONEYCOMB - 45x45cm - Sand",
     "attributes": {
-        "size": [
-            "45x45cm"
-        ],
+        "size": [],
         "color": [
             "Sand"
         ],
@@ -4243,9 +3380,7 @@
     "gtin": "5413255170032",
     "title": "Kissen (gef\u00fcllt) HONEYCOMB - 45x45cm - Taupe",
     "attributes": {
-        "size": [
-            "45x45cm"
-        ],
+        "size": [],
         "color": [
             "Taupe"
         ],
@@ -4266,55 +3401,6 @@
     ],
     "condition": "new"
 },{
-    "product_id": "3227BLUEFUSION",
-    "gtin": "5413255174061",
-    "title": "Kuschel Decke COSY Mikroflanell - 130x160cm - Blau",
-    "attributes": {
-        "size": [
-            "130x160cm"
-        ],
-        "color": [
-            "Bluefusion"
-        ],
-        "brand": [
-            "Tiseco"
-        ]
-    },
-    "description": "<p>Machen Sie es sich extra gem\u00fctlich mit unseren kuscheligen Decken aus der Flanellserie. Die Decken bestehen aus 100% Polyester-Mikroflanell, was f\u00fcr ein aussergew\u00f6hnlich warmes und weiches Gef\u00fchl sorgt. Sie k\u00f6nnen sie perfekt mit den passenden kuscheligen Socken, der kuscheligen Poncho und dem kuscheligen Poncho-Sherpa f\u00fcr den ultimativen gem\u00fctlichen Winterlook kombinieren!</p> <p><br>Spezifikationen:</p> <p>\u2022 Abmessungen: 130X160 CM<br>\u2022 Material: 100% Polyester<br>\u2022 Stil: Skandinavisch<br>\u2022 Thema: Winter Wonderland<br>\u2022 Trockenanweisungen: Nicht im Trockner trocknen<br>\u2022 Waschanweisungen: Waschen bei 40\u00b0C</p>",
-    "stock": "1",
-    "price": "505",
-    "category": "Heimtextilien",
-    "product_type": "Kuscheldecke",
-    "images": [
-        "https://www.simpli.ch/original/3227BLUEFUSION_1.jpg",
-        "https://www.simpli.ch/original/3227BLUEFUSION_2.jpg",
-        "https://www.simpli.ch/original/3227BLUEFUSION_3.jpg",
-        "https://www.simpli.ch/original/3227BLUEFUSION_4.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "CAHMCBLVAZ",
-    "gtin": "8436049565576",
-    "title": "NOX halbhohe Herren Socken 39-45, Weiss/Blau - 2 tlg. - Weiss/Marine",
-    "attributes": {
-        "size": [
-            "2 tlg."
-        ],
-        "color": [
-            "Weiss,Marine"
-        ],
-        "brand": [
-            "Nox"
-        ]
-    },
-    "description": "Diese technischen Crew-Socken passen sich perfekt an den Fuss des Spielers an und bieten optimalen Tragekomfort. Die Socken sind in Weiss mit einem grauen Logo gehalten und sind in der Einheitsgr\u00f6sse 39-45 erh\u00e4ltlich. Die Zusammensetzung besteht aus 78% Baumwolle, 20% Polyamid und 2% Elastan.",
-    "stock": "12",
-    "price": "290",
-    "category": "Sport",
-    "product_type": "Sportsocken",
-    "images": "https://www.simpli.ch/original/CAHMCBLVAZBAG_1.jpg",
-    "condition": "new"
-},{
     "product_id": "50875",
     "gtin": "817010023932",
     "title": "RollOut K\u00fchlschrank-Caddy - Weiss",
@@ -4328,7 +3414,7 @@
         ]
     },
     "description": "<p>Der RollOut K\u00fchlschrank-Caddy macht Ihren K\u00fchlschrank zu einem aufger\u00e4umteren und friedlicheren Ort. Die verstellbaren Trennw\u00e4nde sorgen daf\u00fcr, dass alle Gegenst\u00e4nde ordentlich an ihrem Platz bleiben. Dank der leichtg\u00e4ngigen R\u00e4der und robusten Griffe k\u00f6nnen Sie Lebensmittel m\u00fchelos nach vorne ziehen, ohne den restlichen Inhalt zu st\u00f6ren. Ein wenig K\u00fchlschrank-Organisation bewirkt viel.</p> <p>TxBxH</p> <p>38.1 x 15.24 x 6.35cm</p>",
-    "stock": "30",
+    "stock": "18",
     "price": "480",
     "category": "K\u00fcche",
     "product_type": "K\u00fchlschrank Organizer",
@@ -4353,7 +3439,7 @@
         ]
     },
     "description": "<p>Der RollDown Eierdispenser bietet eine platzsparende L\u00f6sung zur t\u00e4glichen Aufbewahrung und Verwendung von Eiern. Entnehmen Sie einfach ein Ei aus der Vorderseite, und die restlichen Eier rollen sanft auf einer schwerkraftgesteuerten Bahn nach vorne. Das schlanke, zweistufige Design passt in jeden K\u00fchlschrank.&nbsp </p> <p>&nbsp </p> <p>TxBxH</p> <p>36.06 x 10.16 x 8.6cm</p>",
-    "stock": "84",
+    "stock": "72",
     "price": "550",
     "category": "K\u00fcche",
     "product_type": "K\u00fchlschrank Organizer",
@@ -4380,7 +3466,7 @@
         ]
     },
     "description": "<p>Der StoraBag Beutelspender h\u00e4lt all Ihre Beutel an einem ordentlichen Platz. Einzelne F\u00e4cher organisieren die Lebensmittelbeutel in jeder Schublade oder jedem Schrank. Leuchtende Etiketten und breite \u00d6ffnungen helfen Ihnen, den ben\u00f6tigten Beutel leicht zu finden und herauszuziehen. Ein abnehmbarer Deckel erm\u00f6glicht ein schnelles Nachf\u00fcllen. Mit ordentlich organisierten Vorr\u00e4ten wird die Essensvorbereitung zum Kinderspiel.</p> <p>&nbsp </p> <p>TxBxH</p> <p>30.48 x 26.16 x 7.11cm</p> <p>&nbsp </p>",
-    "stock": "147",
+    "stock": "99",
     "price": "900",
     "category": "K\u00fcche",
     "product_type": "K\u00fcchen Organizer",
@@ -4433,7 +3519,7 @@
         ]
     },
     "description": "<p>Der StoraLid Deckel-Organizer bringt Ordnung in Ihre chaotische Sammlung von Beh\u00e4lterdeckeln. Zwei F\u00e4cher bieten Platz f\u00fcr Deckel in verschiedenen Formen und Gr\u00f6ssen, w\u00e4hrend verstellbare Trennw\u00e4nde Ihnen helfen, unterschiedliche Bereiche anzupassen, damit die Deckel aufrecht und griffbereit bleiben. Wenn Beh\u00e4lterdeckel organisiert sind, k\u00f6nnen Reste im Handumdrehen verpackt werden.</p> <p>&nbsp </p> <p>TxBxH</p> <p>26.67 x 28.45 x 8.89cm</p>",
-    "stock": "194",
+    "stock": "99",
     "price": "540",
     "category": "K\u00fcche",
     "product_type": "K\u00fcchen Organizer",
@@ -4460,7 +3546,7 @@
         ]
     },
     "description": "<p>Der StoraLid bringt Ordnung in Ihre chaotische Sammlung von Beh\u00e4lterdeckeln. Eine erweiterbare Basis passt sicher in jeden Schrank oder jede Schublade. Verstellbare Trennw\u00e4nde halten die Deckel aufrecht und griffbereit. Wenn Beh\u00e4lter und Deckel organisiert sind, k\u00f6nnen Reste im Handumdrehen verpackt werden.</p> <p>&nbsp </p> <p>TxBxH</p> <p>26.92 x 34.29 - 57.15 x 13.71</p>",
-    "stock": "118",
+    "stock": "98",
     "price": "1020",
     "category": "K\u00fcche",
     "product_type": "K\u00fcchen Organizer",
@@ -4488,7 +3574,7 @@
         ]
     },
     "description": "<p>Der UpSpace Flaschen-Organizer lagert Flaschen horizontal, sodass sie griffbereit sind, wenn Sie es sind. Verstellbare Regale passen sich grossen und kleinen Flaschen an, ohne Platz zu verschwenden. Eine organisierte Sammlung hilft Ihnen, gut hydriert durch den Tag zu kommen.</p> <p>&nbsp </p> <p>TxBxH</p> <p>19.05 x 28.95 x 18.79cm</p> <p>&nbsp </p>",
-    "stock": "176",
+    "stock": "99",
     "price": "630",
     "category": "K\u00fcche",
     "product_type": "K\u00fcchen Organizer",
@@ -4513,7 +3599,7 @@
         ]
     },
     "description": "<p>Das StoreMore Backblechregal hilft Ihnen dabei, im Handumdrehen die richtige Pfanne, das Backblech oder das Schneidebrett zu finden. Verstellbare Trennw\u00e4nde passen sich verschiedenen Pfannen an und halten alles aufrecht und sichtbar. Wenn die Schr\u00e4nke organisiert sind, k\u00f6nnen Sie sich auf Ihr Backmeisterwerk konzentrieren (oder einfach auf das Abendessen von heute Abend).</p> <p>&nbsp </p> <p>TxBxH</p> <p>18.54 x 29.21 x 16cm</p>",
-    "stock": "87",
+    "stock": "81",
     "price": "550",
     "category": "K\u00fcche",
     "product_type": "K\u00fcchen Organizer",
@@ -4538,7 +3624,7 @@
         ]
     },
     "description": "<p>Der StoreMore Deckelhalter hilft Ihnen, Platz zu sparen, indem Deckel getrennt von gestapelten (oder gestellten) T\u00f6pfen und Pfannen aufbewahrt werden. Verstellbare Trennw\u00e4nde passen sich verschiedenen Deckelgr\u00f6ssen an, sodass sie aufrecht, sichtbar und griffbereit bleiben. Wenn die Schr\u00e4nke organisiert sind, k\u00f6nnen Sie eine laute Suche vermeiden und sich einfach auf das Abendessen konzentrieren.</p> <p>&nbsp </p> <p>TxBxH</p> <p>18.54 x 29.21 x 12.44cm</p> <p>&nbsp </p>",
-    "stock": "166",
+    "stock": "99",
     "price": "550",
     "category": "K\u00fcche",
     "product_type": "K\u00fcchen Organizer",
@@ -4550,39 +3636,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "50904",
-    "gtin": "817010024243",
-    "title": "StoreMore Pfannen- und Deckelregal - Weiss",
-    "attributes": {
-        "size": [],
-        "color": [
-            "Weiss"
-        ],
-        "brand": [
-            "YouCopia"
-        ]
-    },
-    "description": "<p>Das StoreMore erweiterbare Pfannen- und Deckelregal stellt Gegenst\u00e4nde in einer ordentlichen Reihe auf, sodass Sie Ihr Lieblingskochgeschirr sehen (und nicht stapeln) k\u00f6nnen. Zehn verstellbare Trennw\u00e4nde sind stark genug f\u00fcr Pfannen und Platten, passen aber auch f\u00fcr kleine Deckel. Beschichtete Stahldivider verkratzen keine Pfannen, und eine rutschfeste Basis h\u00e4lt alles an Ort und Stelle. Wenn die Schr\u00e4nke organisiert sind, kochen Sie wie ein Profi.</p> <p>&nbsp </p> <p>TxBxH</p> <p>18.54 x 32 - 54.86cm x 16.51cm</p>",
-    "stock": "1",
-    "price": "870",
-    "category": "K\u00fcche",
-    "product_type": "K\u00fcchen Organizer",
-    "images": [
-        "https://www.simpli.ch/original/50904_1.jpg",
-        "https://www.simpli.ch/original/50904_2.jpg",
-        "https://www.simpli.ch/original/50904_3.jpg",
-        "https://www.simpli.ch/original/50904_4.jpg",
-        "https://www.simpli.ch/original/50904_6.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "2187N",
     "gtin": "8435253581273",
     "title": "DigitaI Air Fryer - 3.8l - Schwarz",
     "attributes": {
-        "size": [
-            "3.8l"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4608,9 +3666,7 @@
     "gtin": "8032771923143",
     "title": "Liveinduction - Topfset - 10tlg. - Schwarz",
     "attributes": {
-        "size": [
-            "10tlg."
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4630,42 +3686,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "BPLUXMASTER",
-    "gtin": "8436603198011",
-    "title": "LUXURY MASTER SERIES Padelschl\u00e4gertasche - 60l - Weiss,Schwarz",
-    "attributes": {
-        "size": [
-            "60l"
-        ],
-        "color": [
-            "Weiss,Schwarz"
-        ],
-        "brand": [
-            "Nox"
-        ]
-    },
-    "description": "<p>Erleben Sie die ultimative Kombination aus Eleganz und Funktionalit\u00e4t mit der Luxury Master Series Padelschl\u00e4gertasche. Diese Premium-Tasche wurde speziell f\u00fcr den anspruchsvollen Padelsportler entwickelt und bietet eine Vielzahl von durchdachten Features, um Ihre Ausr\u00fcstung optimal zu sch\u00fctzen und zu organisieren.</p> <p>&nbsp </p> <p>Die Tasche verf\u00fcgt \u00fcber ein NOX ThermoTech Fach, ein speziell isoliertes Thermofach mit Platz f\u00fcr bis zu drei Schl\u00e4ger. Dank der fortschrittlichen Thermotechnologie bleibt Ihre Ausr\u00fcstung vor extremen Temperaturen gesch\u00fctzt. Die hochbest\u00e4ndige Hartbeschichtung der Tasche sorgt durch die Stossd\u00e4mpfungstechnologie f\u00fcr umfassenden Schutz Ihrer Schl\u00e4ger, sodass Ihr Equipment stets sicher und in bestem Zustand bleibt. Ein separates, bel\u00fcftetes Schuhfach h\u00e4lt Ihre Schuhe frisch und trocken, getrennt von Ihrer restlichen Ausr\u00fcstung. Praktische Seitenf\u00e4cher auf beiden Seiten der Tasche bieten ger\u00e4umigen Platz f\u00fcr Ihr",
-    "stock": "13",
-    "price": "3895",
-    "category": "Sport",
-    "product_type": "Sporttasche",
-    "images": [
-        "https://www.simpli.ch/original/BPLUXMASTER_1.png",
-        "https://www.simpli.ch/original/BPLUXMASTER_2.png",
-        "https://www.simpli.ch/original/BPLUXMASTER_3.png",
-        "https://www.simpli.ch/original/BPLUXMASTER_4.png",
-        "https://www.simpli.ch/original/BPLUXMASTER_6.png",
-        "https://www.simpli.ch/original/BPLUXMASTER_7.png"
-    ],
-    "condition": "new"
-},{
     "product_id": "BPAT10XXL24",
     "gtin": "8436603198097",
     "title": "AT10 XXL Padelschl\u00e4gertasche - 90l - Schwarz,Rot",
     "attributes": {
-        "size": [
-            "90l"
-        ],
+        "size": [],
         "color": [
             "Schwarz,Rot"
         ],
@@ -4746,36 +3771,6 @@
         "https://www.simpli.ch/original/CALAT10LTDD41_6.png",
         "https://www.simpli.ch/original/CALAT10LTDD41_7.png",
         "https://www.simpli.ch/original/CALAT10LTDD41_8.png"
-    ],
-    "condition": "new"
-},{
-    "product_id": "CALAT10LTDD42",
-    "gtin": "8436603198417",
-    "title": "NOX AT10 Padelschuhe LIMITED EDITION N42 - Gr. 42 - Weiss",
-    "attributes": {
-        "size": [
-            "Gr. 42"
-        ],
-        "color": [
-            "Weiss"
-        ],
-        "brand": [
-            "Nox"
-        ]
-    },
-    "description": "<p>Die neuen Padelschuhe Nox AT10 LUX LIMITED EDITION wurden speziell von Agust\u00edn Tapia ausgew\u00e4hlt. Zusammen mit den Modellen AT10 und ML10 HEXA sind sie die ersten Padelschuhe, die speziell f\u00fcr Ihre Gesundheit entwickelt wurden, klinisch best\u00e4tigt und im Labor zertifiziert sind.</p> <p>&nbsp </p> <p>Alle Nox-Padelschuhe wurden entwickelt und hergestellt, um das Verletzungsrisiko zu minimieren und die Leistung des Padelspielers zu optimieren. Sie werden klinisch empfohlen von Marta Rueda, Podologin am Mart\u00edn Rueda Foot Studies Center, Beraterin des Sant Cugat Sports High Performance Center in Spanien und Betreuerin von Hunderten von Spitzensportlern.</p> <p>&nbsp </p> <p>Die AGG-Technologie (Advanced Gravity Geometry) sorgt f\u00fcr einen gr\u00f6sseren Drop (H\u00f6he der Ferse im Verh\u00e4ltnis zur Spitze) und erleichtert so dem Spieler die Warteposition und den Laufstart. Dies reduziert die \u00dcberlastung der Waden und minimiert das Risiko",
-    "stock": "2",
-    "price": "3860",
-    "category": "Sport",
-    "product_type": "Sportschuhe",
-    "images": [
-        "https://www.simpli.ch/original/CALAT10LTDD42_1.png",
-        "https://www.simpli.ch/original/CALAT10LTDD42_2.png",
-        "https://www.simpli.ch/original/CALAT10LTDD42_3.png",
-        "https://www.simpli.ch/original/CALAT10LTDD42_4.png",
-        "https://www.simpli.ch/original/CALAT10LTDD42_6.png",
-        "https://www.simpli.ch/original/CALAT10LTDD42_7.png",
-        "https://www.simpli.ch/original/CALAT10LTDD42_8.png"
     ],
     "condition": "new"
 },{
@@ -4871,71 +3866,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "CALAT10WHITE41",
-    "gtin": "8436603198912",
-    "title": "NOX AT10 Padelschuhe PRO weiss N\u00ba41 - Gr.41 - Weiss",
-    "attributes": {
-        "size": [
-            "Gr.41"
-        ],
-        "color": [
-            "Weiss"
-        ],
-        "brand": [
-            "Nox"
-        ]
-    },
-    "description": "<p>Die neuen Padelschuhe Nox AT10 PRO Weiss wurden speziell von Agust\u00edn Tapia f\u00fcr die Saison 2024 ausgew\u00e4hlt. Zusammen mit den Modellen AT10 LUX und ML10 HEXA sind sie die ersten Padelschuhe, die speziell f\u00fcr Ihre Gesundheit entwickelt wurden, klinisch best\u00e4tigt und im Labor zertifiziert.</p> <p>&nbsp </p> <p>Alle Nox-Padelschuhe wurden entwickelt und hergestellt, um das Verletzungsrisiko zu minimieren und die Leistung des Padelspielers zu optimieren. Diese Schuhe sind klinisch best\u00e4tigt von Marta Rueda, Podologin am Centro de Estudios del Pie Mart\u00edn Rueda, Beraterin des Hochleistungssportzentrums Sant Cugat in Spanien und Betreuerin von Hunderten von Spitzensportlern. Sie wurden im Labor getestet und vom Technologischen Zentrum f\u00fcr Schuhe INESCOP in Alicante, Spanien, zertifiziert.</p> <p>&nbsp </p> <p>Die AGG-Technologie (Advanced Gravity Geometry) bietet einen gr\u00f6sseren Drop (H\u00f6he der Ferse im Verh\u00e4ltnis zur Spitze),",
-    "stock": "1",
-    "price": "4525",
-    "category": "Sport",
-    "product_type": "Sportschuhe",
-    "images": [
-        "https://www.simpli.ch/original/CALAT10WHITE41_1.png",
-        "https://www.simpli.ch/original/CALAT10WHITE41_2.png",
-        "https://www.simpli.ch/original/CALAT10WHITE41_3.png",
-        "https://www.simpli.ch/original/CALAT10WHITE41_4.png",
-        "https://www.simpli.ch/original/CALAT10WHITE41_6.png",
-        "https://www.simpli.ch/original/CALAT10WHITE41_7.png",
-        "https://www.simpli.ch/original/CALAT10WHITE41_8.png",
-        "https://www.simpli.ch/original/CALAT10WHITE41_9.png"
-    ],
-    "condition": "new"
-},{
-    "product_id": "SETP2428FIR1",
-    "gtin": "8032771923549",
-    "title": "Fireworks Frypan Pfannen-Set 2er - 24cm+28cm - Grau",
-    "attributes": {
-        "size": [
-            "24cm+28cm"
-        ],
-        "color": [
-            "Grau"
-        ],
-        "brand": [
-            "Piardi"
-        ]
-    },
-    "description": "Die perfekte Pfanne f\u00fcr jedes Gericht.\nDie Piardi HOME Pfanne ist die ideale Wahl f\u00fcr anspruchsvolle K\u00f6che, die Wert auf Qualit\u00e4t und Vielseitigkeit legen. Diese hochwertige Pfanne ist leicht und handlich, was sie zu einem unverzichtbaren K\u00fcchenhelfer macht. Der ergonomisch geformte Griff aus robustem Bakelit ist fest verschweisst und liegt angenehm in der Hand. Dank der exzellenten Antihaftbeschichtung k\u00f6nnen Sie gesunde, fettfreie Gerichte m\u00fchelos zubereiten.\n\nDer Boden der Pfanne zeichnet sich durch eine hohe Materialst\u00e4rke und konzentrische Ringe aus, die f\u00fcr eine gleichm\u00e4ssige W\u00e4rmeverteilung sorgen. Die spezielle Diamantveredelung macht sie perfekt geeignet f\u00fcr alle Herdarten.\n\nEigenschaften:\n\n St\u00e4rke: 2,5 mm\n Beschichtung: Antihaft\n Farbe: Grau\n Griffe: Verschweisst\n Geeignet f\u00fcr folgende Herdarten: Gas, Elektro, Halogen",
-    "stock": "1",
-    "price": "1080",
-    "category": "Kochgeschirr",
-    "product_type": "Pfanne",
-    "images": [
-        "https://www.simpli.ch/original/SETP2428FIR1_1.jpg",
-        "https://www.simpli.ch/original/SETP2428FIR1_2.jpg",
-        "https://www.simpli.ch/original/SETP2428FIR1_3.jpg",
-        "https://www.simpli.ch/original/SETP2428FIR1_4.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "FIRM1020GR01",
     "gtin": "8032771928636",
     "title": "Milchaufsch\u00e4umer - Tutto Crema - 10cm - Schwarz",
     "attributes": {
-        "size": [
-            "10cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4960,9 +3895,7 @@
     "gtin": "8032771928629",
     "title": "Milchaufsch\u00e4umer - Tutto Crema - 8cm - Schwarz",
     "attributes": {
-        "size": [
-            "8cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -4987,9 +3920,7 @@
     "gtin": "8032771920159",
     "title": "Vulcano line - Bratpfanne - 30cm - Schwarz",
     "attributes": {
-        "size": [
-            "30cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -5013,9 +3944,7 @@
     "gtin": "8032771923532",
     "title": "Vulcano Line - Bratpfannen-Set 2er - 24cm+28cm - Schwarz",
     "attributes": {
-        "size": [
-            "24cm+28cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -5039,9 +3968,7 @@
     "gtin": "8032771923525",
     "title": "Liveinduction Frypan Pfanen-Set 2er - 24cm+28cm - Schwarz",
     "attributes": {
-        "size": [
-            "24cm+28cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -5093,9 +4020,7 @@
     "gtin": "8435572626150",
     "title": "FRYER AIR PRO LARGE - 6.2l - Creme",
     "attributes": {
-        "size": [
-            "6.2l"
-        ],
+        "size": [],
         "color": [
             "Creme"
         ],
@@ -5122,9 +4047,7 @@
     "gtin": "8435572626594",
     "title": "FRYER AIR PRO LARGE - 6.2l - Salbeigr\u00fcn",
     "attributes": {
-        "size": [
-            "6.2l"
-        ],
+        "size": [],
         "color": [
             "Salbeigr\u00fcn"
         ],
@@ -5151,9 +4074,7 @@
     "gtin": "8435572615413",
     "title": "STEAM CLEANER - Dampfreiniger - 9tlg. - Schwarz",
     "attributes": {
-        "size": [
-            "9tlg."
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -5162,7 +4083,7 @@
         ]
     },
     "description": "<p>Effizienter Dampfreiniger, der als Handger\u00e4t und Dampfmopp eingesetzt werden kann. Er eignet sich ideal f\u00fcr das Reinigen, Entfetten und Desinfizieren verschiedener Oberfl\u00e4chen, ohne den Einsatz von Chemikalien. Mit 9 Zubeh\u00f6rteilen ausgestattet, bietet er eine umfassende L\u00f6sung f\u00fcr K\u00fcchen, B\u00e4der, Textilien, M\u00f6bel und Fahrzeuge. Der Dampfreiniger ist leicht, ergonomisch und in nur 3 Minuten einsatzbereit.<br><br>Eigenschaften:<br><br>Leistung: 1100 W<br>Kapazit\u00e4t: 200-ml-Wassertank<br>Kabel: 2,8 m lang<br>Gewicht: 1,5 kg<br>Abmessungen: 310x120x235 mm<br>Sicherheitsfunktion: Ventil f\u00fcr sicheren Betrieb<br>Zubeh\u00f6r: Langer Schlauch, Konzentratd\u00fcse, Rundb\u00fcrste, Pr\u00e4zisions-/Hakend\u00fcse, B\u00fcgelb\u00fcrste, Fensterreiniger, Wischmopp, Messbecher, Trichter<br>Zertifikate: CE &amp RoHS</p>",
-    "stock": "4",
+    "stock": "1",
     "price": "2520",
     "category": "Reinigung",
     "product_type": "Dampfreiniger",
@@ -5176,87 +4097,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "128776_265773",
-    "gtin": "8435572616908",
-    "title": "TOAST RETRO - XL - Creme",
-    "attributes": {
-        "size": [],
-        "color": [
-            "Creme"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "<p>Der TOAST RETRO - XL ist ein eleganter Toaster im Retro-Design mit zwei extra breiten Schlitzen, ideal f\u00fcr grosse Brotscheiben. Mit seinen 6 R\u00f6stungsstufen und praktischen Funktionen wie Auftauen, Aufw\u00e4rmen und Abbrechen bietet er vielseitige M\u00f6glichkeiten f\u00fcr die perfekte Toastzubereitung. Die Edelstahlausf\u00fchrung und die herausnehmbare Kr\u00fcmelschublade machen ihn langlebig und leicht zu reinigen.<br><br>Eigenschaften:<br><br>Leistung: 1500 W<br>Br\u00e4unungsstufen: 6 einstellbare R\u00f6stungsgrade<br>Funktionen: Auftauen, Aufw\u00e4rmen, Abbrechen<br>Schlitze: Extra breit f\u00fcr dickere Brotscheiben oder Toasts<br>Material: Edelstahl und BPA-freies ABS<br>Sicherheit: Automatische Abschaltung bei Umkippen und rutschfeste Standf\u00fcsse<br>Abmessungen: 408x160x181 mm<br>Gewicht: 1,9 kg<br>Spannung: 220~240V AC<br>Zubeh\u00f6r: Herausnehmbare Kr\u00fcmelschublade, Kabelsammler<br>Zertifikate: CE &amp RoHS<br>Design:",
-    "stock": "12",
-    "price": [],
-    "category": "K\u00fcchenger\u00e4te",
-    "product_type": "Toaster",
-    "images": [
-        "https://www.simpli.ch/original/128776_265773_1.jpg",
-        "https://www.simpli.ch/original/128776_265773_2.jpg",
-        "https://www.simpli.ch/original/128776_265773_3.jpg",
-        "https://www.simpli.ch/original/128776_265773_4.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "128776_402892",
-    "gtin": "8435572628994",
-    "title": "TOAST RETRO - XL - Salbeigr\u00fcn",
-    "attributes": {
-        "size": [],
-        "color": [
-            "Salbeigr\u00fcn"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "<p>Der TOAST RETRO - XL ist ein eleganter Toaster im Retro-Design mit zwei extra breiten Schlitzen, ideal f\u00fcr grosse Brotscheiben. Mit seinen 6 R\u00f6stungsstufen und praktischen Funktionen wie Auftauen, Aufw\u00e4rmen und Abbrechen bietet er vielseitige M\u00f6glichkeiten f\u00fcr die perfekte Toastzubereitung. Die Edelstahlausf\u00fchrung und die herausnehmbare Kr\u00fcmelschublade machen ihn langlebig und leicht zu reinigen.<br><br>Eigenschaften:<br><br>Leistung: 1500 W<br>Br\u00e4unungsstufen: 6 einstellbare R\u00f6stungsgrade<br>Funktionen: Auftauen, Aufw\u00e4rmen, Abbrechen<br>Schlitze: Extra breit f\u00fcr dickere Brotscheiben oder Toasts<br>Material: Edelstahl und BPA-freies ABS<br>Sicherheit: Automatische Abschaltung bei Umkippen und rutschfeste Standf\u00fcsse<br>Abmessungen: 408x160x181 mm<br>Gewicht: 1,9 kg<br>Spannung: 220~240V AC<br>Zubeh\u00f6r: Herausnehmbare Kr\u00fcmelschublade, Kabelsammler<br>Zertifikate: CE &amp RoHS<br>Design:",
-    "stock": "12",
-    "price": [],
-    "category": "K\u00fcchenger\u00e4te",
-    "product_type": "Toaster",
-    "images": [
-        "https://www.simpli.ch/original/128776_402892.png",
-        "https://www.simpli.ch/original/128776_402892_2.jpg",
-        "https://www.simpli.ch/original/128776_402892_3.jpg"
-    ],
-    "condition": "new"
-},{
-    "product_id": "128776_402894",
-    "gtin": "8435572629007",
-    "title": "TOAST RETRO - XL - Terracotta",
-    "attributes": {
-        "size": [],
-        "color": [
-            "Terracotta"
-        ],
-        "brand": [
-            "Create"
-        ]
-    },
-    "description": "<p>Der TOAST RETRO - XL ist ein eleganter Toaster im Retro-Design mit zwei extra breiten Schlitzen, ideal f\u00fcr grosse Brotscheiben. Mit seinen 6 R\u00f6stungsstufen und praktischen Funktionen wie Auftauen, Aufw\u00e4rmen und Abbrechen bietet er vielseitige M\u00f6glichkeiten f\u00fcr die perfekte Toastzubereitung. Die Edelstahlausf\u00fchrung und die herausnehmbare Kr\u00fcmelschublade machen ihn langlebig und leicht zu reinigen.<br><br>Eigenschaften:<br><br>Leistung: 1500 W<br>Br\u00e4unungsstufen: 6 einstellbare R\u00f6stungsgrade<br>Funktionen: Auftauen, Aufw\u00e4rmen, Abbrechen<br>Schlitze: Extra breit f\u00fcr dickere Brotscheiben oder Toasts<br>Material: Edelstahl und BPA-freies ABS<br>Sicherheit: Automatische Abschaltung bei Umkippen und rutschfeste Standf\u00fcsse<br>Abmessungen: 408x160x181 mm<br>Gewicht: 1,9 kg<br>Spannung: 220~240V AC<br>Zubeh\u00f6r: Herausnehmbare Kr\u00fcmelschublade, Kabelsammler<br>Zertifikate: CE &amp RoHS<br>Design:",
-    "stock": "12",
-    "price": [],
-    "category": "K\u00fcchenger\u00e4te",
-    "product_type": "Toaster",
-    "images": [
-        "https://www.simpli.ch/original/128776_402894.jpg",
-        "https://www.simpli.ch/original/128776_402894_2.jpg",
-        "https://www.simpli.ch/original/128776_402894_3.jpg",
-        "https://www.simpli.ch/original/128776_402894_4.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "INDE2030NE02",
     "gtin": "8032771921835",
     "title": "Liveinduction - Topf 3.5l - 20cm - Schwarz",
     "attributes": {
-        "size": [
-            "20cm"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -5340,9 +4185,7 @@
     "gtin": "8436603198035",
     "title": "LUXURY OPEN Padelschl\u00e4gertasche - 60l - Schwarz/Rot",
     "attributes": {
-        "size": [
-            "60l"
-        ],
+        "size": [],
         "color": [
             "Schwarz,Rot"
         ],
@@ -5351,13 +4194,13 @@
         ]
     },
     "description": "<p>Die NOX LUXURY OPEN Padelschl\u00e4gertasche kombiniert hochwertige Materialien mit durchdachtem Design. Sie ist leicht, robust und bietet optimalen Stauraum f\u00fcr Ausr\u00fcstung und Zubeh\u00f6r \u2013 perfekt f\u00fcr anspruchsvolle Spieler.</p> <p>Die NOX LUXURY OPEN ist die ideale Wahl f\u00fcr Spieler, die eine elegante, praktische und widerstandsf\u00e4hige Tasche suchen.</p> <p>Highlights:</p> <ul> <li><b>Gro\u00dfz\u00fcgiges Hauptfach mit Seiten\u00f6ffnung</b> \u2013 Platz f\u00fcr bis zu drei Padelschl\u00e4ger, Kleidung und Zubeh\u00f6r.</li> <li><b>Thermofach mit NOX ThermoTech-Technologie</b> \u2013 sch\u00fctzt zwei Schl\u00e4ger, Flaschen und empfindliche Gegenst\u00e4nde vor Hitze.</li> <li><b>Seitentaschen mit F\u00e4chern</b> \u2013 f\u00fcr Handy, Geldb\u00f6rse, Schl\u00fcssel und weiteres Zubeh\u00f6r.</li> <li><b>Bel\u00fcftetes Schuhfach</b> \u2013 sorgt f\u00fcr Frische und verhindert Geruchsbildung.</li> <li><b>Zus\u00e4tzliches",
-    "stock": "20",
+    "stock": "19",
     "price": "3505",
     "category": "Sport",
     "product_type": "Sporttasche",
     "images": [
         "https://www.simpli.ch/original/BPOPENBLRE.jpg",
-        "https://www.simpli.ch/BPOPENBLRE_2.jpg",
+        "https://www.simpli.ch/original/BPOPENBLRE_2.jpg",
         "https://www.simpli.ch/original/BPOPENBLRE_3.jpg",
         "https://www.simpli.ch/original/BPOPENBLRE_4.jpg",
         "https://www.simpli.ch/original/BPOPENBLRE_6.jpg",
@@ -5369,9 +4212,7 @@
     "gtin": "8436603198066",
     "title": "LUXURY OPEN Rucksack - 30l - Schwarz,Rot",
     "attributes": {
-        "size": [
-            "30l"
-        ],
+        "size": [],
         "color": [
             "Schwarz,Rot"
         ],
@@ -5395,41 +4236,11 @@
     ],
     "condition": "new"
 },{
-    "product_id": "BPAT10COMTRO24",
-    "gtin": "8436603198080",
-    "title": "AT10 COMPETITION Trolley Padeltasche - 60l - Schwarz,Salbeigr\u00fcn",
-    "attributes": {
-        "size": [
-            "60l"
-        ],
-        "color": [
-            "Schwarz,Salbeigr\u00fcn"
-        ],
-        "brand": [
-            "Nox"
-        ]
-    },
-    "description": "<p>Die NOX AT10 COMPETITION Trolley Padeltasche ist der ideale Begleiter f\u00fcr lange Reisen und Turniere. Sie bietet viel Stauraum und flexible Tragem\u00f6glichkeiten. Dank robuster Rollen und einem h\u00f6henverstellbaren Griff l\u00e4sst sie sich m\u00fchelos transportieren.</p> <p>Die NOX AT10 COMPETITION Trolley Padeltasche wird von Profi Agustin Tapia genutzt und \u00fcberzeugt mit Qualit\u00e4t und Funktionalit\u00e4t \u2013 perfekt f\u00fcr ambitionierte Spieler.</p> <p>Highlights:</p> <ul> <li><b>Ger\u00e4umiges Hauptfach</b> mit Doppelreisverschluss \u2013 ideal f\u00fcr Schl\u00e4ger, Kleidung und Zubeh\u00f6r.</li> <li><b>Thermofach mit NOX ThermoTech-Technologie</b> \u2013 sch\u00fctzt bis zu drei Schl\u00e4ger oder Flaschen vor Temperaturschwankungen.</li> <li><b>Praktische Seitenf\u00e4cher</b> f\u00fcr Accessoires wie Handy, Geldb\u00f6rse oder Schl\u00fcssel.</li> <li><b>Bel\u00fcftetes Schuhfach</b> \u2013 h\u00e4lt Sportschuhe frisch und getrennt vom",
-    "stock": "4",
-    "price": "4680",
-    "category": "Sport",
-    "product_type": "Sporttasche",
-    "images": [
-        "https://www.simpli.ch/original/BPAT10COMTRO24_2.jpg",
-        "https://www.simpli.ch/original/BPAT10COMTRO24.jpg",
-        "https://www.simpli.ch/original/BPAT10COMTRO24_3.jpg",
-        "https://www.simpli.ch/original/BPAT10COMTRO24_4.jpg",
-        "https://www.simpli.ch/original/BPAT10COMTRO24_6.jpg"
-    ],
-    "condition": "new"
-},{
     "product_id": "BPAT10TEGRBL",
     "gtin": "8436603198127",
     "title": "AT10 TEAM Padelschl\u00e4gertasche - 28l - Grau,Schwarz",
     "attributes": {
-        "size": [
-            "28l"
-        ],
+        "size": [],
         "color": [
             "Grau,Schwarz"
         ],
@@ -5482,9 +4293,7 @@
     "gtin": "5709386517670",
     "title": "Gartenstuhl MY - 70 % Holz,  30 % Kunststoff - Braun",
     "attributes": {
-        "size": [
-            "70 % Holz,  30 % Kunststoff"
-        ],
+        "size": [],
         "color": [
             "Braun"
         ],
@@ -5520,7 +4329,7 @@
         ]
     },
     "description": "Eleganter und komfortabler Gartenstuhl\n\nDieser stilvolle Gartenstuhl vereint modernes Design mit hohem Sitzkomfort. Das robuste Gestell aus pulverbeschichtetem Metall sorgt f\u00fcr Stabilit\u00e4t und Langlebigkeit, w\u00e4hrend die ergonomische Sitzfl\u00e4che eine bequeme Haltung erm\u00f6glicht.\n\nDank der wetterbest\u00e4ndigen Materialien ist der Stuhl ideal f\u00fcr den Aussenbereich geeignet und bleibt pflegeleicht sowie langlebig. Ob auf der Terrasse, im Garten oder auf dem Balkon \u2013 dieser vielseitige Stuhl ist die perfekte Wahl f\u00fcr entspannte Stunden im Freien.",
-    "stock": "18",
+    "stock": "1",
     "price": "2665",
     "category": "Gartenm\u00f6bel",
     "product_type": "Gartenstuhl",
@@ -5539,9 +4348,7 @@
     "gtin": "8436603198134",
     "title": "AT10 TEAM Padelschl\u00e4gertasche - 42l - Grau,Gr\u00fcn",
     "attributes": {
-        "size": [
-            "42l"
-        ],
+        "size": [],
         "color": [
             "Grau,Gr\u00fcn"
         ],
@@ -5569,9 +4376,7 @@
     "gtin": "8436603198158",
     "title": "AT10 Team Rucksack - 28l - Grau",
     "attributes": {
-        "size": [
-            "28l"
-        ],
+        "size": [],
         "color": [
             "Grau"
         ],
@@ -5600,9 +4405,7 @@
     "gtin": "8435778900788",
     "title": "Nox Aluminiumflasche - 550ml - Weiss, Rot",
     "attributes": {
-        "size": [
-            "550ml"
-        ],
+        "size": [],
         "color": [
             "Weiss, Rot"
         ],
@@ -5625,9 +4428,7 @@
     "gtin": "4036812127181",
     "title": "Tischlampe-Akku, schwarz - 44 LEDs - Schwarz",
     "attributes": {
-        "size": [
-            "44 LEDs"
-        ],
+        "size": [],
         "color": [
             "Schwarz"
         ],
@@ -5636,7 +4437,7 @@
         ]
     },
     "description": "<p>Mit ihrem schlanken Design und der mattschwarzen Oberfl\u00e4che passt sie sich jedem Wohn- und Aussenbereich dezent an. Die integrierte LED-Technologie sorgt f\u00fcr angenehmes Licht bei gleichzeitig niedrigem Energieverbrauch. Dank IP44-Schutzklasse eignet sich die Lampe auch f\u00fcr den gesch\u00fctzten Aussenbereich \u2013 perfekt f\u00fcr Balkon, Terrasse oder Gartenlounge.</p> <p>Die Lampe ist mit einem leistungsstarken 1800 mAh Lithium-Ionen-Akku ausgestattet. Eine volle Ladung gen\u00fcgt f\u00fcr 6 bis 7 Stunden Licht, ideal f\u00fcr lange Abende im Freien oder stimmungsvolle Innenbeleuchtung. \u00dcber das mitgelieferte USB-Kabel l\u00e4sst sie sich in nur 4 Stunden bequem aufladen.</p> <p>Die Verarbeitung aus Eisen und robustem Kunststoff sorgt f\u00fcr Stabilit\u00e4t, ohne an Eleganz zu verlieren. Die 44 LEDs spenden gleichm\u00e4ssiges Licht, das sich vielseitig einsetzen l\u00e4sst \u2013 ob als Tischbeleuchtung, auf dem Sideboard oder unterwegs.</p> <p><b>Wichtigste Merkmale:</b></p>",
-    "stock": "494",
+    "stock": "92",
     "price": "280",
     "category": "Outdoor",
     "product_type": "Tischlampe",
@@ -5652,9 +4453,7 @@
     "gtin": "4036812127204",
     "title": "Tischlampe-Akku, weiss - 44 LEDs - Weiss",
     "attributes": {
-        "size": [
-            "44 LEDs"
-        ],
+        "size": [],
         "color": [
             "Weiss"
         ],
@@ -5663,7 +4462,7 @@
         ]
     },
     "description": "<p>Mit ihrem schlanken Design und dem klaren Weiss f\u00fcgt sie sich harmonisch in moderne Wohnr\u00e4ume, aber auch in Aussenbereiche ein. Die 44 LEDs erzeugen ein angenehmes Lichtbild, das sowohl funktional als auch atmosph\u00e4risch wirkt. Durch die Schutzklasse IP20 ist sie bestens geeignet f\u00fcr den Einsatz im gesch\u00fctzten Aussenbereich \u2013 ideal f\u00fcr Balkon, Terrasse oder Garten.</p> <p>Die leistungsstarke Li-Ion-Batterie (1800 mAh) bietet eine Leuchtdauer von bis zu 7 Stunden. Nach nur 4 Stunden Ladezeit \u00fcber das mitgelieferte USB-Kabel ist die Lampe wieder einsatzbereit \u2013 ganz ohne Kabelsalat.<br> Gefertigt aus Eisen und Kunststoff, kombiniert sie Langlebigkeit mit einem leichten, eleganten Auftritt.</p> <p><b>Wichtigste Merkmale:</b></p> <p>&nbsp </p> <ul> <li> <p>Kabellose Tischlampe mit Akku, \u00d811 x 38 cm</p> </li> <li> <p>44 LEDs f\u00fcr gleichm\u00e4ssige Lichtverteilung</p>",
-    "stock": "408",
+    "stock": "99",
     "price": "280",
     "category": "Outdoor",
     "product_type": "Tischlampe",
