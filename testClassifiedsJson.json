@@ -1,12 +1,12 @@
 [
   {
-    "product_id": "12",
+    "product_id": "122",
     "gtin": "",
     "title": "Toyota Corolla 1.8 Hybrid (2019) – Hatchback",
     "description": "Well-maintained compact hybrid with automatic transmission, modern safety features, and low running costs. Ideal for city and commuting.",
     "condition": "used",
     "images": [
-      "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=640"
+      "https://img-dev.ricardostatic.ch/images/35726c64-9cee-412a-a183-a7c4eb385b19/t_265x200/mercedes-3999995-single"
     ],
     "price": 2499000,
     "stock": 1,
