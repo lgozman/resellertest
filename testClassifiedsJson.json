@@ -245,27 +245,19 @@
   {
     "product_id": "34",
     "gtin": "",
-    "title": "Mercedes-Benz Sprinter 314 CDI (2017) – L2H2 Panel Van",
-    "description": "Reliable commercial van with high roof and strong diesel engine. Excellent for deliveries and trades.",
+    "title": "Office desk",
+    "description": "Beautiful office desk for your office",
     "condition": "used",
     "images": [
-      "https://images.pexels.com/photos/417018/pexels-photo-417018.jpeg?auto=compress&cs=tinysrgb&w=640"
+      "https://img-dev.ricardostatic.ch/images/f03699f2-1172-4798-98ef-f698560f4761/t_1000x750/contini-hohenverstellbarer-burotisch-16x08m-grau"
     ],
-    "price": 3199000,
+    "price": 860000,
     "stock": 1,
     "specification": {
-      "category": "vehicles",
-      "product_type": "commercial_vehicle",
+      "category": "desk",
+      "product_type": "desk",
       "attributes": [
-        { "name": "Brand", "value": ["Mercedes-Benz"] },
-        { "name": "Model", "value": ["Sprinter 314 CDI"] },
-        { "name": "Year", "value": ["2017"] },
-        { "name": "Body Type", "value": ["Panel Van (L2H2)"] },
-        { "name": "Fuel", "value": ["Diesel"] },
-        { "name": "Transmission", "value": ["Manual"] },
-        { "name": "Payload (kg)", "value": ["1425"] },
-        { "name": "Cargo Volume (m³)", "value": ["10.5"] },
-        { "name": "Mileage (km)", "value": ["128000"] },
+        { "name": "Brand", "value": ["Ikea"] },
         { "name": "Color", "value": ["White"] }
       ]
     }
