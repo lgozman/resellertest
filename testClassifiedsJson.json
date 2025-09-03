@@ -189,6 +189,33 @@
     }
   },
   {
+    "product_id": "25",
+    "gtin": "",
+    "title": "Kawasaki Ninja 650 (2018) – Sport Motorcycle -old price",
+    "description": "Lightweight, agile middleweight with ABS and upright ergonomics. Great for daily rides and weekend trips.",
+    "condition": "used",
+    "images": [
+      "https://img-dev.ricardostatic.ch/images/16015f30-ed17-4323-add5-8daad4e3e4d1/t_1000x750/moto-3999995-bulk"
+    ],
+    "price": 850000,
+    "stock": 1,
+    "specification": {
+      "category": "vehicles",
+      "product_type": "motorcycle",
+      "attributes": [
+        { "name": "Brand", "value": ["Kawasaki"] },
+        { "name": "Model", "value": ["Ninja 650"] },
+        { "name": "Year", "value": ["2018"] },
+        { "name": "Engine (cc)", "value": ["649"] },
+        { "name": "Power (hp)", "value": ["67"] },
+        { "name": "Fuel", "value": ["Petrol"] },
+        { "name": "Transmission", "value": ["6-speed Manual"] },
+        { "name": "Mileage (km)", "value": ["19800"] },
+        { "name": "Color", "value": ["Green/Black"] }
+      ]
+    }
+  },
+  {
     "product_id": "34",
     "gtin": "",
     "title": "Mercedes-Benz Sprinter 314 CDI (2017) – L2H2 Panel Van",
