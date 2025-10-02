@@ -1,194 +1,50 @@
 [
   {
-    "product_id": "0f7d90bd-0c25-415e-8a7d-10ed1dcd962a",
-    "gtin": "7563573748",
-    "title": "Tente à arceaux de camping - Arpenaz 4.1 F&B - 4 Places - 1 Chambre",
-    "description": "Le produit est disponible en magasin.",
+    "product_id": "6f6fdd77-4cd8-4ae3-acf0-0e251e8815d5",
+    "gtin": "2060038706631",
+    "title": "CHAUSSURES IMPERMEABLES DE RANDONNÉE MONTAGNE - COLUMBIA REDMOND - FEMME",
+    "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
     "images": [
-      "https://contents.mediadecathlon.com/p2583235/k$82f84d3b7627ed273d1457b6166b5174",
-      "https://contents.mediadecathlon.com/p2406906/k$5a2746e351b4ff5dbe6ae5a79b707036",
-      "https://contents.mediadecathlon.com/p2501982/k$fe1acd840a833b3a487976f784150807",
-      "https://contents.mediadecathlon.com/p2425914/k$cd204dc696d26f207437c346fd578356",
-      "https://contents.mediadecathlon.com/p2425929/k$b92fc126e5716b3c6eb9bd35e785dd6f"
+      "https://contents.mediadecathlon.com/p2175762/k$b783dfe8ae97a8f0c35e4669226e408c?f=700x700"
     ],
-    "price": "15000",
+    "price": "6900",
     "stock": "1",
     "specification": {
-      "product_type": "tente",
-      "category": "camping",
+      "product_type": "shoes",
+      "category": "Randonnée montagne",
       "attributes": [
         {
           "name": "SIZE",
           "value": [
-            "NO SIZE"
+            "37"
           ]
         }
       ]
     },
-    "condition": "used"
+    "condition": "like_new"
   },
   {
-    "product_id": "ac4b4ade-82c7-4fa2-a856-71d64ebd7b4c",
-    "gtin": "7563701464",
-    "title": "Vélo tout chemin électrique - cadre bas - Riverside 100 E bleu",
-    "description": "Le produit est disponible en magasin.",
+    "product_id": "03bbb5cd-626e-4633-8636-4bcbe04fa5ac",
+    "gtin": "2060039603014",
+    "title": "Kids' 20\\\" Hybrid Bike Riverside 900 6-9 Years",
+    "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
     "images": [
-      "https://contents.mediadecathlon.com/p2322255/k$20b3ee8829babba2ce91de43f7e68841",
-      "https://contents.mediadecathlon.com/p2674624/k$8b4ee2d3bcde27e50ba647e98fb0e158",
-      "https://contents.mediadecathlon.com/p2323532/k$0c6ca43143d5f0eb2bca9c153d436111",
-      "https://contents.mediadecathlon.com/p2322252/k$9ada2ba4ae6b1639331638ba51909f27",
-      "https://contents.mediadecathlon.com/p2322249/k$182e5051af68ed15a077b10f3e01fcc0"
+      "https://contents.mediadecathlon.com/p2482755/k$661eb87f4c0a13380b8e696320f9ff10?f=700x700"
     ],
-    "price": "70000",
+    "price": "25000",
     "stock": "1",
     "specification": {
-      "product_type": "vélo tout chemin",
+      "product_type": "cycle",
       "category": "vélo tout chemin randonnée",
       "attributes": [
         {
           "name": "SIZE",
           "value": [
-            "MEDIUM"
-          ]
-        }
-      ]
-    },
-    "condition": "used"
-  },
-  {
-    "product_id": "f97281f8-4d64-4d15-8c5f-5fa07de2ed79",
-    "gtin": "7563044790",
-    "title": "Chaussures de trail running femme saucony peregrine 14",
-    "description": "Le produit est disponible en magasin.",
-    "images": [
-      "https://contents.mediadecathlon.com/p2779769/k$5a100c51dd2175737b813e807354dfa5"
-    ],
-    "price": "8500",
-    "stock": "1",
-    "specification": {
-      "product_type": "chaussures",
-      "category": "Trail",
-      "attributes": [
-        {
-          "name": "SIZE",
-          "value": [
-            "39 (6)"
+            "20\\\""
           ]
         }
       ]
     },
     "condition": "like_new"
-  },
-  {
-    "product_id": "b12a4ede-58c1-4c01-b5f7-f16a8027e245",
-    "gtin": "7563054753",
-    "title": "PANIER DE BASKET PISCINE BLEU",
-    "description": "Le produit est disponible en magasin.",
-    "images": [
-      "https://contents.mediadecathlon.com/p2374005/k$fdcd858190e653c3aa7c7dc9b5f083be",
-      "https://contents.mediadecathlon.com/p2374001/k$1a8b9408d16390ba16ca123fdc102f3c",
-      "https://contents.mediadecathlon.com/p2374004/k$040c6bd61d83199436ea98e578a7295f",
-      "https://contents.mediadecathlon.com/p2374003/k$259b16d7cb058f48ee8883530ddb8af6",
-      "https://contents.mediadecathlon.com/p2374002/k$b495da57fffb7316a1f6a1e772becbc7"
-    ],
-    "price": "2600",
-    "stock": "1",
-    "specification": {
-      "product_type": "panier de basket",
-      "category": "Water polo",
-      "attributes": [
-        {
-          "name": "SIZE",
-          "value": [
-            "NO SIZE"
-          ]
-        }
-      ]
-    },
-    "condition": "like_new"
-  },
-  {
-    "product_id": "a38024ec-8190-48dc-a264-1b533afa01be",
-    "gtin": "7563677680",
-    "title": "Vélo de Ville électrique ELOPS 120 E",
-    "description": "Le produit est disponible en magasin.",
-    "images": [
-      "https://contents.mediadecathlon.com/p1886648/k$8b840279e11fdb8b93578c2640d64a5a",
-      "https://contents.mediadecathlon.com/p2280017/k$488a69002dff4edef3e15731da601058",
-      "https://contents.mediadecathlon.com/p2279999/k$401e7433f6cae282bf6c3b8445eecbde",
-      "https://contents.mediadecathlon.com/p2280011/k$7235ed18c79bb4db421d3057221bce13",
-      "https://contents.mediadecathlon.com/p2279995/k$9f0f9c848cda4f2f0e46a5b9835566f5"
-    ],
-    "price": "40000",
-    "stock": "1",
-    "specification": {
-      "product_type": "vélo ville",
-      "category": "Vélo ville",
-      "attributes": [
-        {
-          "name": "SIZE",
-          "value": [
-            "NO SIZE"
-          ]
-        }
-      ]
-    },
-    "condition": "used"
-  },
-  {
-    "product_id": "dc4d2e76-4e23-47fb-82e4-bb97f86ca108",
-    "gtin": "7563034649",
-    "title": "Chaussettes randonnée - Hike 500 Mid Grise et Rouge x2 paires",
-    "description": "Le produit est disponible en magasin.",
-    "images": [
-      "https://contents.mediadecathlon.com/p2903999/k$40c2713bbbeec9b147acd0458913168b",
-      "https://contents.mediadecathlon.com/p2903997/k$b4fd4f8c688dc7006891931258b67df6",
-      "https://contents.mediadecathlon.com/p2903993/k$6e87830133dfae312c8b080aa74c023f",
-      "https://contents.mediadecathlon.com/p2903998/k$6676bef4bbab451a61073b34c2156415",
-      "https://contents.mediadecathlon.com/p2903992/k$91d2f20f15798cb0cc19664fd5906927"
-    ],
-    "price": "800",
-    "stock": "1",
-    "specification": {
-      "product_type": "chaussettes",
-      "category": "marche sportive",
-      "attributes": [
-        {
-          "name": "SIZE",
-          "value": [
-            "35/38"
-          ]
-        }
-      ]
-    },
-    "condition": "like_new"
-  },
-  {
-    "product_id": "5612897c-cd83-4fa4-a0ca-a008b2427c27",
-    "gtin": "7563585942",
-    "title": "Abri à arceaux de camping - 4 places - Arpenaz 4P",
-    "description": "Le produit est disponible en magasin.",
-    "images": [
-      "https://contents.mediadecathlon.com/p2423059/k$67f3d2abe30d5a63c7ed2f6303a71fea",
-      "https://contents.mediadecathlon.com/p2423060/k$307e4b4eadd90754733748b249af89be",
-      "https://contents.mediadecathlon.com/p2423061/k$8a3aab6db7d6fdb0cfe399326dd9e6a7",
-      "https://contents.mediadecathlon.com/p2423062/k$fe8978b510ee40980391ec1541ed4b33",
-      "https://contents.mediadecathlon.com/p2423063/k$023308cba01b720da6a44d0d9fd4762c"
-    ],
-    "price": "2900",
-    "stock": "1",
-    "specification": {
-      "product_type": "abris",
-      "category": "camping",
-      "attributes": [
-        {
-          "name": "SIZE",
-          "value": [
-            "NO SIZE"
-          ]
-        }
-      ]
-    },
-    "condition": "damaged"
   }
 ]
