@@ -1,4 +1,24 @@
-[
+[{
+    "product_id": "ligia-4cd8-4ae3-acf0-0e251e8815d5",
+    "gtin": "2060038706632",
+    "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+    "images": [
+      "https://contents.mediadecathlon.com/p2175762/k$b783dfe8ae97a8f0c35e4669226e408c?f=700x700"
+    ],
+    "specification": {
+      "product_type": "shoes",
+      "category": "Randonnée montagne",
+      "attributes": [
+        {
+          "name": "SIZE",
+          "value": [
+            "37"
+          ]
+        }
+      ]
+    },
+    "condition": ""
+  },
   {
     "product_id": "6f6fdd77-4cd8-4ae3-acf0-0e251e8815d5",
     "gtin": "2060038706631",
