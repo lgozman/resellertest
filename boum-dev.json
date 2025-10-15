@@ -2,7 +2,7 @@
   "title": "Boum Topf 15L",
   "description": "Der Boum Blumentopf 15L verf\u00fcgt \u00fcber ein Bodenvolumen von 15L und eine Pflanztiefe von 29 cm. Er ist damit geeignet f\u00fcr Zimmerpflanzen, Kr\u00e4uter, Gem\u00fcse, Blumen, kleine Str\u00e4ucher und B\u00e4umchen. Kapillardochte ziehen Wasser aus dem integrierten Reservoir des Topfs und sorgen so f\u00fcr optimale Bodenfeuchte. Ein Schwimmerventil reguliert die Wasserzufuhr zum Reservoir. Durch eine dezente, einfach zu installierende Verschlauchung wird der Topf mit der Boum Bew\u00e4sserung verbunden. Damit werden Pflanzen mehrere Wochen zuverl\u00e4ssig mit Wasser versorgt. Der Topf besteht aus hochwertigem, 80% recyceltem Mineral-Kunststoffgemisch mit Handfinish. Er ist dekorativ, stoss- und bruchfest, leicht zu bewegen, UV- und frostresistent. Mit Quick Connect Adapter, T-St\u00fcck und 1.5 m Schlauch zur Verbindung mit der Boum Bew\u00e4sserung. Boum - das innovative, Pflanzenpflegesystem mit automatischer Bew\u00e4sserung, das \u00fcber eine App gesteuert wird. Solarbetrieben und dekorativ. Alles, was du brauchst, um Pflanzen erfolgreich und mit Stil zum Wachsen zu bringen. Gl\u00fccksgef\u00fchle garantiert.",
   "gtin": "7629999810365",
-  "product_id": "PA.15L.GR",
+  "product_id": "PA.15L.GT",
   "price": "8500",
   "stock": "10",
   "product_type": "Bew\u00e4sserung",
@@ -19,8 +19,7 @@
   ],
   "gtin": "7649989088239",
   "product_id": "BU.CT2.GR",
-  "price": "22900",
-  "stock": "10",
+  "stock": "abc",
   "condition": "new",
   "category": "Garten", 
   "attributes": {
