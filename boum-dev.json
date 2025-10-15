@@ -4,7 +4,7 @@
   "gtin": "7629999810365",
   "product_id": "PA.15L.GR",
   "price": "8500",
-  "stock": "2335",
+  "stock": "10",
   "product_type": "Bew\u00e4sserung",
   "condition": "new",
   "category": "Garten"
@@ -20,16 +20,9 @@
   "gtin": "7649989088239",
   "product_id": "BU.CT2.GR",
   "price": "22900",
-  "stock": "316",
-  "product_type": "Bew\u00e4sserung",
+  "stock": "10",
   "condition": "new",
   "category": "Garten", 
   "attributes": {
-        "color": [
-            "Grau"
-        ],
-        "material": [
-            "Kunststoff"
-        ]
   }
 }]
