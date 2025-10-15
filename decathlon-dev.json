@@ -10,15 +10,7 @@
     "price": "25000",
     "stock": "1",
     "specification": {
-      "product_type": "cycle",
-      "attributes": [
-        {
-          "name": "SIZE",
-          "value": [
-            "37"
-          ]
-        }
-      ]
+      "product_type": "cycle"
     }
   },{
     "product_id": "456",
@@ -62,14 +54,8 @@
     "price": "25000",
     "stock": "1",
     "specification": {
-      "category": "vélo tout chemin randonnée",
+      "product_type": "cycle",
       "attributes": [
-        {
-          "name": "SIZE",
-          "value": [
-            "20\\\""
-          ]
-        }
       ]
     },
     "condition": "like_new"
