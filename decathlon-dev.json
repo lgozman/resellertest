@@ -2,6 +2,7 @@
     "product_id": "123",
     "gtin": "2060038706631",
     "title": "LGA CHAUSSURES IMPERMEABLES MONTAGNE - COLUMBIA",
+    "condition": "like_new",
     "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d'utilisation. Photos non contractuelles.",
     "images": [
       "https://contents.mediadecathlon.com/p2175762/k$b783dfe8ae97a8f0c35e4669226e408c?f=700x700"
@@ -71,6 +72,6 @@
         }
       ]
     },
-    "condition": "abc"
+    "condition": "like_new"
   }
 ]
