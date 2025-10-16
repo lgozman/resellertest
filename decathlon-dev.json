@@ -59,5 +59,21 @@
       ]
     },
     "condition": "like_new"
+  },{
+    "product_id": "911"
+  },{
+    "product_id": "912",
+    "gtin": "2060039603014",
+    "title": "Kids' 20\\\" Hybrid Bike Riverside 900 6-9 Years",
+    "description": "TRÈS BON ÉTAT: Produit complet, 1005 fonctionnel et sécuritaire. Certeins éléments ont pu être remplacés. Le produit peut présenter de légères traces d’utilisation. Photos non contractuelles.",
+    "images": [
+      "https://contents.mediadecathlon.com/p2482755/k$661eb87f4c0a13380b8e696320f9ff10?f=700x700"
+    ],
+    "price": "25000",
+    "stock": "1",
+    "specification": {
+      "product_type": "cycle"
+    },
+    "condition": "like_new"
   }
 ]
