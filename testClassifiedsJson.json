@@ -133,6 +133,32 @@
         { "name": "Seats", "value": ["5"] }
       ]
     }
+  },{
+    "product_id": "1226",
+    "gtin": "",
+    "title": "Toyota Corolla 1.8 Hybrid- Ligia ",
+    "description": "Well-maintained compact hybrid with automatic transmission, modern safety features, and low running costs. Ideal for city and commuting.",
+    "condition": "used",
+    "images": [
+      "https://img-dev.ricardostatic.ch/images/35726c64-9cee-412a-a183-a7c4eb385b19/t_265x200/mercedes-3999995-single"
+    ],
+    "price": 1999995,
+    "stock": 1,
+    "specification": {
+      "category": "vehicles",
+      "product_type": "car",
+      "attributes": [
+        { "name": "Brand", "value": ["Toyota"] },
+        { "name": "Model", "value": ["Corolla"] },
+        { "name": "Year", "value": ["2019"] },
+        { "name": "Fuel", "value": ["Hybrid (Petrol/Electric)"] },
+        { "name": "Transmission", "value": ["Automatic"] },
+        { "name": "Mileage (km)", "value": ["58400"] },
+        { "name": "Color", "value": ["Silver"] },
+        { "name": "Doors", "value": ["5"] },
+        { "name": "Seats", "value": ["5"] }
+      ]
+    }
   },
   {
     "product_id": "127",
