@@ -605,7 +605,7 @@
       ]
     },
     "condition": "like_new",
-    "delivery_options" : [{"type": "transporter", "price": 900, "free_limit": 15000}]
+    "delivery_options" : [{"type": "transporter", "price": 1000, "free_limit": 15000}]
   },
   {
     "product_id": "53736376",
@@ -1435,7 +1435,7 @@
     "reference_number" : "1234567",
     "delivery_options" : [
       {"type": "get_by_buyer"},
-      {"type": "transporter", "price": 900, "free_limit": 15000}
+      {"type": "courier", "price": 950, "free_limit": 15000}
     ]
   },
   {
