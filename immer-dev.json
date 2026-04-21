@@ -604,7 +604,8 @@
         }
       ]
     },
-    "condition": "like_new"
+    "condition": "like_new",
+    "delivery_options" : [{"type": "transporter", "price": 900, "free_limit": 15000}]
   },
   {
     "product_id": "53736376",
@@ -1430,7 +1431,12 @@
         }
       ]
     },
-    "condition": "like_new"
+    "condition": "like_new",
+    "reference_number" : "1234567",
+    "delivery_options" : [
+      {"type": "get_by_buyer"},
+      {"type": "transporter", "price": 900, "free_limit": 15000}
+    ]
   },
   {
     "product_id": "62651318",
