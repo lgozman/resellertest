@@ -46,11 +46,16 @@
       "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/75VP_WIT_1_5fd2ec5d-439e-496d-b10b-ac6aeea41df5.jpg?v=1690537958"
     ]
   },
+  "reference_number" : "12345",
+  "delivery_option_1_type": "get_by_buyer",
+  "delivery_option_2_type": "transporter",
+  "delivery_option_2_price": 900,
+  "delivery_option_2_free_limit": 15000,
   "updated_at": "2024-12-16T09:27:50Z"
 },{
   "product_id": "52185512190168",
   "gtin": "8592913181331",
-  "title": "Kilpi Jersey Elyon Herren",
+  "title": "Kilpi Jersey Elyon Herren update",
   "description": "Lieferfrist: 7-10 Tage. Wir beraten dich gerne mit allen wichtigen Informationen in unserem Outlet (S)Paradies in Spiez.  Das wichtigste zur Marke Kilpi  Die Marke Kilpi bedeutet Schild. Es ist daher kein Zufall, dass Kilpi Skibekleidung herstellt, die dich vor K\u00e4lte und extremen Wetterbedingungen wie ein Schild sch\u00fctzt.  Kilpi stellt Skibekleidung und Skiaccessoires-Kollektionen her, die funktional und zuverl\u00e4ssig sind. Die Marke weiss, welche Stoffe und Materialien dich am besten gegen K\u00e4lte sch\u00fctzen. Kilpi entwickelte vor 10 Jahren das hochwertige Material Siberium. Das Material funktioniert genauso wie Glasfaserlaminierung und ist sehr robust, stabil, durchl\u00e4ssig und elastisch. Dies gibt zum Beispiel Kilpi-Skibekleidung die M\u00f6glichkeit, andere Kleidungsschichten zu ersetzen oder zu kompensieren.",
   "images": [
     "https://outletking.ch/cdn/shop/files/i-kilpi-elyon-tmav-modr-km0203kidbl.jpg?v=1707473290&width=1800",
@@ -105,11 +110,13 @@
       "https://outletking.ch/cdn/shop/files/i-kilpi-elyon-tmav-modr-km0203kidbl.jpg?v=1707473290&width=1800"
     ]
   },
+  "reference_number" : "12345",
+  "delivery_option_1_type": "get_by_buyer",
   "updated_at": "2025-01-27T10:52:07Z"
 },{
   "product_id": "40112270606485",
   "gtin": "4102460276639",
-  "title": "Hey Sport Micro W. und Safety Wash-In",
+  "title": "Hey Sport Micro W. und Safety Wash-In update ",
   "description": "Hey Sport Micro Wash und Safety Wash-In - Im Outlet Sale  Hey Sport Micro Wash und Safety Wash-In ist die ideale Kombination f\u00fcr die schonende Reinigung und Pflege deiner Funktionskleidung. Micro Wash reinigt spezielle Gewebe wie Mikrofaser und Softshell tiefenwirksam und erh\u00e4lt dabei die atmungsaktive Funktion der Textilien. Safety Wash-In bietet zus\u00e4tzlichen Schutz durch antimikrobielle Eigenschaften, die unangenehme Ger\u00fcche und Bakterienbildung verhindern. Beide Produkte sind perfekt aufeinander abgestimmt und garantieren, dass deine Outdoor- und Sportbekleidung ihre technischen Eigenschaften beh\u00e4lt. Diese Kombination ist ideal f\u00fcr alle, die Wert auf saubere, hygienische und langlebige Funktionsbekleidung legen. Perfekt f\u00fcr regelm\u00e4\u00dfige Pflege und zur Erhaltung der Qualit\u00e4t deiner hochwertigen Kleidung.",
   "images": "https://outletking.ch/cdn/shop/products/20766200_MicroSafetySet_2x250ml.jpg?v=1690538297&width=1800",
   "price": "2490",
