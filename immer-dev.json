@@ -2,12 +2,11 @@
   {
     "product_id": "52269233",
     "gtin": "4005674676311",
-    "title": "Terrassenschrauben REISSER RT UNI Edelstahl rostfrei A2 5x50",
+    "title": "Terrassenschrauben REISSER RT UNI Edelstahl rostfrei A2",
     "description": "Edelstahl rostfrei A2, Zylinderkopf, mit Antrieb SIT, mit Schaft und Unterkopfgewinde, mit Bohrsegment, für Verschraubungen ohne Vorbohren von tropischen Harthölzern im Aussenbereich.\r\n\r\nPro Schachtel liegt ein Bit bei.\n\nProfitieren Sie jetzt einmalig von unserem attraktiven Abverkaufspreis – nur solange der Vorrat reicht.\n\n\nMarke: REISSER\nd1: 5 mm\nL: 50 mm\nKopf-Ø: 7.8 mm\nAntrieb Torx TX: 20",
     "images": [
       "https://bilder.dabag.ch/bilder/82/82_1394_10.jpg",
-      "https://bilder.dabag.ch/bilder/82/82_1394_11.jpg",
-      "https://bilder.dabag.ch/bilder/https://www.youtube.com/watch?v=x6x3rkl1jby"
+      "https://bilder.dabag.ch/bilder/82/82_1394_11.jpg"
     ],
     "price": 2110,
     "stock": 10,
@@ -37,7 +36,8 @@
         }
       ]
     },
-    "condition": "like_new"
+    "condition": "like_new",
+    "reference_number" : "52269233"
   },
   {
     "product_id": "52269271",
@@ -46,8 +46,7 @@
     "description": "Edelstahl rostfrei A2, Zylinderkopf, mit Antrieb SIT, mit Schaft und Unterkopfgewinde, mit Bohrsegment, für Verschraubungen ohne Vorbohren von tropischen Harthölzern im Aussenbereich.\r\n\r\nPro Schachtel liegt ein Bit bei.\n\nProfitieren Sie jetzt einmalig von unserem attraktiven Abverkaufspreis – nur solange der Vorrat reicht.\n\n\nMarke: REISSER\nd1: 5 mm\nL: 70 mm\nKopf-Ø: 7.8 mm\nAntrieb Torx TX: 20",
     "images": [
       "https://bilder.dabag.ch/bilder/82/82_1394_10.jpg",
-      "https://bilder.dabag.ch/bilder/82/82_1394_11.jpg",
-      "https://bilder.dabag.ch/bilder/https://www.youtube.com/watch?v=x6x3rkl1jby"
+      "https://bilder.dabag.ch/bilder/82/82_1394_11.jpg"
     ],
     "price": 8085,
     "stock": 57,
@@ -605,7 +604,7 @@
       ]
     },
     "condition": "like_new",
-    "delivery_options" : [{"type": "transporter", "price": 1000, "free_limit": 15000}]
+    "delivery_options" : [{"type": "transporter", "price": 900, "free_limit": 15000}]
   },
   {
     "product_id": "53736376",
