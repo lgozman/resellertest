@@ -12,6 +12,11 @@
     "price": "700",
     "stock": "1",
     "condition": "used",
+    "reference_number" : "12345",
+    "delivery_options" : [
+      {"type": "get_by_buyer"},
+      {"type": "transporter", "price": 900, "free_limit": 15000}
+    ],
     "specification": {
       "product_type": "Clothing \u003E Tops: shirts & sweaters",
       "category": "Apparel & Accessories \u003E Clothing \u003E Shirts & Tops",
@@ -62,6 +67,11 @@
     "price": "700",
     "stock": "1",
     "condition": "used",
+    "reference_number" : "12345",
+    "delivery_options" : [
+      {"type": "get_by_buyer"},
+      {"type": "transporter", "price": 900, "free_limit": 15000}
+    ],
     "specification": {
       "product_type": "Clothing \u003E Tops: shirts & sweaters",
       "category": "Apparel & Accessories \u003E Clothing \u003E Shirts & Tops",
@@ -101,7 +111,7 @@
   },
   {
     "product_id": "45717812969603",
-    "title": "Gildan Heavy Cotton Red T-Shirt - Size M",
+    "title": "Gildan Heavy Cotton Red T-Shirt - Size M  test update",
     "description": "A classic red Gildan heavy cotton t-shirt in size M. This versatile basic tee features a comfortable crew neckline and short sleeves. Made of durable heavy cotton fabric that holds its shape well. The shirt has a standard fit and is perfect for everyday casual wear or as a base for customization. The bright red color is vibrant and uniform throughout the garment. The label shows it's from Gildan's Heavy Cotton line.\n\nListing ID: lst_33SErzYJJegfFzGSwhbhMbmha82",
     "images": [
       "https://storage.googleapis.com/minimist.appspot.com/listing-uploads%2Fvariants%2Flst_33SErzYJJegfFzGSwhbhMbmha82_model%2Fvar_35D0IKHdZ0lDIvRsVw6i6fOrlk2.jpg",
@@ -162,6 +172,10 @@
     "price": "700",
     "stock": "1",
     "condition": "used",
+    "delivery_options" : [
+      {"type": "get_by_buyer"},
+      {"type": "transporter", "price": 900, "free_limit": 15000}
+    ],
     "specification": {
       "product_type": "Clothing \u003E Tops: shirts & sweaters",
       "category": "Apparel & Accessories \u003E Clothing \u003E Shirts & Tops",
