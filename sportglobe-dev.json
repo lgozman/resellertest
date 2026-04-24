@@ -2,7 +2,7 @@
   {
     "product_id": "220024",
     "gtin": "5700497800996",
-    "title": "Hummel Coach Sports Tape 2.5 cm x 10 m - weiss",
+    "title": "Hummel Coach Sports Tape 2.5 cm x 10 m",
     "description": "Hummel Coach Sports Tape 2.5 cm x 10 m - weiss - Neu -\n\n- UVP: 3.90 CHF / unser Preis: nur 1.90 CHF / 51% Rabatt\n• Zustand: Rückläufer – geprüfte Neuware\n- Extrem reduziert – Einzelstück\n\nWarum so günstig?\nDieses Produkt stammt aus Rücksendungen, wurde sorgfältig geprüft und ist technisch sowie optisch in einwandfreiem Zustand. Du bekommst Top-Qualität zum Schnäppchenpreis – ohne Kompromisse!\n\nMaterialien:\n- Cotton\n• Polyester\n- Zink Oxid\n• Latex Free",
     "images": [
       "https://www.fit-und-warm.ch/images/product_images/popup_images/d7a73b63-1b1f-4f21-ab57-93cb2c045a46.jpg"
@@ -52,7 +52,8 @@
         }
       ]
     },
-    "condition": "new"
+    "condition": "new",
+    "reference_number" : "12345"
   },
   {
     "product_id": "220026",
