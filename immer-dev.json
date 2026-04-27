@@ -37,12 +37,12 @@
       ]
     },
     "condition": "like_new",
-    "reference_number" : "52269233"
+    "reference_number" : "ref-52269233"
   },
   {
     "product_id": "52269271",
     "gtin": "4005674676359",
-    "title": "Terrassenschrauben REISSER RT UNI Edelstahl rostfrei A2 ",
+    "title": "Terrassenschrauben REISSER RT UNI Edelstahl rostfrei A2 test",
     "description": "Edelstahl rostfrei A2, Zylinderkopf, mit Antrieb SIT, mit Schaft und Unterkopfgewinde, mit Bohrsegment, für Verschraubungen ohne Vorbohren von tropischen Harthölzern im Aussenbereich.\r\n\r\nPro Schachtel liegt ein Bit bei.\n\nProfitieren Sie jetzt einmalig von unserem attraktiven Abverkaufspreis – nur solange der Vorrat reicht.\n\n\nMarke: REISSER\nd1: 5 mm\nL: 70 mm\nKopf-Ø: 7.8 mm\nAntrieb Torx TX: 20",
     "images": [
       "https://bilder.dabag.ch/bilder/82/82_1394_10.jpg",
@@ -603,7 +603,7 @@
       ]
     },
     "condition": "like_new",
-    "delivery_options" : [{"type": "transporter", "price": 900, "free_limit": 15000}, {"type": "", "price": 0, "free_limit": 0}]
+    "delivery_options" : [{"type": "transporter", "price": 1000, "free_limit": 15000}, {"type": "", "price": 0, "free_limit": 0}]
   },
   {
     "product_id": "53736376",
@@ -1433,7 +1433,7 @@
     "reference_number" : "",
     "delivery_options" : [
       {"type": "get_by_buyer"},
-      {"type": "courier", "price": 950, "free_limit": 15000}
+      {"type": "courier", "price": 1000, "free_limit": 15000}
     ]
   },
   {
@@ -1469,7 +1469,11 @@
         }
       ]
     },
-    "condition": "like_new"
+    "condition": "like_new",
+     "delivery_options" : [
+      {"type": "get_by_buyer"},
+      {"type": "courier", "price": 950, "free_limit": 15000}
+    ]
   },
   {
     "product_id": "62651325",
