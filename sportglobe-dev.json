@@ -13,10 +13,7 @@
       "product_type": "Unisex / Tape & Medizin & Arztkoffer / Tape & Bandagen",
       "attributes": [
         {
-          "name": "Farbe",
-          "value": [
-            "weiss"
-          ]
+          "name": "Farbe"
         },
         {
           "name": "Geschlecht",
@@ -125,7 +122,6 @@
         {
           "name": "Marke",
           "value": [
-            "sportglobe"
           ]
         },
         {
