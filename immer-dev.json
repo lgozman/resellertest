@@ -603,7 +603,7 @@
       ]
     },
     "condition": "like_new",
-    "delivery_options" : [{"type": "transporter", "price": 1000, "free_limit": 15000}, {"type": "", "price": 0, "free_limit": 0}]
+    "delivery_options" : [{"type": "transporter", "price": 850, "free_limit": 15000}, {"type": "", "price": 0, "free_limit": 0}]
   },
   {
     "product_id": "53736376",
@@ -1433,7 +1433,7 @@
     "reference_number" : "",
     "delivery_options" : [
       {"type": "get_by_buyer"},
-      {"type": "courier", "price": 1000, "free_limit": 15000}
+      {"type": "courier", "price": 950, "free_limit": 15000}
     ]
   },
   {
@@ -1472,13 +1472,13 @@
     "condition": "like_new",
      "delivery_options" : [
       {"type": "get_by_buyer"},
-      {"type": "courier", "price": 950, "free_limit": 15000}
+      {"type": "courier", "price": 1000, "free_limit": 15000}
     ]
   },
   {
     "product_id": "62651325",
     "gtin": "9009866237057",
-    "title": "Softshelljacken WIKLAND 8884 Deluxe marine XL",
+    "title": "Softshelljacken WIKLAND 8884 Deluxe marine XL update",
     "description": "\r\n,Material:\tPolyester 93.5%, Spandex 6.5%, Fleece, 280 g/m²\r\n\r\n,Beschreibung:\tBi-Stretch, Klimamembrane, innen aufgeraut, Stehkragen, Frontreissverschluss sichtbar mit Kinnschutz, Brusttasche mit Reissverschluss, Seitentaschen mit Reissverschluss, Rückenverlängerung, Ellbogen ergonomisch geformt, verstellbare Ärmelsaumabschlüsse mit Klettverschluss, Innentaschen, Handytasche mit Klettverschluss, mit Netzfutter, Steppung und Riegel in Kontrast, seitliche Belüftungsöffnungen mit Reissverschluss und Netzfutter, Reflex-Piping im Vorderteil, Wassersäule \u003E 5000 mm, Atmungsaktivität: 5000_g/m²/24h.\n\nProfitieren Sie jetzt einmalig von unserem attraktiven Abverkaufspreis – nur solange der Vorrat reicht.\n\n\nMarke: WIKLAND\nGrösse: XL\nFarbe: marine\nBrustumfang: 116 cm",
     "images": [
       "https://bilder.dabag.ch/bilder/18/18_6395_01.jpg",
