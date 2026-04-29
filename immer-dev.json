@@ -37,7 +37,8 @@
       ]
     },
     "condition": "like_new",
-    "reference_number" : "ref-52269233"
+    "reference_number" : "ref-52269233",
+    "delivery_options" : []
   },
   {
     "product_id": "52269271",
@@ -76,7 +77,8 @@
         }
       ]
     },
-    "condition": "like_new"
+    "condition": "like_new",
+    "delivery_options" : [{}]
   },
   {
     "product_id": "52269288",
