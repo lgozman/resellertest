@@ -214,4 +214,58 @@
   "delivery_option_2_price": 900,
   "delivery_option_2_free_limit": 15000,
   "updated_at": "2024-12-16T09:27:50Z"
+},{
+  "product_id": "5995439838018010",
+  "gtin": "8716404224905230",
+  "title": "Expensive Helly Hansen Capacitor Rucks\u00e4cke ",
+  "description": "Helly Hansen Capacitor Rucks\u00e4cke - Im Outlet Sale  Der Helly Hansen Capacitor Rucksack ist der perfekte Begleiter f\u00fcr Outdoor-Abenteuer und den t\u00e4glichen Gebrauch.  Die gepolsterten Schultergurte und der bel\u00fcftete R\u00fcckenbereich garantieren hohen Tragekomfort, selbst bei l\u00e4ngeren Wanderungen oder Ausfl\u00fcgen. Mit zus\u00e4tzlichen Features wie einem Brustgurt und einem H\u00fcftgurt sitzt der Rucksack sicher und stabil auf dem R\u00fccken. Der Helly Hansen Capacitor Rucksack ist robust, wasserabweisend und funktional \u2013 ideal f\u00fcr alle, die Wert auf Qualit\u00e4t und Komfort legen, egal ob in der Natur oder im Alltag.",
+  "images": "https://outletking.ch/cdn/shop/files/67073-222-scaled.jpg?v=1705491629&width=1800",
+  "price": "15000",
+  "stock": "10",
+  "attributes": {
+    "color": [
+      "Rot"
+    ],
+    "gender": [
+      "Unisex"
+    ],
+    "age": [
+      "Erwachsen"
+    ],
+    "model": ["Capacitor"],
+    "brand": [
+      "Helly Hansen"
+    ],
+    "material": [],
+    "sleevelength": [],
+    "pantslength": [],
+    "shoeheight": [],
+    "sole": [],
+    "insole": [],
+    "heelheight": [],
+    "uvprotection": []
+  },
+  "category": "Multisport",
+  "product_type": "Multifunktionsrucks\u00e4cke",
+  "condition": "new",
+  "variant": {
+    "option_color": [
+      "Weiss"
+    ],
+    "group": [
+      "6461628350613"
+    ],
+    "option_size": [
+      "110 cm"
+    ],
+    "image": [
+      "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/75VP_WIT_1_5fd2ec5d-439e-496d-b10b-ac6aeea41df5.jpg?v=1690537958"
+    ]
+  },
+  "reference_number" : "1234567890",
+  "delivery_option_1_type": "get_by_buyer",
+  "delivery_option_2_type": "transporter",
+  "delivery_option_2_price": 900,
+  "delivery_option_2_free_limit": 18000,
+  "updated_at": "2024-12-16T09:27:50Z"
 }]
