@@ -1,1 +1,1260 @@
-[]
+[
+  {
+    "condition": "new",
+    "description": "Der sanfte Duft von frischem Nadelgehölz versetzt Sie in die ruhende Bergwelt der Alpen\nKopfnote\nFrisch: Süsse, brasilianische Orange, Chinesischer Eukalyptus\nHerznote\nHolzig: Seekiefer, Sibirische Kiefer, Tanne\nBasisnote\nAmber: Tabakblätter, Weisser Moschus",
+    "gtin": "8034023254944",
+    "images": [
+      "https://www.simpli.ch/original/903880000003pack.jpg",
+      "https://www.simpli.ch/original/903880000003prod.jpg",
+      "https://www.simpli.ch/original/10003_3.png",
+      "https://www.simpli.ch/original/903881000999image.jpg"
+    ],
+    "price": 1130,
+    "product_id": "10003",
+    "reference_number": "10003",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "My Senso"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Weiss"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Deko & Accessoires"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Raumduft"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.1"
+          ]
+        }
+      ],
+      "category": "Deko & Accessoires / Raumduft",
+      "product_type": "Raumduft"
+    },
+    "stock": 12,
+    "title": "°3 Pinewood Premium Diffusor"
+  },
+  {
+    "condition": "new",
+    "description": "Die aufregende Kreation von Moschus, vereint mit dem verführerischen Duft der schwarzen Johannisbeere, lässt ihr Herz höher schlagen\nKopfnote\nFrucht, Grün: Tasmanische Schwarze Johannisbeere, Feige, Grüne Note\nHerznote\nBlumig: Fruchtig, Ägyptische Jasmin, Ägyptisches Geranium, Pflaume\nBasisnote\nHolzig, Moschusartig: Guaiac- Holz, Weisser Moschus, Amyris, Haselnuss",
+    "gtin": "8034023254937",
+    "images": [
+      "https://www.simpli.ch/original/903880000007pack.jpg",
+      "https://www.simpli.ch/original/100ml_2.jpeg",
+      "https://www.simpli.ch/original/903880000007prod.jpg",
+      "https://www.simpli.ch/original/903881000999image.jpg"
+    ],
+    "price": 1130,
+    "product_id": "10007",
+    "reference_number": "10007",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "My Senso"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Weiss"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Deko & Accessoires"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Raumduft"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.1"
+          ]
+        }
+      ],
+      "category": "Deko & Accessoires / Raumduft",
+      "product_type": "Raumduft"
+    },
+    "stock": 8,
+    "title": "°7 Musk Cassis Premium Diffusor"
+  },
+  {
+    "condition": "new",
+    "description": "Die einzigartig fruchtig-blumige Note von Beeren und frischen Blüten, umhüllt von feinsten Gewürznuancen, stärkt die innere Ruhe und Balance.\nKopfnote\nFruchtig: Waldbeere, Johannisbeere aus Tasmanien, Pfirsichblüte, Brasilien-Orange, Mandarine aus Sizilien, Pampelmuse aus Kalifornien\nHerznote\nFruchtig, Aromatisch: Melone, Himbeere, türkische Rose, Kiefer aus Frankreich, Zimt von Ceylan, Thymian aus Spanien\nBasisnote\nLieblich: Milch, Kokusnuss",
+    "gtin": "8034023254968",
+    "images": [
+      "https://www.simpli.ch/original/903880000009pack.jpg",
+      "https://www.simpli.ch/original/903880000009prod.jpg",
+      "https://www.simpli.ch/original/903881000009image.jpg",
+      "https://www.simpli.ch/original/903881000999image.jpg"
+    ],
+    "price": 1130,
+    "product_id": "10009",
+    "reference_number": "10009",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "My Senso"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Weiss"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Deko & Accessoires"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Raumduft"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.1"
+          ]
+        }
+      ],
+      "category": "Deko & Accessoires / Raumduft",
+      "product_type": "Raumduft"
+    },
+    "stock": 15,
+    "title": "°9 White Flower Premium Diffusor"
+  },
+  {
+    "condition": "new",
+    "description": "Wie Tautropfen so klar und rein, entfaltet sich die Ylang Ylang Duftkomposition zu einem pudrigen, frischen Gefühl der Geborgenheit.\nKopfnote\nBlumig: Mandarine, Bergamotte, Sizilianische Zitrone\nHerznote\nFrisch: Ligurischer Lavendel, Iris, Maiglöckchen, Veilchenblätter\nBasisnote\nZitrus, Holzig: Vanille, Ylang Ylang, Amber, Virginia Zedernholz",
+    "gtin": "8034023254999",
+    "images": [
+      "https://www.simpli.ch/original/903880000018pack.jpg",
+      "https://www.simpli.ch/original/903880000018prod.jpg",
+      "https://www.simpli.ch/original/903881000018image.jpg",
+      "https://www.simpli.ch/original/903881000999image.jpg",
+      "https://www.simpli.ch/original/AVVERTENZE 240ML DIFF. SHOP ONLINE 18 Lino Puro.png"
+    ],
+    "price": 1130,
+    "product_id": "10018",
+    "reference_number": "10018",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "My Senso"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Weiss"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Deko & Accessoires"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Raumduft"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.1"
+          ]
+        }
+      ],
+      "category": "Deko & Accessoires / Raumduft",
+      "product_type": "Raumduft"
+    },
+    "stock": 4,
+    "title": "°18 Lino Puro Premium Diffusor"
+  },
+  {
+    "condition": "new",
+    "description": "Wie die frische, leichte Morgenbrise, die sanft über das duftende Blütenmeer der mediteranen Inselwelt hinweg zieht\nKopfnote\nFrisch: Chinesiche Litsea cubeba, Sizilianische Zitrone\nHerznote\nHesperidien: Guatemala- Zitronengras, Französische Verbena, Amerikanische Minze\nBasisnote\nBlumig: Türkische Rose",
+    "gtin": "8034023259789",
+    "images": [
+      "https://www.simpli.ch/original/903880000022pack.jpg",
+      "https://www.simpli.ch/original/903880000022prod.jpg",
+      "https://www.simpli.ch/original/903881000022image.jpg",
+      "https://www.simpli.ch/original/903881000999image.jpg",
+      "https://www.simpli.ch/original/AVVERTENZE 240ML DIFF. SHOP ONLINE 22 Acqua.png"
+    ],
+    "price": 1030,
+    "product_id": "10022",
+    "reference_number": "10022",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "My Senso"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Weiss"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Deko & Accessoires"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Raumduft"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.1"
+          ]
+        }
+      ],
+      "category": "Deko & Accessoires / Raumduft",
+      "product_type": "Raumduft"
+    },
+    "stock": 2,
+    "title": "°22 Acqua Premium Diffusor"
+  },
+  {
+    "condition": "new",
+    "description": "Das Sitzkissen Bertram 48X48X5cm ist die perfekte Wahl, um Ihren Sitzgelegenheiten zusätzlichen Komfort und Stil zu verleihen. Mit Abmessungen von 48x48 cm und einer Dicke von 5 cm bietet dieses Kissen hervorragenden Sitzkomfort und eine ansprechende Optik.\nDer Stoff besteht aus hochwertigem 230g/m² Struktur-Polyester, das nicht nur strapazierfähig ist, sondern auch eine angenehme Haptik bietet. Der Schaumstoff im Inneren des Kissens hat eine Dichte von 20Kg/m³, was für ausgezeichneten Sitzkomfort sorgt. Zusätzlich ist das Kissen mit 200g Polyfiber gefüllt, um den Komfort zu maximieren. Das Kissen verfügt über einen praktischen Reissverschluss, der das Abnehmen des Bezugs und die Reinigung erleichtert. Es ist wasserabweisend und UV-geschützt, was bedeutet, dass es auch bei schlechtem Wetter und Sonneneinstrahlung seine Form und Farbe behält.\nIn eleganter Schwarzer Farbe passt das Sitzkissen Bertram zu verschiedenen Einrichtungsstilen und verleiht Ihren Sitzgelegenheiten eine moderne Note. Verleihen Sie Ihren Stühlen, Bänken und Sitzbänken zusätzlichen Komfort und Stil mit dem Sitzkissen Bertram 48X48X5cm in Schwarz.\nProduktname: Sitzkissen Bertram 48X48X5cm\nStoff: 230g/m² Struktur-Polyester\nKissenstärke: 5cm\nSchaumstoff: 20Kg/m³\nPolyfiber: 200g\nMit Reissverschluss\nWasserabweisend und UV-geschützt\nMaterial: Polyester\nFarbe: Schwarz",
+    "gtin": "5714988002288",
+    "images": [
+      "https://www.simpli.ch/original/46427_f.jpg",
+      "https://www.simpli.ch/original/46427_s.jpg",
+      "https://www.simpli.ch/original/48559_623473_46427m.jpg",
+      "https://www.simpli.ch/original/48559_624042_46427_m.jpg"
+    ],
+    "price": 660,
+    "product_id": "100222",
+    "reference_number": "100222",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Schwarz"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Gartenmöbel"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Sitzkissen"
+          ]
+        },
+        {
+          "name": "Masse",
+          "value": [
+            "48x48x5"
+          ]
+        }
+      ],
+      "category": "Gartenmöbel / Sitzkissen",
+      "product_type": "Sitzkissen"
+    },
+    "stock": 4,
+    "title": "Sitzkissen Bertram"
+  },
+  {
+    "condition": "new",
+    "description": "Geniessen Sie den orientalischen Flair und verzaubern Sie den Moment mit Sandelholz, Patschuli und fernöstlichen Gewürzaromen.\nKopfnote\nWürzig, Süss: Sandelholz, Mandarine, Bergamott\nHerznote\nWürzig: Zimtblätter, Rosmarin, Basilikum, Muskatnuss, Nelken, afrikanische Nelken\nBasisnote\nHolzig: Guajakholz, Patchouly, Moosbaum, Vetiver java",
+    "gtin": "8034023259796",
+    "images": [
+      "https://www.simpli.ch/original/903880000033pack.jpg",
+      "https://www.simpli.ch/original/903880000033prod.jpg",
+      "https://www.simpli.ch/original/903881000033image.jpg",
+      "https://www.simpli.ch/original/903881000999image.jpg",
+      "https://www.simpli.ch/original/AVVERTENZE 240ML DIFF. SHOP ONLINE 33 Sandalwood.png"
+    ],
+    "price": 1030,
+    "product_id": "10033",
+    "reference_number": "10033",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "My Senso"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Weiss"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Deko & Accessoires"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Raumduft"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.1"
+          ]
+        }
+      ],
+      "category": "Deko & Accessoires / Raumduft",
+      "product_type": "Raumduft"
+    },
+    "stock": 10,
+    "title": "°33 Sandalwood Premium Diffusor"
+  },
+  {
+    "condition": "new",
+    "description": "Der Gartenstuhl Anita ist die perfekte Wahl für Ihren Garten oder Ihre Terrasse, wenn Sie nach einem bequemen und stapelbaren Stuhl suchen. Mit seinen Abmessungen von B54xT64xH89cm bietet er ausreichend Platz und Komfort für entspannte Stunden im Freien. Die Sitzhöhe von 45cm, die Sitztiefe von 45cm und die Sitzbreite von 46cm sorgen für ein angenehmes Sitzerlebnis, während die Armlehnen eine zusätzliche Bequemlichkeit bieten und eine Armlehnenhöhe von 64cm aufweisen.\nDer Gartenstuhl Anita ist mit einem hochwertigen 2in1-Rattan-Geflecht ausgestattet, das nicht nur robust ist, sondern auch einen ansprechenden Look verleiht. Das Schwarze Metallgestell sorgt für Stabilität und Langlebigkeit. Mit einer maximalen Belastbarkeit von 120Kg eignet sich dieser Stuhl perfekt für entspannte Momente alleine oder in Gesellschaft. Darüber hinaus ist er stapelbar, was die Aufbewahrung und Platzersparnis erleichtert. Verleihen Sie Ihrem Outdoor-Bereich Stil und Komfort, indem Sie den Gartenstuhl Anita in Natur wählen.\nProduktname: Gartenstuhl Anita - stapelbar\nGrösse: B54xT64xH89cm\nSitzhöhe: 45cm\nSitztiefe: 45cm\nSitzbreite: 46cm\nArmlehnenhöhe: 64cm\nGeflecht: 2in1\nMaximales Gewicht: 120Kg\nMaterial: Metall/Rattan\nFarbe: Natur",
+    "gtin": "5714988004336",
+    "images": [
+      "https://www.simpli.ch/original/50710_f.jpg",
+      "https://www.simpli.ch/original/50710_s.jpg",
+      "https://www.simpli.ch/original/50710_s1.jpg",
+      "https://www.simpli.ch/original/50063_f1.jpg"
+    ],
+    "price": 2155,
+    "product_id": "100435",
+    "reference_number": "100435",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Natur"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Gartenmöbel"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Gartenstuhl"
+          ]
+        }
+      ],
+      "category": "Gartenmöbel / Gartenstuhl",
+      "product_type": "Gartenstuhl"
+    },
+    "stock": 10,
+    "title": "Gartenstuhl Anita"
+  },
+  {
+    "condition": "new",
+    "description": "Gartenstuhl mit Kissen – Komfort und Stil für den Aussenbereich\nDieser elegante Gartenstuhl vereint modernes Design mit hohem Sitzkomfort. Das robuste Gestell sorgt für Stabilität und Langlebigkeit, während das bequeme Kissen für zusätzlichen Sitzkomfort sorgt. Ideal für den Garten, die Terrasse oder den Balkon – ob beim Essen im Freien oder entspannten Stunden in der Sonne. Dank der hochwertigen Materialien ist der Stuhl wetterbeständig und pflegeleicht.\nHighlights:\n• Robustes und stilvolles Design\n• Inklusive bequemem Kissen\n• Wetterbeständig und pflegeleicht\n• Vielseitig einsetzbar für Garten, Terrasse oder Balkon\nPerfekt für alle, die Wert auf Komfort und Ästhetik legen.",
+    "gtin": "5714988024549",
+    "images": [
+      "https://www.simpli.ch/original/102198_1.jpg",
+      "https://www.simpli.ch/original/102198_2.jpg",
+      "https://www.simpli.ch/original/102198_3.jpg",
+      "https://www.simpli.ch/original/102198_4.jpg",
+      "https://www.simpli.ch/original/102198_6.jpg",
+      "https://www.simpli.ch/original/102198_7.jpg"
+    ],
+    "price": 7185,
+    "product_id": "102198",
+    "reference_number": "102198",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Schwarz"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Gartenmöbel"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Gartenstuhl"
+          ]
+        }
+      ],
+      "category": "Gartenmöbel / Gartenstuhl",
+      "product_type": "Gartenstuhl"
+    },
+    "stock": 6,
+    "title": "Gartenstuhl SIF"
+  },
+  {
+    "condition": "new",
+    "description": "Moderner Sonnenschirm mit Kurbel und Neigefunktion – Ø 3 m\nDieser praktische Sonnenschirm bietet mit seinem grosszügigen Durchmesser von 3 Metern optimalen Schutz vor Sonne und sorgt für angenehmen Schatten im Garten, auf der Terrasse oder dem Balkon. Dank der integrierten Kurbel lässt er sich mühelos öffnen und schliessen, während die Neigefunktion eine flexible Anpassung an den Sonnenstand ermöglicht.\nDas robuste Gestell sorgt für Stabilität, während das witterungsbeständige Schirmtuch zuverlässigen Schutz bietet. Ein stilvoller und funktionaler Begleiter für sonnige Tage im Freien.\n180 g Polyester. UV50+. Farbechtheitsklasse 4. Stange aus Aluminium: Ø48 mm. Stahlrippen: 12x18 mm.",
+    "gtin": "5714988049511",
+    "images": [
+      "https://www.simpli.ch/original/104344_2.jpg",
+      "https://www.simpli.ch/original/104344_1.jpg",
+      "https://www.simpli.ch/original/104344_3.jpg",
+      "https://www.simpli.ch/original/104344_4.jpg",
+      "https://www.simpli.ch/original/104344_6.jpg",
+      "https://www.simpli.ch/original/104344_7.jpg"
+    ],
+    "price": 2470,
+    "product_id": "104344",
+    "reference_number": "104344",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Grau"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Gartenmöbel"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Sonnenschirm"
+          ]
+        },
+        {
+          "name": "Masse",
+          "value": [
+            "300"
+          ]
+        }
+      ],
+      "category": "Gartenmöbel / Sonnenschirm",
+      "product_type": "Sonnenschirm"
+    },
+    "stock": 1,
+    "title": "Sonnenschirm JOAKIM"
+  },
+  {
+    "condition": "new",
+    "description": "Der Bistrotisch Mads 70X70cm ist die ideale Wahl für gemütliche Mahlzeiten im Freien oder entspannte Kaffeepausen auf Ihrer Terrasse oder in Ihrem Garten. Mit einer Grösse von 70x70 cm bietet dieser Tisch ausreichend Platz für Ihre Bedürfnisse.\nDer Tisch hat eine Höhe von 72cm und eine Bodenfreiheit von 70cm, was ein bequemes Sitzen und ausreichend Platz für Ihre Beine ermöglicht. Die 9,5cm breiten Latten verleihen dem Tisch ein klassisches Aussehen, während das Aluminiumgestell in Kombination mit Kunstholz-Materialien Langlebigkeit und Widerstandsfähigkeit gewährleistet.\nDieser Tisch ist ein KD-Modell (zerlegbar), was die Lagerung und den Transport erleichtert. Die Farbkombination Schwarz/Schwarze Pinie verleiht Ihrem Outdoor-Bereich ein modernes und ansprechendes Erscheinungsbild. Geniessen Sie Mahlzeiten im Freien oder entspannen Sie sich in angenehmer Gesellschaft an Ihrem Bistrotisch Mads.\nProduktname: Bistrotisch Mads 70X70cm\nHöhe: 72cm\nBodenfreiheit: 70cm\nLattenbreite: 11cm\nHöhenverstellbare Füsse\nMaterial: Aluminium/Kunstholz\nFarbe: Schwarz/Teak-Holz Optik",
+    "gtin": "5714988054522",
+    "images": [
+      "https://www.simpli.ch/original/104796_1.jpg",
+      "https://www.simpli.ch/original/104796_2.jpg",
+      "https://www.simpli.ch/original/104796_3.jpg",
+      "https://www.simpli.ch/original/104796_4.jpg"
+    ],
+    "price": 5905,
+    "product_id": "104796",
+    "reference_number": "104796",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Teak"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Gartenmöbel"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Bistrotisch"
+          ]
+        },
+        {
+          "name": "Masse",
+          "value": [
+            "70x70"
+          ]
+        }
+      ],
+      "category": "Gartenmöbel / Bistrotisch",
+      "product_type": "Bistrotisch"
+    },
+    "stock": 1,
+    "title": "Bistrotisch MADS"
+  },
+  {
+    "condition": "new",
+    "description": "Die Solar Torch sorgt für stimmungsvolle Beleuchtung im Garten, auf der Terrasse oder entlang von Wegen. Mit ihrem schlanken Design und der schwarzen Oberfläche fügt sie sich dezent in verschiedene Aussenbereiche ein und setzt zugleich dekorative Lichtakzente.\nDas integrierte Solarpanel lädt den Akku tagsüber mit Sonnenenergie auf. Bei Einbruch der Dämmerung schaltet sich die Leuchte automatisch ein und sorgt für eine angenehme Atmosphäre im Aussenbereich. Durch die kompakte Bauform eignet sich die Solar Torch ideal für Beete, Wege oder Pflanzbereiche.\nMit einer Höhe von rund 50,5 cm wirkt die Leuchte leicht und modern. Die langlebige LED-Beleuchtung ermöglicht eine Betriebsdauer von bis zu 480 Minuten bei voller Ladung.\nWichtige Eigenschaften auf einen Blick:\n• Solarbetriebene Gartenleuchte für stimmungsvolle Beleuchtung\n• Amorphes Silizium-Solarpanel\n• Leuchtdauer bis zu ca. 480 Minuten\n• Schlankes Design in Schwarz\n• Masse: Ø 7,5 cm × Höhe 50,5 cm\n• Batterie: 2/3 AAA 100 mAh\n• Ideal für Garten, Wege oder Terrasse",
+    "gtin": "25714988063788",
+    "images": [
+      "https://www.simpli.ch/Products/105525.jpg",
+      "https://www.simpli.ch/original/105525_1.jpg",
+      "https://www.simpli.ch/original/105525_2.jpg",
+      "https://www.simpli.ch/original/105525_3.jpg"
+    ],
+    "price": 140,
+    "product_id": "105525",
+    "reference_number": "105525",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Schwarz"
+          ]
+        },
+        {
+          "name": "Merkmal",
+          "value": [
+            "Solar"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Gartenmöbel"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Torch"
+          ]
+        },
+        {
+          "name": "Anzahl Teile",
+          "value": [
+            "1"
+          ]
+        }
+      ],
+      "category": "Gartenmöbel / Torch",
+      "product_type": "Torch"
+    },
+    "stock": 140,
+    "title": "Solar Torch"
+  },
+  {
+    "condition": "new",
+    "description": "Diese Solar-Lichterkette sorgt für stimmungsvolle Beleuchtung im Garten, auf der Terrasse oder dem Balkon. Die 24 Lampen verteilen ein angenehmes Licht und schaffen eine gemütliche Atmosphäre für Sommerabende oder dekorative Akzente im Aussenbereich.\nDas integrierte Solarpanel lädt die Batterie tagsüber auf, sodass die Lichterkette bei Einbruch der Dunkelheit automatisch leuchtet. Dank kabellosem Betrieb lässt sie sich flexibel an Zäunen, Geländern, Bäumen oder Pergolen anbringen.\nMerkmale\nSolar-Lichterkette mit 24 Lampen\nAngenehmes, dekoratives Licht\nAutomatisches Laden durch Solarpanel\nKabelloser Betrieb\nIdeal für Garten, Terrasse und Balkon",
+    "gtin": "25714988065058",
+    "images": [
+      "https://www.simpli.ch/original/105649.jpg",
+      "https://www.simpli.ch/original/105649_1.jpg"
+    ],
+    "price": 570,
+    "product_id": "105649",
+    "reference_number": "105649",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Schwarz"
+          ]
+        },
+        {
+          "name": "Merkmal",
+          "value": [
+            "24 Lampen"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Gartenmöbel"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Lichterkette"
+          ]
+        },
+        {
+          "name": "Anzahl Teile",
+          "value": [
+            "1"
+          ]
+        }
+      ],
+      "category": "Gartenmöbel / Lichterkette",
+      "product_type": "Lichterkette"
+    },
+    "stock": 3,
+    "title": "Solar Lichterkette"
+  },
+  {
+    "condition": "new",
+    "description": "Bluetooth-Plattenspieler mit integriertem Lautsprecher, USB-, SD- und Micro-SD-Anschlüssen. Spielt und nimmt MP3 auf. Im Retro-Design, tragbar und in Vintage-Pastellfarben erhältlich. Unterstützt alle Vinyl-Grössen (7\", 10\", 12\") und drei Geschwindigkeiten.\nEigenschaften:\nWiedergabegeschwindigkeiten: 33/45/78 U/min\nLautsprecherleistung: 6 W (75 dB), Stereo\nAnschlüsse: USB, SD, Micro-SD, RCA/AUX-Ausgang\nBluetooth: Version 4.2\nAbmessungen: 350x260x115 mm\nGewicht: 2,4 kg\nKompatibilität: Unterstützt 7\", 10\", 12\" Vinyl-Formate\nZertifikate: CE & RoHS",
+    "gtin": "8435572613129",
+    "images": [
+      "https://www.simpli.ch/original/106185_211183_1.jpg",
+      "https://www.simpli.ch/original/106185_211183_2.jpg",
+      "https://www.simpli.ch/original/106185_211183_3.jpg",
+      "https://www.simpli.ch/original/106185_211183_4.jpg",
+      "https://www.simpli.ch/original/106185_211183_6.jpg"
+    ],
+    "price": 4750,
+    "product_id": "106185_211183",
+    "reference_number": "106185_211183",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "CREATE"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Pastellgrün"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Wohnen"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Musikanlage"
+          ]
+        }
+      ],
+      "category": "Wohnen / Musikanlage",
+      "product_type": "Musikanlage"
+    },
+    "stock": 2,
+    "title": "RECORD PLAYER POP"
+  },
+  {
+    "condition": "new",
+    "description": "Der Travel Mug hat ein Fassungsvermögen von 0,45 Litern und besteht aus Edelstahl, Kunststoff und Silikon. Mit einer Größe von Ø8,5/6,2H19 cm ist er handlich und passt in die meisten Auto- und Fahrradhalterungen. Der Reisebecher ist auslaufsicher und eignet sich perfekt für unterwegs. Das Set beinhaltet jeweils 3 Becher in den Farben Gelb (7502C), Natur (4047C) und Moosgrün (415C), so dass für jeden Geschmack etwas dabei ist. Der Becher ist robust, langlebig und kann einfach per Hand gereinigt werden. Der Travel Mug hält heiße Getränke warm und kalte Getränke kühl, so dass Sie Ihre Lieblingsgetränke überallhin mitnehmen können. Ob auf dem Weg zur Arbeit, beim Sport oder auf Reisen - dieser Becher ist ein praktischer Begleiter für unterwegs.",
+    "gtin": "5709386108090",
+    "images": [
+      "https://www.simpli.ch/original/10809_f.jpg",
+      "https://www.simpli.ch/original/10809_m.jpg"
+    ],
+    "price": 225,
+    "product_id": "10809",
+    "reference_number": "10809",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Farbig"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Thermo Trinkflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.45"
+          ]
+        }
+      ],
+      "category": "Outdoor / Thermo Trinkflasche",
+      "product_type": "Thermo Trinkflasche"
+    },
+    "stock": 11,
+    "title": "Travel Mug"
+  },
+  {
+    "condition": "new",
+    "description": "Der Eiswürfelbehälter aus Silikon ist ein 4-teiliges Set mit den Maßen 12,6x12,6x4,9 cm. Jeder Behälter hat Platz für 4 große runde Eiswürfel und kann mit Limetten, Minzblättern, Beeren oder anderen Zutaten gefüllt werden, um den Getränken einen besonderen Geschmack zu verleihen. Das Set beinhaltet jeweils 4 Behälter in den Farben Gelb (7502C), Natur (4047C) und Moosgrün (415C). Die Eiswürfelbehälter sind aus hochwertigem Silikon gefertigt und können einfach im Gefrierschrank aufbewahrt werden. Sie sind langlebig, leicht zu reinigen und können immer wieder verwendet werden. Mit diesem Set können Sie schnell und einfach Eiswürfel herstellen, um Ihre Getränke an heißen Tagen zu kühlen oder ihnen eine zusätzliche Geschmacksnote zu verleihen.",
+    "gtin": "5709386108281",
+    "images": [
+      "https://www.simpli.ch/original/10828_c.jpg",
+      "https://www.simpli.ch/original/10828_c1.jpg",
+      "https://www.simpli.ch/original/10828_f1.jpg",
+      "https://www.simpli.ch/original/10828_m.jpg"
+    ],
+    "price": 245,
+    "product_id": "10828",
+    "reference_number": "10828",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Schou"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Farbig"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Küche"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Eiswürfelbehälter"
+          ]
+        },
+        {
+          "name": "Anzahl Teile",
+          "value": [
+            "4"
+          ]
+        }
+      ],
+      "category": "Küche / Eiswürfelbehälter",
+      "product_type": "Eiswürfelbehälter"
+    },
+    "stock": 22,
+    "title": "Eiswürfelbehälter Silikon klein"
+  },
+  {
+    "condition": "new",
+    "description": "Ist Tee ganz und gar Ihr Ding? Dann werden Sie von unserem Tee-Accessoire begeistert sein! Lernen Sie den Tea Catcher kennen: den perfekten Partner für Ihren Etna-Reisebecher für unterwegs. Keine im Getränk herumschwirrenden Teeblätter mehr und auch kein überzogener, bitterer Tee mehr. Der Teefänger rastet in Ihr Teesieb ein (befriedigender Klang inklusive!), lässt Ihren Tee sicher einweichen und kann leicht entfernt werden, wenn der Aufgusszauber seine Arbeit getan hat. Sie fragen sich, wo der Teeauffangbehälter nach Gebrauch hingestellt werden soll? Natürlich in einer besonderen kleinen Box! Das erspart Ihnen einiges an Ärger beim Pendeln oder Bummeln und Trinken, finden Sie nicht auch?\n• Kompatibel mit Ihrem Etna-Reisebecher\n• BPA-frei\n• Spülmaschinenfest",
+    "gtin": "5407005142806",
+    "images": [
+      "https://www.simpli.ch/original/11-01054_2.png",
+      "https://www.simpli.ch/original/11-01054_1.png",
+      "https://www.simpli.ch/original/11-01054_3.png",
+      "https://www.simpli.ch/original/11-01054_4.png",
+      "https://www.simpli.ch/original/11-01054_6.jpg",
+      "https://www.simpli.ch/original/11-01054_7.jpg",
+      "https://www.simpli.ch/original/11-01054_8.jpg"
+    ],
+    "price": 495,
+    "product_id": "11-01023",
+    "reference_number": "11-01023",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Schwarz"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Trinkflasche + Thermosflasche Zubehör"
+          ]
+        }
+      ],
+      "category": "Outdoor / Trinkflasche + Thermosflasche Zubehör",
+      "product_type": "Trinkflasche + Thermosflasche Zubehör"
+    },
+    "stock": 12,
+    "title": "Tea Catcher"
+  },
+  {
+    "condition": "new",
+    "description": "Der Etna Daydream Madras 500 ml kombiniert modernes Design mit höchster Funktionalität. Dank doppelwandigem, vakuumisoliertem Edelstahl bleiben Getränke bis zu 9 Stunden heiss oder 18 Stunden kalt, während das elegante Morning Glory-Design für einen stilvollen Look sorgt.\nMit dem 100 % auslaufsicheren 3-in-1-Snapclean-Deckel trinken Sie genau so, wie Sie es möchten:\n✔ Push-to-drink für kontrolliertes Trinken\n✔ Geöffnete Position für ein schnelles Schluck-Erlebnis\n✔ Verriegelt für absolute Sicherheit in der Tasche\nDer einhändige Trinkmechanismus sorgt für maximalen Komfort, egal ob unterwegs, im Büro oder beim Sport. Die rutschfeste Unterseite garantiert sicheren Stand auf jeder Oberfläche.\nNach dem Genuss? Kein Problem! Der Snapclean-Deckel ist spülmaschinenfest, während der Becher durch seine BPA-freie Konstruktion für bedenkenlosen Trinkgenuss sorgt.",
+    "gtin": "5407005143292",
+    "images": [
+      "https://www.simpli.ch/original/11-01045.jpg",
+      "https://www.simpli.ch/original/11-01045_1.jpg",
+      "https://www.simpli.ch/original/11-01045_2.jpg"
+    ],
+    "price": 1700,
+    "product_id": "11-01045",
+    "reference_number": "11-01045",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Rosa,Gelb"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Trinkflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.5"
+          ]
+        }
+      ],
+      "category": "Outdoor / Trinkflasche",
+      "product_type": "Trinkflasche"
+    },
+    "stock": 10,
+    "title": "Etna, Daydream Madras"
+  },
+  {
+    "condition": "new",
+    "description": "Entdecken Sie Etna, Ihren isolierten 500-ml-Reisebecher (17 oz), der Ihren Kaffee oder Tee bis zu 9 Stunden heiss (oder bis zu 18 Stunden kalt) hält. Mit unserem auslauf- und auslaufsicheren Becher mit multifunktionalem Deckel eröffnen sich Ihnen eine Welt voller Trinkerlebnisse. Wechseln Sie ganz einfach mit einem einfachen Knopfdruck von einem immer geöffneten Trinkmodus zu „Push-to-drink“ oder zu 100 % verriegelt. Geniessen Sie das einhändige Trinken und nippen Sie wie ein Chef an Ihrem Heissgetränk. Hergestellt aus doppelwandigem, vakuumisoliertem 18/8-Edelstahl für erstklassige Qualität. Ihr Etna-Reisebecher ist BPA-frei, sodass Sie sicher und gesund daran nippen können. Und mit seinen leuchtenden Farben ist es die perfekte Ergänzung für Ihr Pendelabenteuer! Nachher? Mit Snapclean®, dem abnehmbaren Teil im Deckel, können Sie das Gehäuse und den Deckel von Etna ganz einfach in der Spülmaschine reinigen.\n• Bis zu 9 Stunden heiss und 18 Stunden kalt\n• Leises und rutschfestes Bodenpolster\n• BPA-frei\n• Spülmaschinenfester Deckel\n• Doppelwandiger, vakuumisolierter 18/8-Edelstahl",
+    "gtin": "5407005143322",
+    "images": [
+      "https://www.simpli.ch/original/11-01048_1.png",
+      "https://www.simpli.ch/original/11-01048_2.png",
+      "https://www.simpli.ch/original/11-01048_3.png",
+      "https://www.simpli.ch/original/11-01048_4.png",
+      "https://www.simpli.ch/original/11-01048_6.jpg",
+      "https://www.simpli.ch/original/11-01048_7.jpg",
+      "https://www.simpli.ch/original/11-01048_8.jpg"
+    ],
+    "price": 1315,
+    "product_id": "11-01048",
+    "reference_number": "11-01048",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Pink"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Thermosflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.5"
+          ]
+        }
+      ],
+      "category": "Outdoor / Thermosflasche",
+      "product_type": "Thermosflasche"
+    },
+    "stock": 31,
+    "title": "Etna Grip, Diva Pink"
+  },
+  {
+    "condition": "new",
+    "description": "Entdecken Sie Etna, Ihren isolierten 500-ml-Reisebecher (17 oz), der Ihren Kaffee oder Tee bis zu 9 Stunden heiss (oder bis zu 18 Stunden kalt) hält. Mit unserem auslauf- und auslaufsicheren Becher mit multifunktionalem Deckel eröffnen sich Ihnen eine Welt voller Trinkerlebnisse. Wechseln Sie ganz einfach mit einem einfachen Knopfdruck von einem immer geöffneten Trinkmodus zu „Push-to-drink“ oder zu 100 % verriegelt. Geniessen Sie das einhändige Trinken und nippen Sie wie ein Chef an Ihrem Heissgetränk. Hergestellt aus doppelwandigem, vakuumisoliertem 18/8-Edelstahl für erstklassige Qualität. Ihr Etna-Reisebecher ist BPA-frei, sodass Sie sicher und gesund daran nippen können. Und mit seinen leuchtenden Farben ist es die perfekte Ergänzung für Ihr Pendelabenteuer! Nachher? Mit Snapclean®, dem abnehmbaren Teil im Deckel, können Sie das Gehäuse und den Deckel von Etna ganz einfach in der Spülmaschine reinigen.\n• Bis zu 9 Stunden heiss und 18 Stunden kalt\n• Leises und rutschfestes Bodenpolster\n• BPA-frei\n• Spülmaschinenfester Deckel\n• Doppelwandiger, vakuumisolierter 18/8-Edelstahl",
+    "gtin": "5407005143865",
+    "images": [
+      "https://www.simpli.ch/original/11-01049_1.jpg",
+      "https://www.simpli.ch/original/11-01049_2.png",
+      "https://www.simpli.ch/original/11-01049_3.png",
+      "https://www.simpli.ch/original/11-01049_4.png",
+      "https://www.simpli.ch/original/11-01049_6.jpg",
+      "https://www.simpli.ch/original/11-01049_7.jpg",
+      "https://www.simpli.ch/original/11-01049_8.jpg",
+      "https://www.simpli.ch/original/11-01049_9.jpg"
+    ],
+    "price": 1315,
+    "product_id": "11-01049",
+    "reference_number": "11-01049",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Rosa, Violett"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Thermosflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.5"
+          ]
+        }
+      ],
+      "category": "Outdoor / Thermosflasche",
+      "product_type": "Thermosflasche"
+    },
+    "stock": 41,
+    "title": "Etna Grip, Pale Purple"
+  },
+  {
+    "condition": "new",
+    "description": "Der Thermobecher Olympus 500 ml ist der ideale Begleiter für heiße und kalte Getränke im Alltag. Dank doppelwandiger Vakuumisolierung aus Edelstahl bleiben Heißgetränke bis zu 9 Stunden warm und kalte Drinks bis zu 18 Stunden angenehm kühl. Das schlichte, funktionale Design liegt gut in der Hand und passt problemlos in gängige Getränkehalter.\nDer praktische Click-Deckel ermöglicht bequemes Trinken mit einer Hand. Durch den auslaufsicheren Verschluss eignet sich der Becher perfekt für unterwegs, im Büro oder auf Reisen. Die rutschfeste Unterseite sorgt für einen sicheren Stand, während das Snapclean®-System eine besonders einfache Reinigung ermöglicht.\nDurchdachte Funktion & Alltagstauglichkeit\n✔ Doppelwandige Vakuumisolierung – Hält Getränke lange heiß oder kalt\n✔ Click-Lid – Einfaches Öffnen und Schließen per Knopfdruck\n✔ Auslaufsicher – Kein Tropfen, kein Verschütten\n✔ Snapclean® Mechanismus – Abnehmbares Teil für schnelle und gründliche Reinigung\n✔ Spülmaschinenfester Deckel – Pflegeleicht im Alltag\n✔ Rutschfester Boden – Sicherer Stand auf glatten Flächen\n✔ BPA-frei – Geeignet für den täglichen Gebrauch\nTechnische Daten:\nFüllmenge: 500 ml\nHöhe: 20,2 cm\nHöhe ohne Deckel: 18,2 cm\nDurchmesser: 7,1 cm\nMaterial: Doppelwandiger Edelstahl\nIsolierleistung:\n– Heiß bis zu 9 Stunden\n– Kalt bis zu 18 Stunden",
+    "gtin": "5407005142332",
+    "images": [
+      "https://www.simpli.ch/original/11-02013_1.png",
+      "https://www.simpli.ch/original/11-02013_2.png",
+      "https://www.simpli.ch/original/11-02013_3.png",
+      "https://www.simpli.ch/original/11-02013_4.jpg"
+    ],
+    "price": 985,
+    "product_id": "11-02013",
+    "reference_number": "11-02013",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Blau"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Thermosflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.5"
+          ]
+        }
+      ],
+      "category": "Outdoor / Thermosflasche",
+      "product_type": "Thermosflasche"
+    },
+    "stock": 7,
+    "title": "Thermobecher Olympus"
+  },
+  {
+    "condition": "new",
+    "description": "Der Thermobecher Olympus 500 ml ist der ideale Begleiter für heiße und kalte Getränke im Alltag. Dank doppelwandiger Vakuumisolierung aus Edelstahl bleiben Heißgetränke bis zu 9 Stunden warm und kalte Drinks bis zu 18 Stunden angenehm kühl. Das schlichte, funktionale Design liegt gut in der Hand und passt problemlos in gängige Getränkehalter.\nDer praktische Click-Deckel ermöglicht bequemes Trinken mit einer Hand. Durch den auslaufsicheren Verschluss eignet sich der Becher perfekt für unterwegs, im Büro oder auf Reisen. Die rutschfeste Unterseite sorgt für einen sicheren Stand, während das Snapclean®-System eine besonders einfache Reinigung ermöglicht.\nDurchdachte Funktion & Alltagstauglichkeit\n✔ Doppelwandige Vakuumisolierung – Hält Getränke lange heiß oder kalt\n✔ Click-Lid – Einfaches Öffnen und Schließen per Knopfdruck\n✔ Auslaufsicher – Kein Tropfen, kein Verschütten\n✔ Snapclean® Mechanismus – Abnehmbares Teil für schnelle und gründliche Reinigung\n✔ Spülmaschinenfester Deckel – Pflegeleicht im Alltag\n✔ Rutschfester Boden – Sicherer Stand auf glatten Flächen\n✔ BPA-frei – Geeignet für den täglichen Gebrauch\nTechnische Daten:\nFüllmenge: 500 ml\nHöhe: 20,2 cm\nHöhe ohne Deckel: 18,2 cm\nDurchmesser: 7,1 cm\nMaterial: Doppelwandiger Edelstahl\nIsolierleistung:\n– Heiß bis zu 9 Stunden\n– Kalt bis zu 18 Stunden",
+    "gtin": "5407005143339",
+    "images": [
+      "https://www.simpli.ch/original/11-02016_1.png",
+      "https://www.simpli.ch/original/11-02016_2.png",
+      "https://www.simpli.ch/original/11-02016_3.png",
+      "https://www.simpli.ch/original/11-02016_4.jpg",
+      "https://www.simpli.ch/original/11-02016_6.jpg",
+      "https://www.simpli.ch/original/11-02016_7.png"
+    ],
+    "price": 985,
+    "product_id": "11-02016",
+    "reference_number": "11-02016",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Schwarz"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Thermosflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.5"
+          ]
+        }
+      ],
+      "category": "Outdoor / Thermosflasche",
+      "product_type": "Thermosflasche"
+    },
+    "stock": 7,
+    "title": "Thermobecher Olympus"
+  },
+  {
+    "condition": "new",
+    "description": "Entdecken Sie Elton, Ihre auslauf- und auslaufsichere 500-ml-Wasserflasche (17 oz). Entdecken Sie eine Welt voller Flüssigkeitszufuhr mit dem multifunktionalen Deckel: Mit nur einem Knopfdruck wechseln Sie zwischen den Optionen, von immer offen oder 100 % verschlossen Der Deckel zum Aufstecken ist aus Tritan Renew gefertigt und gewährleistet nicht nur eine flecken- und geruchsfreie Flasche, sondern auch einen stossfesten Körper (gemacht für alle Ihre zukünftigen Abenteuer). Ist die Flasche zu 50 % aus zertifiziertem Recyclingmaterial? Wir wollen nur das Beste für Sie (wir wissen, dass es keinen Planeten B gibt). Elton ist BPA-frei, sodass Ihre Schlucke dank der leuchtenden Farben und des Tragegriffs auch sicher und gesund sind , es ist die perfekte Ergänzung für Ihren Pendelverkehr! Vollständig hydriert? Pop Elton in der Spülmaschine, oder?\n• Spülmaschinenfest\n• Flecken- und geruchsfreier Körper\n• BPA-frei\n• 50 % zertifiziertes Recyclingmaterial\n• Schlagfester Körper",
+    "gtin": "5407005143384",
+    "images": [
+      "https://www.simpli.ch/original/11-03026_2.png",
+      "https://www.simpli.ch/original/11-03026_1.png",
+      "https://www.simpli.ch/original/11-03026_3.png",
+      "https://www.simpli.ch/original/11-03026_4.png",
+      "https://www.simpli.ch/original/11-03026_6.jpg",
+      "https://www.simpli.ch/original/11-03026_7.jpg",
+      "https://www.simpli.ch/original/11-03026_8.jpg"
+    ],
+    "price": 690,
+    "product_id": "11-03026",
+    "reference_number": "11-03026",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Blau"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Trinkflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.5"
+          ]
+        }
+      ],
+      "category": "Outdoor / Trinkflasche",
+      "product_type": "Trinkflasche"
+    },
+    "stock": 15,
+    "title": "Elton, Tropical Blue"
+  },
+  {
+    "condition": "new",
+    "description": "Entdecken Sie Elton, Ihre auslauf- und auslaufsichere 500-ml-Wasserflasche. Entdecken Sie eine Welt voller Flüssigkeitszufuhr mit dem multifunktionalen Deckel: Mit nur einem Knopfdruck wechseln Sie zwischen den Optionen, von einem immer geöffneten oder 100 % verriegelten Deckel bis hin zu Push-to-drink. Elton ist aus Tritan Renew gefertigt und bietet erstklassige Qualität. Dies gewährleistet nicht nur eine flecken- und geruchsfreie Flasche, sondern auch ein stossfestes Gehäuse (gemacht für alle Ihre zukünftigen Abenteuer). Oh, haben wir schon erwähnt, dass die Flasche zu 50 % aus zertifiziertem Recyclingmaterial besteht? Wir wollen nur das Beste für Sie (wir wissen, dass es keinen Planeten B gibt). Elton ist BPA-frei, sodass auch Ihre Schlucke sicher und gesund sind. Mit seinen leuchtenden Farben und dem Tragegriff ist es die perfekte Ergänzung für Ihren Arbeitsweg! Vollständig hydriert? Pop Elton in der Spülmaschine. Einfach richtig?\n• Spülmaschinenfest\n• Flecken- und geruchsfreier Körper\n• BPA-frei\n• 50 % zertifiziertes Recyclingmaterial\n• Schlagfester Körper",
+    "gtin": "5407005143391",
+    "images": [
+      "https://www.simpli.ch/original/11-03027_1.png",
+      "https://www.simpli.ch/original/11-03027_2.png",
+      "https://www.simpli.ch/original/11-03027_3.png",
+      "https://www.simpli.ch/original/11-03027_4.png",
+      "https://www.simpli.ch/original/11-03027_6.jpg",
+      "https://www.simpli.ch/original/11-03027_7.jpg",
+      "https://www.simpli.ch/original/11-03027_8.jpg",
+      "https://www.simpli.ch/original/11-03027_9.jpg"
+    ],
+    "price": 690,
+    "product_id": "11-03027",
+    "reference_number": "11-03027",
+    "specification": {
+      "attributes": [
+        {
+          "name": "Marke",
+          "value": [
+            "Kambukka"
+          ]
+        },
+        {
+          "name": "Farbe",
+          "value": [
+            "Rosa"
+          ]
+        },
+        {
+          "name": "Produktlinie",
+          "value": [
+            "Outdoor"
+          ]
+        },
+        {
+          "name": "Familie",
+          "value": [
+            "Trinkflasche"
+          ]
+        },
+        {
+          "name": "Volumen",
+          "value": [
+            "0.5"
+          ]
+        }
+      ],
+      "category": "Outdoor / Trinkflasche",
+      "product_type": "Trinkflasche"
+    },
+    "stock": 10,
+    "title": "Elton, Barely Blush"
+  }
+]
